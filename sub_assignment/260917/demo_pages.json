@@ -1,0 +1,91 @@
+{
+  "video": {
+    "video_id": "DEMO_VIDEO_1",
+    "title": "가상 뉴스 영상 - 실제 JTBC 데이터가 아님",
+    "channel_title": "DEMO_FICTIONAL",
+    "published_at": "2026-09-15T09:00:00Z",
+    "url": "https://example.invalid/demo-video",
+    "api_reported_comment_count": 4
+  },
+  "thread_pages": [
+    {
+      "items": [
+        {
+          "snippet": {
+            "topLevelComment": {
+              "id": "DEMO_TOP_1",
+              "snippet": {
+                "authorDisplayName": "가상 이용자 1",
+                "authorChannelId": {"value": "DEMO_CHANNEL_1"},
+                "textDisplay": "보도의 배경을 더 알고 싶어요.",
+                "publishedAt": "2026-09-15T10:00:00Z",
+                "updatedAt": "2026-09-15T10:00:00Z",
+                "likeCount": 3
+              }
+            },
+            "totalReplyCount": 1
+          }
+        }
+      ],
+      "nextPageToken": "DEMO_THREAD_PAGE_2"
+    },
+    {
+      "items": [
+        {
+          "snippet": {
+            "topLevelComment": {
+              "id": "DEMO_TOP_2",
+              "snippet": {
+                "authorDisplayName": "가상 이용자 2",
+                "authorChannelId": {"value": "DEMO_CHANNEL_2"},
+                "textDisplay": "자료의 출처가 궁금합니다.",
+                "publishedAt": "2026-09-15T10:05:00Z",
+                "updatedAt": "2026-09-15T10:06:00Z",
+                "likeCount": 5
+              }
+            },
+            "totalReplyCount": 1
+          }
+        }
+      ]
+    }
+  ],
+  "reply_pages": {
+    "DEMO_TOP_1": [
+      {
+        "items": [
+          {
+            "id": "DEMO_REPLY_1",
+            "snippet": {
+              "parentId": "DEMO_TOP_1",
+              "authorDisplayName": "가상 답글 이용자 1",
+              "authorChannelId": {"value": "DEMO_REPLY_CHANNEL_1"},
+              "textDisplay": "저도 같은 점이 궁금합니다.",
+              "publishedAt": "2026-09-15T10:10:00Z",
+              "updatedAt": "2026-09-15T10:10:00Z",
+              "likeCount": 2
+            }
+          }
+        ]
+      }
+    ],
+    "DEMO_TOP_2": [
+      {
+        "items": [
+          {
+            "id": "DEMO_REPLY_2",
+            "snippet": {
+              "parentId": "DEMO_TOP_2",
+              "authorDisplayName": "가상 답글 이용자 2",
+              "authorChannelId": {"value": "DEMO_REPLY_CHANNEL_2"},
+              "textDisplay": "영상 설명란도 확인해 보세요.",
+              "publishedAt": "2026-09-15T10:15:00Z",
+              "updatedAt": "2026-09-15T10:15:00Z",
+              "likeCount": 1
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

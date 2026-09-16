@@ -1,0 +1,3 @@
+google-api-python-client>=2.181,<3
+python-dotenv>=1.1,<2
+psycopg2-binary>=2.9,<3

@@ -1,0 +1,14 @@
+.env
+keys.env
+db info.txt
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# 수집 결과에는 공개 댓글 원문이 포함되므로 제출 범위를 확인한 뒤 별도 관리한다.
+output/
+
+# 과제 코드를 참고하기 위해 복제한 외부 저장소는 이 저장소에 다시 올리지 않는다.
+reference/
+tmp/
