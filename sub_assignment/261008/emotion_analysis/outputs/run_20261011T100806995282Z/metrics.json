@@ -1,0 +1,209 @@
+{
+  "data": {
+    "input_rows": 201,
+    "annotation_rows_removed": 1,
+    "replies_removed": 0,
+    "top_level_rows": 200,
+    "deduplicated_rows": 200,
+    "duplicates_removed": 0,
+    "groups": 200,
+    "source_types": [
+      "user_provided_comments"
+    ],
+    "text_column": "translated_ko",
+    "target_column": "label",
+    "label_names": {
+      "0": "부정",
+      "1": "긍정",
+      "2": "중립",
+      "3": "혼합",
+      "4": "판단 불가"
+    },
+    "label_name_mismatches": 62,
+    "gt_policy": "numeric label is authoritative; label_name/human_label/is_trainable are not GT",
+    "group_method": "connected components of text, provided group_id and author_channel_id",
+    "preprocessing": "NFKC, HTML unescape, whitespace; URL/email/phone/handle placeholders; punctuation and emoji preserved"
+  },
+  "data_sha256": "23a34845d41df2381a8c957ff7ccca83c6e455bafed81a90cd378229d3a8e54f",
+  "seed": 42,
+  "split_method": "StratifiedGroupKFold: 5 folds then 4 folds",
+  "split_sizes": {
+    "train": 120,
+    "validation": 40,
+    "test": 40
+  },
+  "split_label_counts": {
+    "train": {
+      "0": 34,
+      "1": 55,
+      "2": 22,
+      "3": 6,
+      "4": 3
+    },
+    "validation": {
+      "0": 11,
+      "1": 19,
+      "2": 7,
+      "3": 2,
+      "4": 1
+    },
+    "test": {
+      "0": 12,
+      "1": 18,
+      "2": 8,
+      "3": 1,
+      "4": 1
+    }
+  },
+  "labels": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "label_names": {
+    "0": "부정",
+    "1": "긍정",
+    "2": "중립",
+    "3": "혼합",
+    "4": "판단 불가"
+  },
+  "selection_metric": "validation f1_macro; ties use fixed candidate order",
+  "candidate_priority": [
+    "unigram",
+    "unigram_bigram",
+    "linear_svm",
+    "multinomial_nb",
+    "xgboost",
+    "lstm"
+  ],
+  "candidate_settings": {
+    "unigram": {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "classifier": "LogisticRegression",
+      "parameters": {
+        "C": 1.0,
+        "class_weight": null,
+        "dual": false,
+        "fit_intercept": true,
+        "intercept_scaling": 1,
+        "l1_ratio": 0.0,
+        "max_iter": 1000,
+        "n_jobs": null,
+        "penalty": "deprecated",
+        "random_state": 42,
+        "solver": "lbfgs",
+        "tol": 0.0001,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    "unigram_bigram": {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "classifier": "LogisticRegression",
+      "parameters": {
+        "C": 1.0,
+        "class_weight": null,
+        "dual": false,
+        "fit_intercept": true,
+        "intercept_scaling": 1,
+        "l1_ratio": 0.0,
+        "max_iter": 1000,
+        "n_jobs": null,
+        "penalty": "deprecated",
+        "random_state": 42,
+        "solver": "lbfgs",
+        "tol": 0.0001,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    "linear_svm": {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "classifier": "LinearSVC",
+      "parameters": {
+        "C": 1.0,
+        "class_weight": null,
+        "dual": "auto",
+        "fit_intercept": true,
+        "intercept_scaling": 1,
+        "loss": "squared_hinge",
+        "max_iter": 5000,
+        "multi_class": "ovr",
+        "penalty": "l2",
+        "random_state": 42,
+        "tol": 0.0001,
+        "verbose": 0
+      }
+    },
+    "multinomial_nb": {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "classifier": "MultinomialNB",
+      "parameters": {
+        "alpha": 1.0,
+        "class_prior": null,
+        "fit_prior": true,
+        "force_alpha": true
+      }
+    },
+    "xgboost": {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "classifier": "EmotionXGBClassifier",
+      "parameters": {
+        "n_estimators": 200,
+        "seed": 42
+      }
+    },
+    "lstm": {
+      "seed": 42,
+      "max_epochs": 20,
+      "epochs_run": 10,
+      "max_tokens": 10000,
+      "vocabulary_size": 1828,
+      "sequence_length": 92,
+      "length_policy": "train p95 capped at max_length",
+      "max_length": 128,
+      "embedding_dim": 64,
+      "units": 64,
+      "batch_size": 32,
+      "patience": 3,
+      "early_stopping": "validation loss; restore_best_weights=True",
+      "label_mapping": "public and internal [0,1,2,3,4]; 0 is negative"
+    }
+  },
+  "selected_model": "xgboost",
+  "selected_ngram_range": [
+    1,
+    2
+  ],
+  "beats_majority_baseline": true,
+  "fit_scope": "train only, including vocabulary/IDF; LSTM validation early stopping; no validation refit",
+  "decision_rule": "argmax in [1,2,3,4] order; SVM decision margins",
+  "test_evaluated": false,
+  "versions": {
+    "python": "3.12.14",
+    "pandas": "2.2.3",
+    "scikit_learn": "1.8.0",
+    "numpy": "1.26.4",
+    "matplotlib": "3.10.8",
+    "xgboost": "3.1.2",
+    "tensorflow": "2.20.0"
+  },
+  "warning": "Scores depend on human GT, translation and sampled comments. Class 4 is a labeled training class, not an automatic low-confidence rejection. Probabilities are not emotion intensity."
+}

@@ -1,0 +1,16 @@
+{
+  "seed": 42,
+  "max_epochs": 20,
+  "epochs_run": 10,
+  "max_tokens": 10000,
+  "vocabulary_size": 1828,
+  "sequence_length": 92,
+  "length_policy": "train p95 capped at max_length",
+  "max_length": 128,
+  "embedding_dim": 64,
+  "units": 64,
+  "batch_size": 32,
+  "patience": 3,
+  "early_stopping": "validation loss; restore_best_weights=True",
+  "label_mapping": "public and internal [0,1,2,3,4]; 0 is negative"
+}

@@ -1,0 +1,13 @@
+﻿class_label,class_name,feature,weight,weight_type,plot_label
+all,all,뭐가 다른거지,0.0,tree_importance,뭐가 다른거지
+all,all,( 쉿,0.0,tree_importance,( 쉿
+all,all,( 아,0.0,tree_importance,( 아
+all,all,( 우,0.0,tree_importance,( 우
+all,all,( 조심해,0.0,tree_importance,( 조심해
+all,all,( 주의해,0.0,tree_importance,( 주의해
+all,all,모두,0.029509338,tree_importance,모두
+all,all,-,0.029988194,tree_importance,-
+all,all,(,0.039850995,tree_importance,(
+all,all,봐,0.042491734,tree_importance,봐
+all,all,않은,0.04386568,tree_importance,않은
+all,all,같은,0.05564195,tree_importance,같은

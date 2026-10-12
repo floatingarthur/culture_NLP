@@ -1,0 +1,8 @@
+{
+  "text_column": "translated_ko",
+  "target_column": "label",
+  "labels": {"0": "부정", "1": "긍정", "2": "중립", "3": "혼합", "4": "판단 불가"},
+  "negative_class": true,
+  "undetermined_is_training_class": true,
+  "missing_labels_are_not_undetermined": true
+}

@@ -1,0 +1,4963 @@
+﻿class_label,class_name,feature,weight,weight_type
+all,all,뭐가 다른거지,0.0,tree_importance
+all,all,안무,0.0,tree_importance
+all,all,안드로이드인지 뭔지들을,0.0,tree_importance
+all,all,안드로이드인지,0.0,tree_importance
+all,all,"안달이네 """,0.0,tree_importance
+all,all,안달이네,0.0,tree_importance
+all,all,안녕하세요 .,0.0,tree_importance
+all,all,안녕하세요,0.0,tree_importance
+all,all,안 쓸,0.0,tree_importance
+all,all,안 보여주니,0.0,tree_importance
+all,all,안 들었지만,0.0,tree_importance
+all,all,안 들어,0.0,tree_importance
+all,all,안 된다고,0.0,tree_importance
+all,all,안 된,0.0,tree_importance
+all,all,안 되는,0.0,tree_importance
+all,all,안 돼,0.0,tree_importance
+all,all,안무 3,0.0,tree_importance
+all,all,안 내놓고,0.0,tree_importance
+all,all,안무 뒤에는,0.0,tree_importance
+all,all,안무까지 .,0.0,tree_importance
+all,all,않냐,0.0,tree_importance
+all,all,않고 지나치게,0.0,tree_importance
+all,all,않고,0.0,tree_importance
+all,all,안했으면 좋겠다,0.0,tree_importance
+all,all,안했으면,0.0,tree_importance
+all,all,안타깝네요 .,0.0,tree_importance
+all,all,안타깝네요,0.0,tree_importance
+all,all,안으로 들어가는,0.0,tree_importance
+all,all,안으로,0.0,tree_importance
+all,all,안무와 mv,0.0,tree_importance
+all,all,안무와,0.0,tree_importance
+all,all,안무에 맞을,0.0,tree_importance
+all,all,안무에,0.0,tree_importance
+all,all,안무도 좀,0.0,tree_importance
+all,all,안무도,0.0,tree_importance
+all,all,안무까지,0.0,tree_importance
+all,all,악플러들에게 :,0.0,tree_importance
+all,all,악플러들에게,0.0,tree_importance
+all,all,악플러가 아니고,0.0,tree_importance
+all,all,아티스트들이,0.0,tree_importance
+all,all,아칼리와 같고,0.0,tree_importance
+all,all,아칼리와,0.0,tree_importance
+all,all,아직도 유명하지,0.0,tree_importance
+all,all,아직도,0.0,tree_importance
+all,all,아주 이상하지만,0.0,tree_importance
+all,all,아주 명확한,0.0,tree_importance
+all,all,아주,0.0,tree_importance
+all,all,아이브 최고,0.0,tree_importance
+all,all,아이브,0.0,tree_importance
+all,all,아이디어를 가져야,0.0,tree_importance
+all,all,아이디어를,0.0,tree_importance
+all,all,아이돌이 자기,0.0,tree_importance
+all,all,아이돌이,0.0,tree_importance
+all,all,아이돌의 콘셉트에,0.0,tree_importance
+all,all,아티스트들이 있어요,0.0,tree_importance
+all,all,아티스트라면,0.0,tree_importance
+all,all,아티스트라면 작업에,0.0,tree_importance
+all,all,아티스트상을,0.0,tree_importance
+all,all,악플러가,0.0,tree_importance
+all,all,악의는 없지만,0.0,tree_importance
+all,all,악의는 없어요,0.0,tree_importance
+all,all,악의는 없어,0.0,tree_importance
+all,all,악의는 없는데,0.0,tree_importance
+all,all,악을 가져와,0.0,tree_importance
+all,all,악을,0.0,tree_importance
+all,all,않냐 🥹,0.0,tree_importance
+all,all,악성 팬을,0.0,tree_importance
+all,all,악성 my들이,0.0,tree_importance
+all,all,악성 k팝,0.0,tree_importance
+all,all,악성,0.0,tree_importance
+all,all,악마와 싸우는,0.0,tree_importance
+all,all,악마와 계약한,0.0,tree_importance
+all,all,악마와,0.0,tree_importance
+all,all,아티스트상을 수상해야,0.0,tree_importance
+all,all,악성 팬들에게,0.0,tree_importance
+all,all,아이돌의 개선된,0.0,tree_importance
+all,all,않네,0.0,tree_importance
+all,all,않는,0.0,tree_importance
+all,all,알고리즘이,0.0,tree_importance
+all,all,알고 즐기고,0.0,tree_importance
+all,all,알고 싶어요,0.0,tree_importance
+all,all,알고,0.0,tree_importance
+all,all,알게 됐는데,0.0,tree_importance
+all,all,알게,0.0,tree_importance
+all,all,않죠 .,0.0,tree_importance
+all,all,않죠,0.0,tree_importance
+all,all,않음 이렇게,0.0,tree_importance
+all,all,않음 3개월째,0.0,tree_importance
+all,all,않음 2개월째,0.0,tree_importance
+all,all,않음,0.0,tree_importance
+all,all,않을까요 ?,0.0,tree_importance
+all,all,않을까요,0.0,tree_importance
+all,all,않을 것,0.0,tree_importance
+all,all,알고리즘이 작동하긴,0.0,tree_importance
+all,all,않을 거야,0.0,tree_importance
+all,all,알아,0.0,tree_importance
+all,all,알아 보여주러,0.0,tree_importance
+all,all,애니메이션 뮤지컬과,0.0,tree_importance
+all,all,애니메이션,0.0,tree_importance
+all,all,애니 캐릭터를,0.0,tree_importance
+all,all,애니 캐릭터나,0.0,tree_importance
+all,all,애니,0.0,tree_importance
+all,all,앞으로 더,0.0,tree_importance
+all,all,앞으로,0.0,tree_importance
+all,all,"알지만 ,",0.0,tree_importance
+all,all,알지만,0.0,tree_importance
+all,all,알았는데 사실상,0.0,tree_importance
+all,all,알았는데,0.0,tree_importance
+all,all,알았네 ❤,0.0,tree_importance
+all,all,알았네,0.0,tree_importance
+all,all,알아줬으면 해,0.0,tree_importance
+all,all,알아줬으면,0.0,tree_importance
+all,all,알아 (,0.0,tree_importance
+all,all,않을,0.0,tree_importance
+all,all,"않은데 ,",0.0,tree_importance
+all,all,않은데,0.0,tree_importance
+all,all,않아서 좋아요,0.0,tree_importance
+all,all,않아서,0.0,tree_importance
+all,all,않아도 되고,0.0,tree_importance
+all,all,않아도,0.0,tree_importance
+all,all,않아 .,0.0,tree_importance
+all,all,않아,0.0,tree_importance
+all,all,않습니다 .,0.0,tree_importance
+all,all,않습니다,0.0,tree_importance
+all,all,않다면 가능한,0.0,tree_importance
+all,all,않다면,0.0,tree_importance
+all,all,않다는 건,0.0,tree_importance
+all,all,않다는,0.0,tree_importance
+all,all,않는 메이브는,0.0,tree_importance
+all,all,않는 그룹과,0.0,tree_importance
+all,all,않는 게,0.0,tree_importance
+all,all,않아아아,0.0,tree_importance
+all,all,않아아아 ✨,0.0,tree_importance
+all,all,않아요 .,0.0,tree_importance
+all,all,않아요 😅,0.0,tree_importance
+all,all,않은 경우를,0.0,tree_importance
+all,all,않은 게,0.0,tree_importance
+all,all,않은 걸,0.0,tree_importance
+all,all,"않으면서도 ,",0.0,tree_importance
+all,all,않으면서도,0.0,tree_importance
+all,all,않으면 스스로,0.0,tree_importance
+all,all,않으면 데뷔하면,0.0,tree_importance
+all,all,않네 🤡,0.0,tree_importance
+all,all,않으면,0.0,tree_importance
+all,all,않으니까요,0.0,tree_importance
+all,all,않았어 .,0.0,tree_importance
+all,all,않았어,0.0,tree_importance
+all,all,않았습니다 .,0.0,tree_importance
+all,all,않았습니다,0.0,tree_importance
+all,all,않았다는 사실에,0.0,tree_importance
+all,all,않았다는,0.0,tree_importance
+all,all,않으니까요 .,0.0,tree_importance
+all,all,애니메이션 영화에는,0.0,tree_importance
+all,all,아이돌의,0.0,tree_importance
+all,all,아이돌보다,0.0,tree_importance
+all,all,싸우는거얌,0.0,tree_importance
+all,all,싸우는 세,0.0,tree_importance
+all,all,싸우는,0.0,tree_importance
+all,all,싶진 않은데,0.0,tree_importance
+all,all,싶진,0.0,tree_importance
+all,all,싶은 농담은,0.0,tree_importance
+all,all,싶은,0.0,tree_importance
+all,all,싶었을 거예요,0.0,tree_importance
+all,all,싶었을,0.0,tree_importance
+all,all,싶었어 .,0.0,tree_importance
+all,all,싶었어,0.0,tree_importance
+all,all,싶어요 .,0.0,tree_importance
+all,all,싶어요 !,0.0,tree_importance
+all,all,싶어요,0.0,tree_importance
+all,all,싶어서 안달이네,0.0,tree_importance
+all,all,싸우는거얌 ?,0.0,tree_importance
+all,all,싶어서,0.0,tree_importance
+all,all,써,0.0,tree_importance
+all,all,썼다는,0.0,tree_importance
+all,all,쓸 거야,0.0,tree_importance
+all,all,쓸,0.0,tree_importance
+all,all,쓰지 않는,0.0,tree_importance
+all,all,쓰지,0.0,tree_importance
+all,all,쓰이는 패러다임,0.0,tree_importance
+all,all,쓰이는 paradigm,0.0,tree_importance
+all,all,쓰이는,0.0,tree_importance
+all,all,쓰레기,0.0,tree_importance
+all,all,쓰는 역사,0.0,tree_importance
+all,all,쓰는 그룹을,0.0,tree_importance
+all,all,쓰는 history,0.0,tree_importance
+all,all,쓰는,0.0,tree_importance
+all,all,쏟았다고 생각해,0.0,tree_importance
+all,all,쏟았다고,0.0,tree_importance
+all,all,썼다는 게,0.0,tree_importance
+all,all,써 .,0.0,tree_importance
+all,all,심지어 욕을,0.0,tree_importance
+all,all,심지어,0.0,tree_importance
+all,all,싫어해야 할,0.0,tree_importance
+all,all,실제 여자들을,0.0,tree_importance
+all,all,실제 아이돌의,0.0,tree_importance
+all,all,실제 사람인지,0.0,tree_importance
+all,all,실제 사람이,0.0,tree_importance
+all,all,실제 사람에,0.0,tree_importance
+all,all,실제 사람들이야,0.0,tree_importance
+all,all,실제 사람들이,0.0,tree_importance
+all,all,실제 사람들의,0.0,tree_importance
+all,all,실제 사람들을,0.0,tree_importance
+all,all,실제 사람도,0.0,tree_importance
+all,all,실제 사람,0.0,tree_importance
+all,all,실제 보컬을,0.0,tree_importance
+all,all,실제 모습을,0.0,tree_importance
+all,all,실제 가수들이,0.0,tree_importance
+all,all,실제 k팝,0.0,tree_importance
+all,all,실제 여자들이,0.0,tree_importance
+all,all,실제 인간이,0.0,tree_importance
+all,all,실제로,0.0,tree_importance
+all,all,실제로 노래하고,0.0,tree_importance
+all,all,싫어해야,0.0,tree_importance
+all,all,"싫어하면서 ,",0.0,tree_importance
+all,all,싫어하면서,0.0,tree_importance
+all,all,싫어하는 척할,0.0,tree_importance
+all,all,싫어하는 것도,0.0,tree_importance
+all,all,싫어하는 건,0.0,tree_importance
+all,all,싫어하는,0.0,tree_importance
+all,all,쓸데없이,0.0,tree_importance
+all,all,싫어 .,0.0,tree_importance
+all,all,실패할 것,0.0,tree_importance
+all,all,실패할,0.0,tree_importance
+all,all,실제로 존재하지,0.0,tree_importance
+all,all,실제로 재미있어서,0.0,tree_importance
+all,all,실제로 엄청나게,0.0,tree_importance
+all,all,실제로 살아,0.0,tree_importance
+all,all,실제로 노래하는,0.0,tree_importance
+all,all,싫어,0.0,tree_importance
+all,all,아이돌보다 그들의,0.0,tree_importance
+all,all,쓸데없이 왜,0.0,tree_importance
+all,all,아 (,0.0,tree_importance
+all,all,아무것도 막지,0.0,tree_importance
+all,all,아무것도,0.0,tree_importance
+all,all,아무 문제가,0.0,tree_importance
+all,all,아무,0.0,tree_importance
+all,all,아리와 같아요,0.0,tree_importance
+all,all,아리와,0.0,tree_importance
+all,all,아담이랑 뭐가,0.0,tree_importance
+all,all,아담이랑,0.0,tree_importance
+all,all,아닙니다 .,0.0,tree_importance
+all,all,아닙니다,0.0,tree_importance
+all,all,아닐 겁니다,0.0,tree_importance
+all,all,아닐,0.0,tree_importance
+all,all,아닌지 구별이,0.0,tree_importance
+all,all,아닌지,0.0,tree_importance
+all,all,"아닌데 ,",0.0,tree_importance
+all,all,아무리,0.0,tree_importance
+all,all,아닌데,0.0,tree_importance
+all,all,아무리 사실적이어도,0.0,tree_importance
+all,all,아무튼 저는,0.0,tree_importance
+all,all,아이돌들이 소속사의,0.0,tree_importance
+all,all,아이돌들이,0.0,tree_importance
+all,all,아이돌들을 존중합니다,0.0,tree_importance
+all,all,아이돌들을 위해서라면,0.0,tree_importance
+all,all,아이돌들을,0.0,tree_importance
+all,all,아실 거예요,0.0,tree_importance
+all,all,아실,0.0,tree_importance
+all,all,아시죠 .,0.0,tree_importance
+all,all,아시죠,0.0,tree_importance
+all,all,아쉬울 뿐이야,0.0,tree_importance
+all,all,아쉬울,0.0,tree_importance
+all,all,아바타 대신,0.0,tree_importance
+all,all,아바타,0.0,tree_importance
+all,all,아무튼요 .,0.0,tree_importance
+all,all,아무튼요,0.0,tree_importance
+all,all,아무튼,0.0,tree_importance
+all,all,아닌가요 ?,0.0,tree_importance
+all,all,아닌가요,0.0,tree_importance
+all,all,"아니지만 ,",0.0,tree_importance
+all,all,"아니다 """,0.0,tree_importance
+all,all,아니다,0.0,tree_importance
+all,all,아니니까요 .,0.0,tree_importance
+all,all,아니니까요,0.0,tree_importance
+all,all,아니고 마지막도,0.0,tree_importance
+all,all,아니고 k팝이,0.0,tree_importance
+all,all,"아니고 ,",0.0,tree_importance
+all,all,아니고,0.0,tree_importance
+all,all,아니 그래픽,0.0,tree_importance
+all,all,아니 .,0.0,tree_importance
+all,all,"아니 ,",0.0,tree_importance
+all,all,아니,0.0,tree_importance
+all,all,"아깝다 """,0.0,tree_importance
+all,all,아깝다,0.0,tree_importance
+all,all,아 ),0.0,tree_importance
+all,all,아니라,0.0,tree_importance
+all,all,아니라 ai라는,0.0,tree_importance
+all,all,아니라 가상,0.0,tree_importance
+all,all,아니라 오디오,0.0,tree_importance
+all,all,아니지만,0.0,tree_importance
+all,all,아니잖아 💀,0.0,tree_importance
+all,all,아니잖아,0.0,tree_importance
+all,all,아니에요 .,0.0,tree_importance
+all,all,아니에요 !,0.0,tree_importance
+all,all,아니에요,0.0,tree_importance
+all,all,아니야 💀,0.0,tree_importance
+all,all,아,0.0,tree_importance
+all,all,아니야,0.0,tree_importance
+all,all,아니면 다른,0.0,tree_importance
+all,all,아니면,0.0,tree_importance
+all,all,아니라서 영상은,0.0,tree_importance
+all,all,아니라서,0.0,tree_importance
+all,all,아니라는 게,0.0,tree_importance
+all,all,아니라는 걸,0.0,tree_importance
+all,all,아니라는,0.0,tree_importance
+all,all,아니면 목소리도,0.0,tree_importance
+all,all,실제 ai는,0.0,tree_importance
+all,all,애니메이션 제작진이,0.0,tree_importance
+all,all,애니메이션 회사,0.0,tree_importance
+all,all,열어,0.0,tree_importance
+all,all,열쇠 모두,0.0,tree_importance
+all,all,열쇠 everyone,0.0,tree_importance
+all,all,열쇠,0.0,tree_importance
+all,all,열는 것에,0.0,tree_importance
+all,all,열는,0.0,tree_importance
+all,all,연습하는 진짜,0.0,tree_importance
+all,all,연습하는,0.0,tree_importance
+all,all,연습생 안했으면,0.0,tree_importance
+all,all,연습생,0.0,tree_importance
+all,all,연습 부탁드립니다,0.0,tree_importance
+all,all,연습,0.0,tree_importance
+all,all,역사 우리는,0.0,tree_importance
+all,all,역사 와서,0.0,tree_importance
+all,all,역사 (,0.0,tree_importance
+all,all,열어 세상을,0.0,tree_importance
+all,all,역사,0.0,tree_importance
+all,all,영상,0.0,tree_importance
+all,all,영상들만큼,0.0,tree_importance
+all,all,영화에는,0.0,tree_importance
+all,all,영화가 보여주죠,0.0,tree_importance
+all,all,영화가,0.0,tree_importance
+all,all,영역으로 확장하는,0.0,tree_importance
+all,all,영역으로,0.0,tree_importance
+all,all,영어가 더,0.0,tree_importance
+all,all,영어가 너무,0.0,tree_importance
+all,all,영어가,0.0,tree_importance
+all,all,영상이나 추천에,0.0,tree_importance
+all,all,영상이나,0.0,tree_importance
+all,all,영상을 확인해,0.0,tree_importance
+all,all,영상을,0.0,tree_importance
+all,all,영상은 별로,0.0,tree_importance
+all,all,영상은,0.0,tree_importance
+all,all,영상들만큼 인정받아야,0.0,tree_importance
+all,all,영상 부문에서,0.0,tree_importance
+all,all,여전히 사람이,0.0,tree_importance
+all,all,여전히,0.0,tree_importance
+all,all,여자였다 .,0.0,tree_importance
+all,all,"여러분 ,",0.0,tree_importance
+all,all,여러분,0.0,tree_importance
+all,all,여러 형태와,0.0,tree_importance
+all,all,여러 면에서,0.0,tree_importance
+all,all,여러 매체에서,0.0,tree_importance
+all,all,여러,0.0,tree_importance
+all,all,여기에 돈을,0.0,tree_importance
+all,all,여기에,0.0,tree_importance
+all,all,여기 들를게요,0.0,tree_importance
+all,all,여기,0.0,tree_importance
+all,all,에스파의 콘셉트와,0.0,tree_importance
+all,all,에스파의 콘셉트를,0.0,tree_importance
+all,all,에스파의 콘셉트나,0.0,tree_importance
+all,all,에스파의 노래였기,0.0,tree_importance
+all,all,에스파의 노래라고,0.0,tree_importance
+all,all,여러분 같은,0.0,tree_importance
+all,all,여러분 모두에게,0.0,tree_importance
+all,all,여러분은,0.0,tree_importance
+all,all,여러분은 더,0.0,tree_importance
+all,all,여자였다,0.0,tree_importance
+all,all,여자에 관한,0.0,tree_importance
+all,all,여자에,0.0,tree_importance
+all,all,여자를 사랑해요,0.0,tree_importance
+all,all,여자를,0.0,tree_importance
+all,all,여자들이 노래하고,0.0,tree_importance
+all,all,여자들이,0.0,tree_importance
+all,all,영화에는 아무,0.0,tree_importance
+all,all,여자들을 그냥,0.0,tree_importance
+all,all,여자들은 춤도,0.0,tree_importance
+all,all,여자들은 미래에,0.0,tree_importance
+all,all,여자들은,0.0,tree_importance
+all,all,여성 아티스트상을,0.0,tree_importance
+all,all,여성,0.0,tree_importance
+all,all,여러분은 플레브를,0.0,tree_importance
+all,all,여러분은 마브를,0.0,tree_importance
+all,all,여자들을,0.0,tree_importance
+all,all,에스파의 것보다,0.0,tree_importance
+all,all,영화인지,0.0,tree_importance
+all,all,예를,0.0,tree_importance
+all,all,왜 드는,0.0,tree_importance
+all,all,왜 그런지는,0.0,tree_importance
+all,all,왜 ?,0.0,tree_importance
+all,all,왕국이 생각나요,0.0,tree_importance
+all,all,왕국이,0.0,tree_importance
+all,all,왕 제우스가,0.0,tree_importance
+all,all,왕,0.0,tree_importance
+all,all,왔을까요 ?,0.0,tree_importance
+all,all,왔을까요,0.0,tree_importance
+all,all,왔어요 .,0.0,tree_importance
+all,all,왔어요,0.0,tree_importance
+all,all,왔던 걸,0.0,tree_importance
+all,all,왔던,0.0,tree_importance
+all,all,완전히 찬성이에요,0.0,tree_importance
+all,all,완전히 빠졌어요,0.0,tree_importance
+all,all,왜 문제가,0.0,tree_importance
+all,all,완전히 반했어,0.0,tree_importance
+all,all,왜 미워하는,0.0,tree_importance
+all,all,왜 불평하는지,0.0,tree_importance
+all,all,우,0.0,tree_importance
+all,all,"욕했으면서 ,",0.0,tree_importance
+all,all,욕했으면서,0.0,tree_importance
+all,all,욕을 해도,0.0,tree_importance
+all,all,욕을,0.0,tree_importance
+all,all,요소 뒤에는,0.0,tree_importance
+all,all,요소,0.0,tree_importance
+all,all,외쳐 let,0.0,tree_importance
+all,all,"외쳐 ,",0.0,tree_importance
+all,all,외쳐,0.0,tree_importance
+all,all,외모로 차별받을,0.0,tree_importance
+all,all,외모로,0.0,tree_importance
+all,all,왜 이렇게,0.0,tree_importance
+all,all,왜 얘네가,0.0,tree_importance
+all,all,왜 사람들은,0.0,tree_importance
+all,all,왜 미워하는지,0.0,tree_importance
+all,all,완전히,0.0,tree_importance
+all,all,완전 찢었다,0.0,tree_importance
+all,all,완전 좋다,0.0,tree_importance
+all,all,온갖 상을,0.0,tree_importance
+all,all,온갖,0.0,tree_importance
+all,all,오스 보프,0.0,tree_importance
+all,all,오스,0.0,tree_importance
+all,all,오브 레전드,0.0,tree_importance
+all,all,오브,0.0,tree_importance
+all,all,오를 때,0.0,tree_importance
+all,all,오를,0.0,tree_importance
+all,all,오디오 파일을,0.0,tree_importance
+all,all,오디오,0.0,tree_importance
+all,all,예술가들의 어두운,0.0,tree_importance
+all,all,예술가들의,0.0,tree_importance
+all,all,예산 때문이죠,0.0,tree_importance
+all,all,예산,0.0,tree_importance
+all,all,예를 들어,0.0,tree_importance
+all,all,온라인에서,0.0,tree_importance
+all,all,온라인에서 멤버들이,0.0,tree_importance
+all,all,올려요,0.0,tree_importance
+all,all,올려요 .,0.0,tree_importance
+all,all,완전 에스파,0.0,tree_importance
+all,all,완전 망작이네,0.0,tree_importance
+all,all,완전,0.0,tree_importance
+all,all,완벽한 빌어먹을,0.0,tree_importance
+all,all,완벽한,0.0,tree_importance
+all,all,완벽하잖아요 .,0.0,tree_importance
+all,all,완벽하잖아요,0.0,tree_importance
+all,all,영화인지 아실,0.0,tree_importance
+all,all,완벽주의자들인 데다,0.0,tree_importance
+all,all,와표정만 더,0.0,tree_importance
+all,all,와표정만,0.0,tree_importance
+all,all,와서 봐,0.0,tree_importance
+all,all,와서 가져가,0.0,tree_importance
+all,all,와서,0.0,tree_importance
+all,all,"와 ,",0.0,tree_importance
+all,all,와,0.0,tree_importance
+all,all,완벽주의자들인,0.0,tree_importance
+all,all,애니메이션 캐릭터,0.0,tree_importance
+all,all,에스파의 æ와,0.0,tree_importance
+all,all,에스파의 next,0.0,tree_importance
+all,all,어쩌고,0.0,tree_importance
+all,all,어제 댓글에서,0.0,tree_importance
+all,all,어제,0.0,tree_importance
+all,all,어색한 부분이,0.0,tree_importance
+all,all,어색한,0.0,tree_importance
+all,all,어머니의 슬리퍼보다,0.0,tree_importance
+all,all,어머니의,0.0,tree_importance
+all,all,어린 소녀가,0.0,tree_importance
+all,all,어린,0.0,tree_importance
+all,all,어렵지만 동작이,0.0,tree_importance
+all,all,어렵지만,0.0,tree_importance
+all,all,어려워요 .,0.0,tree_importance
+all,all,어려워요,0.0,tree_importance
+all,all,어려운 이상한,0.0,tree_importance
+all,all,어려운,0.0,tree_importance
+all,all,"어쩌고 """,0.0,tree_importance
+all,all,어떻게 설명해야,0.0,tree_importance
+all,all,어차피,0.0,tree_importance
+all,all,억지로,0.0,tree_importance
+all,all,얼굴이 되고,0.0,tree_importance
+all,all,얼굴이,0.0,tree_importance
+all,all,얼굴을 안,0.0,tree_importance
+all,all,얼굴을,0.0,tree_importance
+all,all,얼굴은 진짜가,0.0,tree_importance
+all,all,얼굴은 좀,0.0,tree_importance
+all,all,얼굴은 똑같아요,0.0,tree_importance
+all,all,얼굴은,0.0,tree_importance
+all,all,얼굴만 편집했어요,0.0,tree_importance
+all,all,얼굴만,0.0,tree_importance
+all,all,"얼굴 ,",0.0,tree_importance
+all,all,얼굴,0.0,tree_importance
+all,all,얻은 것이라,0.0,tree_importance
+all,all,얻은,0.0,tree_importance
+all,all,억지로 실제,0.0,tree_importance
+all,all,어차피 가상으로,0.0,tree_importance
+all,all,어떻게,0.0,tree_importance
+all,all,어떤지 더,0.0,tree_importance
+all,all,어떤지,0.0,tree_importance
+all,all,얘네 ai,0.0,tree_importance
+all,all,얘네,0.0,tree_importance
+all,all,애니메이션이나 너무,0.0,tree_importance
+all,all,애니메이션이나,0.0,tree_importance
+all,all,애니메이션이 시연,0.0,tree_importance
+all,all,애니메이션이 불편한,0.0,tree_importance
+all,all,애니메이션이,0.0,tree_importance
+all,all,애니메이션을 맡은,0.0,tree_importance
+all,all,애니메이션을,0.0,tree_importance
+all,all,애니메이션은 좀,0.0,tree_importance
+all,all,애니메이션은,0.0,tree_importance
+all,all,애니메이션에는 성적으로,0.0,tree_importance
+all,all,애니메이션에는,0.0,tree_importance
+all,all,애니메이션도 전혀,0.0,tree_importance
+all,all,애니메이션도,0.0,tree_importance
+all,all,얘네가,0.0,tree_importance
+all,all,얘네가 더,0.0,tree_importance
+all,all,얘네는,0.0,tree_importance
+all,all,얘네는 ㄹㅇ,0.0,tree_importance
+all,all,어떤 mave,0.0,tree_importance
+all,all,어떤,0.0,tree_importance
+all,all,어디까지 데려갈지,0.0,tree_importance
+all,all,어디까지,0.0,tree_importance
+all,all,어두운 코미디는,0.0,tree_importance
+all,all,어두운,0.0,tree_importance
+all,all,어느 멤버인지는,0.0,tree_importance
+all,all,얼굴이 뛰어나든지,0.0,tree_importance
+all,all,어느,0.0,tree_importance
+all,all,얘네를 성적으로,0.0,tree_importance
+all,all,얘네를 덕질하는,0.0,tree_importance
+all,all,얘네를,0.0,tree_importance
+all,all,얘네도 훌륭하고,0.0,tree_importance
+all,all,얘네도,0.0,tree_importance
+all,all,얘네는 실제,0.0,tree_importance
+all,all,얘네는 다르고,0.0,tree_importance
+all,all,얘네를 싫어하면서,0.0,tree_importance
+all,all,에스파의 æ,0.0,tree_importance
+all,all,얼마나,0.0,tree_importance
+all,all,엄지를,0.0,tree_importance
+all,all,에스파,0.0,tree_importance
+all,all,에버애프터의 캐릭터들은,0.0,tree_importance
+all,all,에버애프터의,0.0,tree_importance
+all,all,없지만 누가,0.0,tree_importance
+all,all,없지만,0.0,tree_importance
+all,all,없잖아 😭,0.0,tree_importance
+all,all,없잖아 네게,0.0,tree_importance
+all,all,없잖아 i,0.0,tree_importance
+all,all,없잖아,0.0,tree_importance
+all,all,없을까 ?,0.0,tree_importance
+all,all,없을까,0.0,tree_importance
+all,all,"없었으면서 ,",0.0,tree_importance
+all,all,없었으면서,0.0,tree_importance
+all,all,없어요 .,0.0,tree_importance
+all,all,없어요,0.0,tree_importance
+all,all,"에스파 ,",0.0,tree_importance
+all,all,없어 움직여,0.0,tree_importance
+all,all,에스파 ·,0.0,tree_importance
+all,all,에스파 느낌이,0.0,tree_importance
+all,all,에스파의 ai,0.0,tree_importance
+all,all,에스파의,0.0,tree_importance
+all,all,에스파와 너무,0.0,tree_importance
+all,all,에스파와 kda,0.0,tree_importance
+all,all,에스파와,0.0,tree_importance
+all,all,에스파를 비난하려는,0.0,tree_importance
+all,all,에스파를 공격하지,0.0,tree_importance
+all,all,에스파를,0.0,tree_importance
+all,all,에스파같아 그냥,0.0,tree_importance
+all,all,에스파같아,0.0,tree_importance
+all,all,에스파가 떠올라요,0.0,tree_importance
+all,all,에스파가 되고,0.0,tree_importance
+all,all,에스파가,0.0,tree_importance
+all,all,에스파 타이틀곡으로,0.0,tree_importance
+all,all,에스파 생각만,0.0,tree_importance
+all,all,에스파 느낌,0.0,tree_importance
+all,all,없어 아무것도,0.0,tree_importance
+all,all,없어 맞닿아,0.0,tree_importance
+all,all,없어 move,0.0,tree_importance
+all,all,업계가,0.0,tree_importance
+all,all,엄청난 노력을,0.0,tree_importance
+all,all,엄청난,0.0,tree_importance
+all,all,엄청나네 .,0.0,tree_importance
+all,all,엄청나네,0.0,tree_importance
+all,all,엄청나고 .,0.0,tree_importance
+all,all,엄청나고,0.0,tree_importance
+all,all,엄청나게 중독성,0.0,tree_importance
+all,all,엄청나게 좋고,0.0,tree_importance
+all,all,엄청나게 재능,0.0,tree_importance
+all,all,엄청나게 썼다는,0.0,tree_importance
+all,all,엄청나게,0.0,tree_importance
+all,all,엄청 강렬하고,0.0,tree_importance
+all,all,엄청,0.0,tree_importance
+all,all,엄지를 올려요,0.0,tree_importance
+all,all,업계가 주는,0.0,tree_importance
+all,all,없고,0.0,tree_importance
+all,all,"없고 ,",0.0,tree_importance
+all,all,없나요,0.0,tree_importance
+all,all,없어 .,0.0,tree_importance
+all,all,없습니다 노래는,0.0,tree_importance
+all,all,없습니다,0.0,tree_importance
+all,all,없다는 듯이,0.0,tree_importance
+all,all,없다는,0.0,tree_importance
+all,all,"없는데 ,",0.0,tree_importance
+all,all,없는데,0.0,tree_importance
+all,all,얼마나 들었을지,0.0,tree_importance
+all,all,없는 인형이니,0.0,tree_importance
+all,all,없는 건가요,0.0,tree_importance
+all,all,없는,0.0,tree_importance
+all,all,없네요 .,0.0,tree_importance
+all,all,없네요,0.0,tree_importance
+all,all,없네 .,0.0,tree_importance
+all,all,없네,0.0,tree_importance
+all,all,없나요 ?,0.0,tree_importance
+all,all,없는 것이어야,0.0,tree_importance
+all,all,실력이 좋든,0.0,tree_importance
+all,all,실력이,0.0,tree_importance
+all,all,실력도 그렇고,0.0,tree_importance
+all,all,봅니다,0.0,tree_importance
+all,all,볼지도 모른다고,0.0,tree_importance
+all,all,볼지도,0.0,tree_importance
+all,all,볼 수,0.0,tree_importance
+all,all,볼,0.0,tree_importance
+all,all,본인은 그렇지,0.0,tree_importance
+all,all,본인은,0.0,tree_importance
+all,all,본인들은 목소리만,0.0,tree_importance
+all,all,본인들은,0.0,tree_importance
+all,all,본 바로는,0.0,tree_importance
+all,all,본,0.0,tree_importance
+all,all,복사,0.0,tree_importance
+all,all,보프,0.0,tree_importance
+all,all,보컬이 정말,0.0,tree_importance
+all,all,보컬이 엄청나게,0.0,tree_importance
+all,all,봅니다 더,0.0,tree_importance
+all,all,보컬이,0.0,tree_importance
+all,all,"봐 ,",0.0,tree_importance
+all,all,봐 네,0.0,tree_importance
+all,all,부른,0.0,tree_importance
+all,all,부르는 사람들에게,0.0,tree_importance
+all,all,부르는,0.0,tree_importance
+all,all,봤지 ?,0.0,tree_importance
+all,all,봤지,0.0,tree_importance
+all,all,봤어요 ~,0.0,tree_importance
+all,all,봤어요,0.0,tree_importance
+all,all,"봤는데 ,",0.0,tree_importance
+all,all,봤는데,0.0,tree_importance
+all,all,봤거든요 .,0.0,tree_importance
+all,all,봤거든요,0.0,tree_importance
+all,all,봐요 .,0.0,tree_importance
+all,all,봐요,0.0,tree_importance
+all,all,봐 이디피아,0.0,tree_importance
+all,all,봐 두,0.0,tree_importance
+all,all,봐 idypia,0.0,tree_importance
+all,all,보컬을 비난하는,0.0,tree_importance
+all,all,보컬을,0.0,tree_importance
+all,all,보컬은 엄청,0.0,tree_importance
+all,all,보여주러,0.0,tree_importance
+all,all,보여주니 아깝다,0.0,tree_importance
+all,all,보여주니,0.0,tree_importance
+all,all,보여주는 아주,0.0,tree_importance
+all,all,보여주는 것,0.0,tree_importance
+all,all,보여주는,0.0,tree_importance
+all,all,보여서 다음,0.0,tree_importance
+all,all,보여서,0.0,tree_importance
+all,all,보여 !,0.0,tree_importance
+all,all,보여,0.0,tree_importance
+all,all,보면서 특별하다고,0.0,tree_importance
+all,all,보면서,0.0,tree_importance
+all,all,보면 말이야,0.0,tree_importance
+all,all,보면,0.0,tree_importance
+all,all,보람이 있었겠네요,0.0,tree_importance
+all,all,보여주러 가자,0.0,tree_importance
+all,all,보여주죠,0.0,tree_importance
+all,all,보여주죠 .,0.0,tree_importance
+all,all,보여줬다면,0.0,tree_importance
+all,all,보컬은 아리와,0.0,tree_importance
+all,all,보컬은,0.0,tree_importance
+all,all,보컬로이드에서는 실제로,0.0,tree_importance
+all,all,보컬로이드에서는,0.0,tree_importance
+all,all,보컬로이드들을 찬성했나요,0.0,tree_importance
+all,all,보컬로이드들을,0.0,tree_importance
+all,all,보컬로이드 영역으로,0.0,tree_importance
+all,all,부른 실제,0.0,tree_importance
+all,all,보컬로이드,0.0,tree_importance
+all,all,보컬,0.0,tree_importance
+all,all,보이지 않는,0.0,tree_importance
+all,all,보이지 ?,0.0,tree_importance
+all,all,보이지,0.0,tree_importance
+all,all,보였는데 지금은,0.0,tree_importance
+all,all,보였는데,0.0,tree_importance
+all,all,"보여줬다면 ,",0.0,tree_importance
+all,all,"보컬 ,",0.0,tree_importance
+all,all,보람이,0.0,tree_importance
+all,all,부문에서,0.0,tree_importance
+all,all,부분,0.0,tree_importance
+all,all,비슷하다고 할까,0.0,tree_importance
+all,all,비슷하다고,0.0,tree_importance
+all,all,"비슷하고 ,",0.0,tree_importance
+all,all,비슷하고,0.0,tree_importance
+all,all,비밀 준비됐어,0.0,tree_importance
+all,all,비밀 변화를,0.0,tree_importance
+all,all,비밀,0.0,tree_importance
+all,all,비난하려는 건,0.0,tree_importance
+all,all,비난하려는,0.0,tree_importance
+all,all,비난하는 건,0.0,tree_importance
+all,all,비난하는,0.0,tree_importance
+all,all,비교해 어떤,0.0,tree_importance
+all,all,비교해,0.0,tree_importance
+all,all,블랙핑크와 조금,0.0,tree_importance
+all,all,블랙핑크와,0.0,tree_importance
+all,all,비슷한,0.0,tree_importance
+all,all,블랙핑크 같은,0.0,tree_importance
+all,all,비슷한 건,0.0,tree_importance
+all,all,비슷한 부분이,0.0,tree_importance
+all,all,빠졌어요 .,0.0,tree_importance
+all,all,빠졌어요,0.0,tree_importance
+all,all,빠졌어 0,0.0,tree_importance
+all,all,빠졌어,0.0,tree_importance
+all,all,빠뜨릴 거야,0.0,tree_importance
+all,all,빠뜨릴,0.0,tree_importance
+all,all,빌어먹을 인형이어야,0.0,tree_importance
+all,all,빌어먹을,0.0,tree_importance
+all,all,비주류인 의견을,0.0,tree_importance
+all,all,비주류인,0.0,tree_importance
+all,all,비슷합니다 .,0.0,tree_importance
+all,all,비슷합니다,0.0,tree_importance
+all,all,비슷할 필요는,0.0,tree_importance
+all,all,비슷할,0.0,tree_importance
+all,all,비슷한 콘셉트를,0.0,tree_importance
+all,all,비슷한 곡을,0.0,tree_importance
+all,all,블랙핑크,0.0,tree_importance
+all,all,불평하는지 모르겠어요,0.0,tree_importance
+all,all,불평하는지,0.0,tree_importance
+all,all,분들에게,0.0,tree_importance
+all,all,부탁드립니다 !,0.0,tree_importance
+all,all,부탁드립니다,0.0,tree_importance
+all,all,부족한 게,0.0,tree_importance
+all,all,부족한,0.0,tree_importance
+all,all,부분이 좋지,0.0,tree_importance
+all,all,부분이 있긴한데,0.0,tree_importance
+all,all,부분이 되게,0.0,tree_importance
+all,all,부분을 한,0.0,tree_importance
+all,all,부분을,0.0,tree_importance
+all,all,부분은 아칼리와,0.0,tree_importance
+all,all,부분은,0.0,tree_importance
+all,all,부분에 푹,0.0,tree_importance
+all,all,부분에 뭔가,0.0,tree_importance
+all,all,부분에,0.0,tree_importance
+all,all,분들에게 말하고,0.0,tree_importance
+all,all,분명히,0.0,tree_importance
+all,all,분명히 보여서,0.0,tree_importance
+all,all,분위기가,0.0,tree_importance
+all,all,불편한 느낌을,0.0,tree_importance
+all,all,불편한,0.0,tree_importance
+all,all,불편하네요 .,0.0,tree_importance
+all,all,불편하네요,0.0,tree_importance
+all,all,불쾌한 골짜기와,0.0,tree_importance
+all,all,불쾌한,0.0,tree_importance
+all,all,불러 외쳐,0.0,tree_importance
+all,all,부문에서 온갖,0.0,tree_importance
+all,all,"불러 ,",0.0,tree_importance
+all,all,분위기와 좀,0.0,tree_importance
+all,all,분위기와,0.0,tree_importance
+all,all,분위기야 !,0.0,tree_importance
+all,all,분위기야,0.0,tree_importance
+all,all,분위기는 에스파의,0.0,tree_importance
+all,all,분위기는,0.0,tree_importance
+all,all,분위기가 kda같네,0.0,tree_importance
+all,all,불러,0.0,tree_importance
+all,all,빠지잖아,0.0,tree_importance
+all,all,보던 것이,0.0,tree_importance
+all,all,보니 움직임이나,0.0,tree_importance
+all,all,미쿠의,0.0,tree_importance
+all,all,미쿠나 애니메이션,0.0,tree_importance
+all,all,미쿠나,0.0,tree_importance
+all,all,미쿠 같은,0.0,tree_importance
+all,all,미쿠,0.0,tree_importance
+all,all,미친 사람들이니까요,0.0,tree_importance
+all,all,미친,0.0,tree_importance
+all,all,미워하는지 잘,0.0,tree_importance
+all,all,미워하는지,0.0,tree_importance
+all,all,미워하는 거야,0.0,tree_importance
+all,all,미워하는,0.0,tree_importance
+all,all,미안하지만 이,0.0,tree_importance
+all,all,미안하지만,0.0,tree_importance
+all,all,미안하고 악의는,0.0,tree_importance
+all,all,미안하고,0.0,tree_importance
+all,all,미쿠의 버전과,0.0,tree_importance
+all,all,미래일까 난,0.0,tree_importance
+all,all,믿는,0.0,tree_importance
+all,all,믿음,0.0,tree_importance
+all,all,받겠네요 .,0.0,tree_importance
+all,all,받겠네요,0.0,tree_importance
+all,all,반했어 ❤,0.0,tree_importance
+all,all,반했어,0.0,tree_importance
+all,all,반복돼요 .,0.0,tree_importance
+all,all,반복돼요,0.0,tree_importance
+all,all,바로는 자연스럽게,0.0,tree_importance
+all,all,바로는,0.0,tree_importance
+all,all,바랍니다 .,0.0,tree_importance
+all,all,바랍니다,0.0,tree_importance
+all,all,바람에 날리는,0.0,tree_importance
+all,all,바람에,0.0,tree_importance
+all,all,바라면서 .,0.0,tree_importance
+all,all,바라면서,0.0,tree_importance
+all,all,믿음 우리는,0.0,tree_importance
+all,all,믿는 미친,0.0,tree_importance
+all,all,미래일까 i,0.0,tree_importance
+all,all,미래일까,0.0,tree_importance
+all,all,미래와 비교해,0.0,tree_importance
+all,all,뭐고 이게,0.0,tree_importance
+all,all,뭐고,0.0,tree_importance
+all,all,뭐가 다른지,0.0,tree_importance
+all,all,🫰,0.0,tree_importance
+all,all,뭐가,0.0,tree_importance
+all,all,뭐 그런,0.0,tree_importance
+all,all,뭐,0.0,tree_importance
+all,all,물론 ai니까,0.0,tree_importance
+all,all,물론,0.0,tree_importance
+all,all,"물건들 ,",0.0,tree_importance
+all,all,물건들,0.0,tree_importance
+all,all,문제들이 있죠,0.0,tree_importance
+all,all,문제들이,0.0,tree_importance
+all,all,문제가 있다는,0.0,tree_importance
+all,all,문제가 있는,0.0,tree_importance
+all,all,뭐든,0.0,tree_importance
+all,all,뭐든 지지할,0.0,tree_importance
+all,all,뭐든 혐오하려는,0.0,tree_importance
+all,all,뭐라고,0.0,tree_importance
+all,all,미래와,0.0,tree_importance
+all,all,미래에 살고,0.0,tree_importance
+all,all,미래에,0.0,tree_importance
+all,all,뮤지컬과 똑같아,0.0,tree_importance
+all,all,뮤지컬과,0.0,tree_importance
+all,all,뭔지들을 위한,0.0,tree_importance
+all,all,뭔지들을,0.0,tree_importance
+all,all,받기,0.0,tree_importance
+all,all,뭔가 부족한,0.0,tree_importance
+all,all,뭔가,0.0,tree_importance
+all,all,뭐예요 ?,0.0,tree_importance
+all,all,뭐예요,0.0,tree_importance
+all,all,뭐야 —,0.0,tree_importance
+all,all,뭐야,0.0,tree_importance
+all,all,뭐라고 설명하기,0.0,tree_importance
+all,all,뭐라고 .,0.0,tree_importance
+all,all,뭔가 마음에,0.0,tree_importance
+all,all,보던,0.0,tree_importance
+all,all,받기 시작할,0.0,tree_importance
+all,all,받는 루미의,0.0,tree_importance
+all,all,벌써 2025년인데,0.0,tree_importance
+all,all,벌써,0.0,tree_importance
+all,all,번째 음향의,0.0,tree_importance
+all,all,번째,0.0,tree_importance
+all,all,번으로 끝나는,0.0,tree_importance
+all,all,번으로,0.0,tree_importance
+all,all,번 들었는데,0.0,tree_importance
+all,all,번,0.0,tree_importance
+all,all,버튜버를 보는,0.0,tree_importance
+all,all,버튜버를,0.0,tree_importance
+all,all,버튜버 모델을,0.0,tree_importance
+all,all,버튜버,0.0,tree_importance
+all,all,"버추얼이고 ,",0.0,tree_importance
+all,all,버추얼이고,0.0,tree_importance
+all,all,버추얼보다 사람이,0.0,tree_importance
+all,all,베꼈다며,0.0,tree_importance
+all,all,버추얼보다,0.0,tree_importance
+all,all,베꼈다며 공격했을,0.0,tree_importance
+all,all,변화를 맞을,0.0,tree_importance
+all,all,보니,0.0,tree_importance
+all,all,보는 것도,0.0,tree_importance
+all,all,보는,0.0,tree_importance
+all,all,보냈다 .,0.0,tree_importance
+all,all,보냈다,0.0,tree_importance
+all,all,보고 있지,0.0,tree_importance
+all,all,보고 있자니,0.0,tree_importance
+all,all,보고 싶었어,0.0,tree_importance
+all,all,보고 싶어요,0.0,tree_importance
+all,all,보고 듣다,0.0,tree_importance
+all,all,별로야 .,0.0,tree_importance
+all,all,별로야,0.0,tree_importance
+all,all,별로 아닌가요,0.0,tree_importance
+all,all,별로 마음에,0.0,tree_importance
+all,all,별로,0.0,tree_importance
+all,all,변화를,0.0,tree_importance
+all,all,버추얼 그룹을,0.0,tree_importance
+all,all,버추얼,0.0,tree_importance
+all,all,버전이라고 생각하죠,0.0,tree_importance
+all,all,방식으로 데뷔하기로,0.0,tree_importance
+all,all,방식으로,0.0,tree_importance
+all,all,방식 같은,0.0,tree_importance
+all,all,방식,0.0,tree_importance
+all,all,발전하시길 바라면서,0.0,tree_importance
+all,all,발전하시길,0.0,tree_importance
+all,all,받아서는 안,0.0,tree_importance
+all,all,받아서는,0.0,tree_importance
+all,all,받아들이기 어려워요,0.0,tree_importance
+all,all,받아들이기,0.0,tree_importance
+all,all,받아들이겠어 😭,0.0,tree_importance
+all,all,받아들이겠어,0.0,tree_importance
+all,all,받아 마땅해,0.0,tree_importance
+all,all,받아,0.0,tree_importance
+all,all,받는 모습을,0.0,tree_importance
+all,all,방식으로 데뷔할,0.0,tree_importance
+all,all,방식은,0.0,tree_importance
+all,all,방식은 싫어,0.0,tree_importance
+all,all,방식은 함께,0.0,tree_importance
+all,all,버전이라고,0.0,tree_importance
+all,all,버전과 비슷합니다,0.0,tree_importance
+all,all,버전과,0.0,tree_importance
+all,all,버리네 😂,0.0,tree_importance
+all,all,버리네,0.0,tree_importance
+all,all,배후에 누가,0.0,tree_importance
+all,all,배후에,0.0,tree_importance
+all,all,받는,0.0,tree_importance
+all,all,배우기 정말,0.0,tree_importance
+all,all,배경 같은,0.0,tree_importance
+all,all,배경,0.0,tree_importance
+all,all,방식이라면 저는,0.0,tree_importance
+all,all,방식이라면,0.0,tree_importance
+all,all,방식을 선택하는,0.0,tree_importance
+all,all,방식을 대체하는,0.0,tree_importance
+all,all,방식을,0.0,tree_importance
+all,all,배우기,0.0,tree_importance
+all,all,빠지잖아 ㅋㅋ,0.0,tree_importance
+all,all,뿐이고,0.0,tree_importance
+all,all,뿐이고 실제로,0.0,tree_importance
+all,all,소녀가 레이디버그,0.0,tree_importance
+all,all,소녀가,0.0,tree_importance
+all,all,"세트 ,",0.0,tree_importance
+all,all,세트,0.0,tree_importance
+all,all,세상의 종말도,0.0,tree_importance
+all,all,세상의,0.0,tree_importance
+all,all,세상을 충격에,0.0,tree_importance
+all,all,세상을,0.0,tree_importance
+all,all,세상에 악을,0.0,tree_importance
+all,all,세상에 무슨,0.0,tree_importance
+all,all,세상에,0.0,tree_importance
+all,all,세계관은 어떤지,0.0,tree_importance
+all,all,세계관은,0.0,tree_importance
+all,all,세계관에는 다른,0.0,tree_importance
+all,all,세계관에는,0.0,tree_importance
+all,all,소름,0.0,tree_importance
+all,all,세계 we,0.0,tree_importance
+all,all,소름 끼쳐,0.0,tree_importance
+all,all,소름 끼치는데,0.0,tree_importance
+all,all,쇼츠에서 이,0.0,tree_importance
+all,all,쇼츠에서,0.0,tree_importance
+all,all,솔직히 어차피,0.0,tree_importance
+all,all,솔직히 메이브는,0.0,tree_importance
+all,all,솔직히 3d,0.0,tree_importance
+all,all,솔직히,0.0,tree_importance
+all,all,솔로로 남을,0.0,tree_importance
+all,all,솔로로,0.0,tree_importance
+all,all,속에 유일한,0.0,tree_importance
+all,all,속에 사는,0.0,tree_importance
+all,all,속에,0.0,tree_importance
+all,all,소속사의 통제를,0.0,tree_importance
+all,all,소속사의,0.0,tree_importance
+all,all,소리를 들려줘,0.0,tree_importance
+all,all,소리를,0.0,tree_importance
+all,all,소름 끼치는,0.0,tree_importance
+all,all,"세계 ,",0.0,tree_importance
+all,all,세계,0.0,tree_importance
+all,all,세게 잡아봐,0.0,tree_importance
+all,all,생긴 안드로이드인지,0.0,tree_importance
+all,all,생긴,0.0,tree_importance
+all,all,생각했던 것보다,0.0,tree_importance
+all,all,생각했던,0.0,tree_importance
+all,all,"생각했는데 ,",0.0,tree_importance
+all,all,생각했는데,0.0,tree_importance
+all,all,생각해서 점수를,0.0,tree_importance
+all,all,생각해서 사생활을,0.0,tree_importance
+all,all,생각해서,0.0,tree_importance
+all,all,생각해 .,0.0,tree_importance
+all,all,생각해 !,0.0,tree_importance
+all,all,생각해,0.0,tree_importance
+all,all,"생각하지만 ,",0.0,tree_importance
+all,all,생각하지만,0.0,tree_importance
+all,all,생각하지 않아요,0.0,tree_importance
+all,all,서명한,0.0,tree_importance
+all,all,서명한 줄,0.0,tree_importance
+all,all,선택하는,0.0,tree_importance
+all,all,선택하는 건,0.0,tree_importance
+all,all,세게 때리네요,0.0,tree_importance
+all,all,세게,0.0,tree_importance
+all,all,세 여자에,0.0,tree_importance
+all,all,세,0.0,tree_importance
+all,all,성전에서 춤을,0.0,tree_importance
+all,all,성전에서,0.0,tree_importance
+all,all,성적으로 집착하거나,0.0,tree_importance
+all,all,수 없는,0.0,tree_importance
+all,all,성적으로 묘사해도,0.0,tree_importance
+all,all,성적 대상화하는,0.0,tree_importance
+all,all,성적,0.0,tree_importance
+all,all,설명해야 할지,0.0,tree_importance
+all,all,설명해야,0.0,tree_importance
+all,all,설명하기 어렵지만,0.0,tree_importance
+all,all,설명하기 어려운,0.0,tree_importance
+all,all,설명하기,0.0,tree_importance
+all,all,성적으로,0.0,tree_importance
+all,all,생각하지 않아,0.0,tree_importance
+all,all,수 없다는,0.0,tree_importance
+all,all,수 없잖아,0.0,tree_importance
+all,all,시연,0.0,tree_importance
+all,all,시리즈가 되는,0.0,tree_importance
+all,all,시리즈가,0.0,tree_importance
+all,all,시간에 연습하는,0.0,tree_importance
+all,all,시간에,0.0,tree_importance
+all,all,시간과 노력을,0.0,tree_importance
+all,all,시간과,0.0,tree_importance
+all,all,승리 판도라,0.0,tree_importance
+all,all,승리,0.0,tree_importance
+all,all,슬리퍼보다 더,0.0,tree_importance
+all,all,슬리퍼보다,0.0,tree_importance
+all,all,스타일도 에스파가,0.0,tree_importance
+all,all,스타일도,0.0,tree_importance
+all,all,"스타시 ,",0.0,tree_importance
+all,all,스타시,0.0,tree_importance
+all,all,시연 안무에,0.0,tree_importance
+all,all,스스로를 뛰어넘었네요,0.0,tree_importance
+all,all,시연으로서는,0.0,tree_importance
+all,all,시작,0.0,tree_importance
+all,all,실력도,0.0,tree_importance
+all,all,신화에서 판도라는,0.0,tree_importance
+all,all,신화에서,0.0,tree_importance
+all,all,신들의 왕,0.0,tree_importance
+all,all,신들의,0.0,tree_importance
+all,all,신경 안,0.0,tree_importance
+all,all,신경,0.0,tree_importance
+all,all,시청자들이 더,0.0,tree_importance
+all,all,시청자들이,0.0,tree_importance
+all,all,시작할 좋은,0.0,tree_importance
+all,all,시작할,0.0,tree_importance
+all,all,"시작됐어 ,",0.0,tree_importance
+all,all,시작됐어,0.0,tree_importance
+all,all,시작 됐어,0.0,tree_importance
+all,all,시작 (,0.0,tree_importance
+all,all,시연으로서는 멋지네,0.0,tree_importance
+all,all,스스로를,0.0,tree_importance
+all,all,스스로 생각하고,0.0,tree_importance
+all,all,스스로 그냥,0.0,tree_importance
+all,all,순간도 있었어,0.0,tree_importance
+all,all,순간도,0.0,tree_importance
+all,all,수상해야 합니다,0.0,tree_importance
+all,all,수상해야,0.0,tree_importance
+all,all,수는 없을까,0.0,tree_importance
+all,all,수는,0.0,tree_importance
+all,all,수가 없어요,0.0,tree_importance
+all,all,수가 없어,0.0,tree_importance
+all,all,수가,0.0,tree_importance
+all,all,수 있지만,0.0,tree_importance
+all,all,수 있으면,0.0,tree_importance
+all,all,수 있어요,0.0,tree_importance
+all,all,수 있는,0.0,tree_importance
+all,all,수 있고,0.0,tree_importance
+all,all,수 있겠어,0.0,tree_importance
+all,all,순간이,0.0,tree_importance
+all,all,순간이 정말,0.0,tree_importance
+all,all,숨겨왔던,0.0,tree_importance
+all,all,숨겨왔던 secret,0.0,tree_importance
+all,all,스스로,0.0,tree_importance
+all,all,슈퍼히어로인 것처럼,0.0,tree_importance
+all,all,슈퍼히어로인,0.0,tree_importance
+all,all,쉿 판도라의,0.0,tree_importance
+all,all,쉿 아,0.0,tree_importance
+all,all,쉿 쉿,0.0,tree_importance
+all,all,쉿 ),0.0,tree_importance
+all,all,수 없어,0.0,tree_importance
+all,all,쉿 (,0.0,tree_importance
+all,all,쉽게 구별할,0.0,tree_importance
+all,all,쉽게,0.0,tree_importance
+all,all,쉴 수,0.0,tree_importance
+all,all,쉴,0.0,tree_importance
+all,all,숨을 죽여,0.0,tree_importance
+all,all,숨을,0.0,tree_importance
+all,all,숨겨왔던 비밀,0.0,tree_importance
+all,all,쉿,0.0,tree_importance
+all,all,생각하지,0.0,tree_importance
+all,all,생각하죠 .,0.0,tree_importance
+all,all,생각하죠,0.0,tree_importance
+all,all,사람이 만든,0.0,tree_importance
+all,all,사람이 더,0.0,tree_importance
+all,all,사람이,0.0,tree_importance
+all,all,사람의 음향,0.0,tree_importance
+all,all,사람의,0.0,tree_importance
+all,all,사람은 누구일까요,0.0,tree_importance
+all,all,사람은,0.0,tree_importance
+all,all,사람에게 감정을,0.0,tree_importance
+all,all,사람에게,0.0,tree_importance
+all,all,사람에 맞추려는,0.0,tree_importance
+all,all,사람에,0.0,tree_importance
+all,all,사람들이야 !,0.0,tree_importance
+all,all,사람들이야,0.0,tree_importance
+all,all,사람들이니까요 😂,0.0,tree_importance
+all,all,사람들이니까요,0.0,tree_importance
+all,all,사람이 보이지,0.0,tree_importance
+all,all,사람들이 좋아하니,0.0,tree_importance
+all,all,사람이 있는,0.0,tree_importance
+all,all,사람인지,0.0,tree_importance
+all,all,사랑해요 그들은,0.0,tree_importance
+all,all,사랑해요 .,0.0,tree_importance
+all,all,사랑해요,0.0,tree_importance
+all,all,사랑해 🩷,0.0,tree_importance
+all,all,사랑해 !,0.0,tree_importance
+all,all,사랑해,0.0,tree_importance
+all,all,"사랑할게요 """,0.0,tree_importance
+all,all,사랑할게요,0.0,tree_importance
+all,all,사랑이 필요해,0.0,tree_importance
+all,all,사랑이,0.0,tree_importance
+all,all,사랑을 받는,0.0,tree_importance
+all,all,사랑을,0.0,tree_importance
+all,all,사랑받는다는 게,0.0,tree_importance
+all,all,사랑받는다는,0.0,tree_importance
+all,all,사람인지 아닌지,0.0,tree_importance
+all,all,사람이 있다는,0.0,tree_importance
+all,all,사람들이 있어요,0.0,tree_importance
+all,all,사람들이 있다는,0.0,tree_importance
+all,all,사람들이 있는데,0.0,tree_importance
+all,all,사람,0.0,tree_importance
+all,all,사라지지 않았습니다,0.0,tree_importance
+all,all,사라지지,0.0,tree_importance
+all,all,사라져버리면 참,0.0,tree_importance
+all,all,사라져버리면,0.0,tree_importance
+all,all,사는 너,0.0,tree_importance
+all,all,사는 you,0.0,tree_importance
+all,all,사는,0.0,tree_importance
+all,all,삐 삐,0.0,tree_importance
+all,all,삐 너를,0.0,tree_importance
+all,all,삐,0.0,tree_importance
+all,all,뿐이에요 .,0.0,tree_importance
+all,all,뿐이에요,0.0,tree_importance
+all,all,뿐이야 😭,0.0,tree_importance
+all,all,뿐이야,0.0,tree_importance
+all,all,사람 같다고,0.0,tree_importance
+all,all,사람도,0.0,tree_importance
+all,all,사람도 아니잖아,0.0,tree_importance
+all,all,사람들에게,0.0,tree_importance
+all,all,사람들이 이,0.0,tree_importance
+all,all,사람들이 외모로,0.0,tree_importance
+all,all,사람들이 아니라는,0.0,tree_importance
+all,all,사람들이 노래하는,0.0,tree_importance
+all,all,사람들이 같은,0.0,tree_importance
+all,all,"사람들이 """,0.0,tree_importance
+all,all,사람들의 목소리가,0.0,tree_importance
+all,all,사례가,0.0,tree_importance
+all,all,사람들의,0.0,tree_importance
+all,all,사람들을 보고,0.0,tree_importance
+all,all,사람들을,0.0,tree_importance
+all,all,사람들은 당황해서,0.0,tree_importance
+all,all,사람들은 그룹끼리,0.0,tree_importance
+all,all,사람들은 가상이라,0.0,tree_importance
+all,all,사람들은,0.0,tree_importance
+all,all,사람들에게 .,0.0,tree_importance
+all,all,사람들을 성적,0.0,tree_importance
+all,all,사례가 있어요,0.0,tree_importance
+all,all,사로잡아,0.0,tree_importance
+all,all,사로잡아 victory,0.0,tree_importance
+all,all,새로운 3d,0.0,tree_importance
+all,all,새로운,0.0,tree_importance
+all,all,새로 쓰이는,0.0,tree_importance
+all,all,새로 쓰는,0.0,tree_importance
+all,all,새로,0.0,tree_importance
+all,all,새 여성,0.0,tree_importance
+all,all,새,0.0,tree_importance
+all,all,상황 말이에요,0.0,tree_importance
+all,all,상황,0.0,tree_importance
+all,all,상자를 열어,0.0,tree_importance
+all,all,상자를 열는,0.0,tree_importance
+all,all,상자를,0.0,tree_importance
+all,all,상을 받아,0.0,tree_importance
+all,all,상을 받겠네요,0.0,tree_importance
+all,all,상을,0.0,tree_importance
+all,all,새로운 것,0.0,tree_importance
+all,all,새롭고,0.0,tree_importance
+all,all,새롭고 눈에,0.0,tree_importance
+all,all,새롭고 흥미로운,0.0,tree_importance
+all,all,생각하는 건,0.0,tree_importance
+all,all,생각하는,0.0,tree_importance
+all,all,생각하고 행동해야,0.0,tree_importance
+all,all,생각하고,0.0,tree_importance
+all,all,생각이 계속,0.0,tree_importance
+all,all,생각이,0.0,tree_importance
+all,all,생각은 이래요,0.0,tree_importance
+all,all,상대하는 일도,0.0,tree_importance
+all,all,생각은,0.0,tree_importance
+all,all,생각에는,0.0,tree_importance
+all,all,생각만 나는데,0.0,tree_importance
+all,all,생각만,0.0,tree_importance
+all,all,생각나요 .,0.0,tree_importance
+all,all,생각나요,0.0,tree_importance
+all,all,샘플을 가져와,0.0,tree_importance
+all,all,샘플을,0.0,tree_importance
+all,all,생각에는 에스파와,0.0,tree_importance
+all,all,우 ),0.0,tree_importance
+all,all,상대하는,0.0,tree_importance
+all,all,상당히,0.0,tree_importance
+all,all,사악해,0.0,tree_importance
+all,all,사실적이지도 않고,0.0,tree_importance
+all,all,사실적이지도,0.0,tree_importance
+all,all,사실적이어도 난,0.0,tree_importance
+all,all,사실적이어도,0.0,tree_importance
+all,all,사실에 🤣,0.0,tree_importance
+all,all,사실에,0.0,tree_importance
+all,all,사실상 악마와,0.0,tree_importance
+all,all,사실상,0.0,tree_importance
+all,all,사실 😢,0.0,tree_importance
+all,all,사실 꽤,0.0,tree_importance
+all,all,사실,0.0,tree_importance
+all,all,사생활을 허락하지,0.0,tree_importance
+all,all,사생활을,0.0,tree_importance
+all,all,사로잡아 승리,0.0,tree_importance
+all,all,사악해 보여,0.0,tree_importance
+all,all,사용한,0.0,tree_importance
+all,all,사용한 프로그램,0.0,tree_importance
+all,all,사이버가수,0.0,tree_importance
+all,all,상기해야 해요,0.0,tree_importance
+all,all,상기해야,0.0,tree_importance
+all,all,삶과 시간에,0.0,tree_importance
+all,all,삶과,0.0,tree_importance
+all,all,살피고 있는,0.0,tree_importance
+all,all,살피고,0.0,tree_importance
+all,all,"살찌지도 ,",0.0,tree_importance
+all,all,상당히 불편하네요,0.0,tree_importance
+all,all,살찌지도,0.0,tree_importance
+all,all,살아,0.0,tree_importance
+all,all,살고 있어,0.0,tree_importance
+all,all,살고,0.0,tree_importance
+all,all,사이에 본,0.0,tree_importance
+all,all,사이에 뭐가,0.0,tree_importance
+all,all,사이에,0.0,tree_importance
+all,all,사이버가수 아담이랑,0.0,tree_importance
+all,all,살아 있는,0.0,tree_importance
+all,all,"우 ,",0.0,tree_importance
+all,all,우리가,0.0,tree_importance
+all,all,우리가 사로잡아,0.0,tree_importance
+all,all,컨셉이 새로운,0.0,tree_importance
+all,all,컨셉이,0.0,tree_importance
+all,all,컨셉을 떠올리게,0.0,tree_importance
+all,all,컨셉을,0.0,tree_importance
+all,all,캐릭터를 좋아하는,0.0,tree_importance
+all,all,캐릭터를,0.0,tree_importance
+all,all,캐릭터들을 위해,0.0,tree_importance
+all,all,캐릭터들을,0.0,tree_importance
+all,all,캐릭터들은 실제로,0.0,tree_importance
+all,all,캐릭터들은 별로,0.0,tree_importance
+all,all,캐릭터들은 대화를,0.0,tree_importance
+all,all,캐릭터들은,0.0,tree_importance
+all,all,캐릭터는 ai지만,0.0,tree_importance
+all,all,캐릭터는,0.0,tree_importance
+all,all,캐릭터나 다른,0.0,tree_importance
+all,all,컴백은,0.0,tree_importance
+all,all,캐릭터나,0.0,tree_importance
+all,all,컴백은 한참,0.0,tree_importance
+all,all,컴백은요 ?,0.0,tree_importance
+all,all,콘셉트야,0.0,tree_importance
+all,all,콘셉트를 베꼈다며,0.0,tree_importance
+all,all,콘셉트를 가질,0.0,tree_importance
+all,all,콘셉트를,0.0,tree_importance
+all,all,콘셉트라서 그런,0.0,tree_importance
+all,all,콘셉트라서,0.0,tree_importance
+all,all,콘셉트나 방식을,0.0,tree_importance
+all,all,콘셉트나 k,0.0,tree_importance
+all,all,콘셉트나,0.0,tree_importance
+all,all,콘셉트가 에스파의,0.0,tree_importance
+all,all,콘셉트가,0.0,tree_importance
+all,all,코미디는 내,0.0,tree_importance
+all,all,코미디는,0.0,tree_importance
+all,all,컴백하지 않을,0.0,tree_importance
+all,all,컴백하지,0.0,tree_importance
+all,all,컴백은요,0.0,tree_importance
+all,all,캐릭터가 유명해지는,0.0,tree_importance
+all,all,캐릭터가,0.0,tree_importance
+all,all,캐릭터 모습은,0.0,tree_importance
+all,all,출시를 기다리고,0.0,tree_importance
+all,all,출시를,0.0,tree_importance
+all,all,출 줄,0.0,tree_importance
+all,all,출,0.0,tree_importance
+all,all,추천에 뜨는,0.0,tree_importance
+all,all,추천에,0.0,tree_importance
+all,all,추신 :,0.0,tree_importance
+all,all,추신,0.0,tree_importance
+all,all,추기 때문에,0.0,tree_importance
+all,all,추기,0.0,tree_importance
+all,all,최초도 아니고,0.0,tree_importance
+all,all,최초도,0.0,tree_importance
+all,all,최악의 결론부터,0.0,tree_importance
+all,all,최악의,0.0,tree_importance
+all,all,최고의 애니메이션,0.0,tree_importance
+all,all,춤도,0.0,tree_importance
+all,all,춤도 배우기,0.0,tree_importance
+all,all,춤도 제대로,0.0,tree_importance
+all,all,춤도 출,0.0,tree_importance
+all,all,캐릭터 디자인,0.0,tree_importance
+all,all,캐릭터,0.0,tree_importance
+all,all,취향저격인디 .,0.0,tree_importance
+all,all,취향저격인디,0.0,tree_importance
+all,all,취향에는 영어가,0.0,tree_importance
+all,all,취향에는,0.0,tree_importance
+all,all,춰 보이지,0.0,tree_importance
+all,all,콘셉트야 .,0.0,tree_importance
+all,all,춰 보였는데,0.0,tree_importance
+all,all,충격에 빠뜨릴,0.0,tree_importance
+all,all,충격에,0.0,tree_importance
+all,all,춤추는 사람들이,0.0,tree_importance
+all,all,춤추는 건,0.0,tree_importance
+all,all,춤추는,0.0,tree_importance
+all,all,춤을 추기,0.0,tree_importance
+all,all,춤을,0.0,tree_importance
+all,all,춰,0.0,tree_importance
+all,all,최고의 부분,0.0,tree_importance
+all,all,콘셉트에,0.0,tree_importance
+all,all,콘셉트와,0.0,tree_importance
+all,all,팬덤들은 왜,0.0,tree_importance
+all,all,팬덤들은,0.0,tree_importance
+all,all,"패션 ,",0.0,tree_importance
+all,all,패션,0.0,tree_importance
+all,all,패러디 🤡,0.0,tree_importance
+all,all,패러디,0.0,tree_importance
+all,all,패러다임 (,0.0,tree_importance
+all,all,패러다임,0.0,tree_importance
+all,all,판도라의 상자를,0.0,tree_importance
+all,all,판도라의 뜻을,0.0,tree_importance
+all,all,판도라의,0.0,tree_importance
+all,all,판도라를 알았네,0.0,tree_importance
+all,all,판도라를,0.0,tree_importance
+all,all,판도라는 세상에,0.0,tree_importance
+all,all,판도라는,0.0,tree_importance
+all,all,팬도라스,0.0,tree_importance
+all,all,판도라 판도라,0.0,tree_importance
+all,all,팬도라스 상자를,0.0,tree_importance
+all,all,팬들에게 완벽하잖아요,0.0,tree_importance
+all,all,평생,0.0,tree_importance
+all,all,평범한 애니메이션이나,0.0,tree_importance
+all,all,평범한,0.0,tree_importance
+all,all,편집했어요,0.0,tree_importance
+all,all,팬픽에서 얘네를,0.0,tree_importance
+all,all,팬픽에서,0.0,tree_importance
+all,all,팬이 아닙니다,0.0,tree_importance
+all,all,팬이,0.0,tree_importance
+all,all,팬을 상대하는,0.0,tree_importance
+all,all,팬을,0.0,tree_importance
+all,all,팬들이 팬픽에서,0.0,tree_importance
+all,all,팬들이,0.0,tree_importance
+all,all,팬들은 자기들에게,0.0,tree_importance
+all,all,팬들은 완벽주의자들인,0.0,tree_importance
+all,all,팬들은,0.0,tree_importance
+all,all,팬들에게,0.0,tree_importance
+all,all,판도라 잃어버린,0.0,tree_importance
+all,all,판도라 이제,0.0,tree_importance
+all,all,판도라 모든,0.0,tree_importance
+all,all,"텐데 ,",0.0,tree_importance
+all,all,텐데,0.0,tree_importance
+all,all,테니까요 😂,0.0,tree_importance
+all,all,테니까요,0.0,tree_importance
+all,all,타이틀곡으로 딱인데,0.0,tree_importance
+all,all,타이틀곡으로,0.0,tree_importance
+all,all,타이라의 머리카락,0.0,tree_importance
+all,all,타이라의,0.0,tree_importance
+all,all,타 새로,0.0,tree_importance
+all,all,타 뒤바뀌는,0.0,tree_importance
+all,all,타,0.0,tree_importance
+all,all,크게 틀자,0.0,tree_importance
+all,all,크게,0.0,tree_importance
+all,all,콘셉트와 데뷔는,0.0,tree_importance
+all,all,콘셉트와 닮았다고,0.0,tree_importance
+all,all,텐데 이,0.0,tree_importance
+all,all,통제를,0.0,tree_importance
+all,all,통제를 받는,0.0,tree_importance
+all,all,통해,0.0,tree_importance
+all,all,판도라 모두,0.0,tree_importance
+all,all,판도라 댄스,0.0,tree_importance
+all,all,판도라,0.0,tree_importance
+all,all,파일을 가공하는,0.0,tree_importance
+all,all,파일을,0.0,tree_importance
+all,all,파도를 타,0.0,tree_importance
+all,all,파도를,0.0,tree_importance
+all,all,콘셉트에 맞추려니,0.0,tree_importance
+all,all,파괴할 것처럼,0.0,tree_importance
+all,all,틀자 두렵지,0.0,tree_importance
+all,all,틀자,0.0,tree_importance
+all,all,특히 ai가,0.0,tree_importance
+all,all,특히,0.0,tree_importance
+all,all,특별하다고 느낄,0.0,tree_importance
+all,all,특별하다고,0.0,tree_importance
+all,all,통해 풀어야,0.0,tree_importance
+all,all,파괴할,0.0,tree_importance
+all,all,평생 솔로로,0.0,tree_importance
+all,all,최고의 노래와,0.0,tree_importance
+all,all,최고,0.0,tree_importance
+all,all,즉석에서 대화하거나,0.0,tree_importance
+all,all,즉석에서,0.0,tree_importance
+all,all,즉 음성,0.0,tree_importance
+all,all,즉,0.0,tree_importance
+all,all,줘야 해요,0.0,tree_importance
+all,all,줘야,0.0,tree_importance
+all,all,중요한 건,0.0,tree_importance
+all,all,중요한,0.0,tree_importance
+all,all,중독성 있었어,0.0,tree_importance
+all,all,중독성 있어요,0.0,tree_importance
+all,all,중독성 있고,0.0,tree_importance
+all,all,중독성,0.0,tree_importance
+all,all,중단하고 그,0.0,tree_importance
+all,all,중단하고,0.0,tree_importance
+all,all,중간에 멈추는,0.0,tree_importance
+all,all,즐기고,0.0,tree_importance
+all,all,중간에,0.0,tree_importance
+all,all,즐기고 있는,0.0,tree_importance
+all,all,지 며칠밖에,0.0,tree_importance
+all,all,직접,0.0,tree_importance
+all,all,"지치지도 ,",0.0,tree_importance
+all,all,지치지도,0.0,tree_importance
+all,all,지지할 준비가,0.0,tree_importance
+all,all,지지할,0.0,tree_importance
+all,all,지상으로 보냈다,0.0,tree_importance
+all,all,지상으로,0.0,tree_importance
+all,all,지름길 메이브가,0.0,tree_importance
+all,all,지름길,0.0,tree_importance
+all,all,지나치게 만화,0.0,tree_importance
+all,all,지나치게,0.0,tree_importance
+all,all,지금은 왜,0.0,tree_importance
+all,all,지금은,0.0,tree_importance
+all,all,지금 많은,0.0,tree_importance
+all,all,지금,0.0,tree_importance
+all,all,지,0.0,tree_importance
+all,all,중 하나가,0.0,tree_importance
+all,all,중 1개월째,0.0,tree_importance
+all,all,중,0.0,tree_importance
+all,all,주의해,0.0,tree_importance
+all,all,주요 부분을,0.0,tree_importance
+all,all,주요,0.0,tree_importance
+all,all,주세요 😾,0.0,tree_importance
+all,all,주세요 😢,0.0,tree_importance
+all,all,주세요 .,0.0,tree_importance
+all,all,주세요,0.0,tree_importance
+all,all,주변의 로봇들,0.0,tree_importance
+all,all,주변의,0.0,tree_importance
+all,all,주된 아티스트라면,0.0,tree_importance
+all,all,주된,0.0,tree_importance
+all,all,주는 로봇,0.0,tree_importance
+all,all,주는 건,0.0,tree_importance
+all,all,주는,0.0,tree_importance
+all,all,죄의 대십자사에서,0.0,tree_importance
+all,all,주의해 ),0.0,tree_importance
+all,all,주인공들은,0.0,tree_importance
+all,all,주인공들은 악성,0.0,tree_importance
+all,all,주인공들을,0.0,tree_importance
+all,all,줄 알았는데,0.0,tree_importance
+all,all,줄 모르면서,0.0,tree_importance
+all,all,줄,0.0,tree_importance
+all,all,준비됐어 ?,0.0,tree_importance
+all,all,준비됐어,0.0,tree_importance
+all,all,준비가 됐어,0.0,tree_importance
+all,all,준비가 돼,0.0,tree_importance
+all,all,직접 말했잖아요,0.0,tree_importance
+all,all,준비가,0.0,tree_importance
+all,all,준비,0.0,tree_importance
+all,all,죽여 keep,0.0,tree_importance
+all,all,"죽여 ,",0.0,tree_importance
+all,all,죽여,0.0,tree_importance
+all,all,주지 않으면서도,0.0,tree_importance
+all,all,주지,0.0,tree_importance
+all,all,주인공들을 데뷔시키지,0.0,tree_importance
+all,all,"준비 ,",0.0,tree_importance
+all,all,최고의,0.0,tree_importance
+all,all,진동을,0.0,tree_importance
+all,all,진짜 .,0.0,tree_importance
+all,all,찾아,0.0,tree_importance
+all,all,참고로 나는,0.0,tree_importance
+all,all,참고로,0.0,tree_importance
+all,all,참 좋지,0.0,tree_importance
+all,all,참 묘해,0.0,tree_importance
+all,all,참,0.0,tree_importance
+all,all,찬성했나요 ?,0.0,tree_importance
+all,all,찬성했나요,0.0,tree_importance
+all,all,찬성이에요 .,0.0,tree_importance
+all,all,찬성이에요,0.0,tree_importance
+all,all,차이가 없는,0.0,tree_importance
+all,all,차이가,0.0,tree_importance
+all,all,차원의 적,0.0,tree_importance
+all,all,차원의 enemy,0.0,tree_importance
+all,all,차원의,0.0,tree_importance
+all,all,"찾아 ,",0.0,tree_importance
+all,all,차별받을 걱정도,0.0,tree_importance
+all,all,처벌하지,0.0,tree_importance
+all,all,처음,0.0,tree_importance
+all,all,초현실적으로 디자인하는,0.0,tree_importance
+all,all,초현실적으로,0.0,tree_importance
+all,all,초래한 여자였다,0.0,tree_importance
+all,all,초래한,0.0,tree_importance
+all,all,첫 번째,0.0,tree_importance
+all,all,첫,0.0,tree_importance
+all,all,척할 수가,0.0,tree_importance
+all,all,척할,0.0,tree_importance
+all,all,처음이지만 3d,0.0,tree_importance
+all,all,처음이지만,0.0,tree_importance
+all,all,처음에는 당연히,0.0,tree_importance
+all,all,처음에는,0.0,tree_importance
+all,all,처음부터 끝까지,0.0,tree_importance
+all,all,처음부터,0.0,tree_importance
+all,all,처음 들었을,0.0,tree_importance
+all,all,처벌하지 않았다는,0.0,tree_importance
+all,all,차별받을,0.0,tree_importance
+all,all,차 안으로,0.0,tree_importance
+all,all,차,0.0,tree_importance
+all,all,질리지 않음,0.0,tree_importance
+all,all,질리지,0.0,tree_importance
+all,all,진짜지 아니면,0.0,tree_importance
+all,all,진짜지,0.0,tree_importance
+all,all,진짜는 아니니까요,0.0,tree_importance
+all,all,진짜는,0.0,tree_importance
+all,all,진짜가 아니다,0.0,tree_importance
+all,all,진짜가,0.0,tree_importance
+all,all,진짜 얼굴을,0.0,tree_importance
+all,all,진짜 얼굴,0.0,tree_importance
+all,all,진짜 아이돌들을,0.0,tree_importance
+all,all,진짜 사람들이,0.0,tree_importance
+all,all,진짜 사람들을,0.0,tree_importance
+all,all,진짜 몸,0.0,tree_importance
+all,all,진짜 가수들도,0.0,tree_importance
+all,all,질문을,0.0,tree_importance
+all,all,질문을 제기해,0.0,tree_importance
+all,all,질문할,0.0,tree_importance
+all,all,질문할 수,0.0,tree_importance
+all,all,찢었다 !,0.0,tree_importance
+all,all,찢었다,0.0,tree_importance
+all,all,찢어버리네 .,0.0,tree_importance
+all,all,찢어버리네,0.0,tree_importance
+all,all,찍었던 공간을,0.0,tree_importance
+all,all,찍었던,0.0,tree_importance
+all,all,쪽에는 뭔가,0.0,tree_importance
+all,all,진동을 주는,0.0,tree_importance
+all,all,쪽에는,0.0,tree_importance
+all,all,징조도,0.0,tree_importance
+all,all,징그러움 하던데,0.0,tree_importance
+all,all,징그러움,0.0,tree_importance
+all,all,짓밟아도 사랑할게요,0.0,tree_importance
+all,all,짓밟아도,0.0,tree_importance
+all,all,집착하거나 푹,0.0,tree_importance
+all,all,집착하거나,0.0,tree_importance
+all,all,징조도 아니고,0.0,tree_importance
+all,all,표절,0.0,tree_importance
+all,all,"표절 """,0.0,tree_importance
+all,all,표현이,0.0,tree_importance
+all,all,흐릿해진 감정,0.0,tree_importance
+all,all,흐릿해진 feeling,0.0,tree_importance
+all,all,흐릿해진,0.0,tree_importance
+all,all,휴거의 징조도,0.0,tree_importance
+all,all,휴거의,0.0,tree_importance
+all,all,훨씬 좋았다는,0.0,tree_importance
+all,all,훨씬 나아요,0.0,tree_importance
+all,all,훨씬,0.0,tree_importance
+all,all,훌륭해요 😢,0.0,tree_importance
+all,all,훌륭해요 .,0.0,tree_importance
+all,all,훌륭해요,0.0,tree_importance
+all,all,훌륭한 가수들이,0.0,tree_importance
+all,all,훌륭한 mv를,0.0,tree_importance
+all,all,훌륭한,0.0,tree_importance
+all,all,훌륭하고 노래도,0.0,tree_importance
+all,all,흘리지도,0.0,tree_importance
+all,all,"훌륭하고 ,",0.0,tree_importance
+all,all,"흘리지도 ,",0.0,tree_importance
+all,all,흠잡을 데가,0.0,tree_importance
+all,all,🏻,0.0,tree_importance
+all,all,🎶 많은,0.0,tree_importance
+all,all,🎶,0.0,tree_importance
+all,all,🎵 🎶,0.0,tree_importance
+all,all,🎵,0.0,tree_importance
+all,all,🎉,0.0,tree_importance
+all,all,️ 게다가,0.0,tree_importance
+all,all,️ ‍,0.0,tree_importance
+all,all,️,0.0,tree_importance
+all,all,힘 .,0.0,tree_importance
+all,all,힘,0.0,tree_importance
+all,all,희망의 끈을,0.0,tree_importance
+all,all,희망의,0.0,tree_importance
+all,all,흥미로운 콘셉트야,0.0,tree_importance
+all,all,흥미로운,0.0,tree_importance
+all,all,흠잡을,0.0,tree_importance
+all,all,훌륭하고,0.0,tree_importance
+all,all,후자라면 최고의,0.0,tree_importance
+all,all,후자라면,0.0,tree_importance
+all,all,홍보를 위해서인지,0.0,tree_importance
+all,all,홍보를,0.0,tree_importance
+all,all,혼자 만든,0.0,tree_importance
+all,all,혼자,0.0,tree_importance
+all,all,형태와 방식은,0.0,tree_importance
+all,all,형태와,0.0,tree_importance
+all,all,혐오하려는 문제가,0.0,tree_importance
+all,all,혐오하려는,0.0,tree_importance
+all,all,현실일까 이게,0.0,tree_importance
+all,all,현실일까 i,0.0,tree_importance
+all,all,현실일까,0.0,tree_importance
+all,all,현실에서는 구현할,0.0,tree_importance
+all,all,현실에서는,0.0,tree_importance
+all,all,현실감이 없네,0.0,tree_importance
+all,all,현실감이,0.0,tree_importance
+all,all,확신하게,0.0,tree_importance
+all,all,확신하게 됐어,0.0,tree_importance
+all,all,확인해,0.0,tree_importance
+all,all,확인해 볼지도,0.0,tree_importance
+all,all,후렴이 어머니의,0.0,tree_importance
+all,all,후렴이,0.0,tree_importance
+all,all,후 그냥,0.0,tree_importance
+all,all,후,0.0,tree_importance
+all,all,회사는 모든,0.0,tree_importance
+all,all,회사는,0.0,tree_importance
+all,all,회사가 원해서,0.0,tree_importance
+all,all,🏻 ‍,0.0,tree_importance
+all,all,회사가 만들어낸,0.0,tree_importance
+all,all,회사 중,0.0,tree_importance
+all,all,회사,0.0,tree_importance
+all,all,환상의 풍경,0.0,tree_importance
+all,all,환상의 view,0.0,tree_importance
+all,all,환상의,0.0,tree_importance
+all,all,확장하는 것이라면,0.0,tree_importance
+all,all,확장하는,0.0,tree_importance
+all,all,회사가,0.0,tree_importance
+all,all,헤이 (,0.0,tree_importance
+all,all,🏽,0.0,tree_importance
+all,all,👁 ?,0.0,tree_importance
+all,all,🤍,0.0,tree_importance
+all,all,🙂 그래서,0.0,tree_importance
+all,all,🙂,0.0,tree_importance
+all,all,😾 🤙,0.0,tree_importance
+all,all,😾,0.0,tree_importance
+all,all,😻 😻,0.0,tree_importance
+all,all,😻,0.0,tree_importance
+all,all,😳 보컬이,0.0,tree_importance
+all,all,😳,0.0,tree_importance
+all,all,😭 정말,0.0,tree_importance
+all,all,😭 뒤에서,0.0,tree_importance
+all,all,"😭 """,0.0,tree_importance
+all,all,😭,0.0,tree_importance
+all,all,😩 또,0.0,tree_importance
+all,all,😩,0.0,tree_importance
+all,all,🤔,0.0,tree_importance
+all,all,😣 💟,0.0,tree_importance
+all,all,🤔 ai를,0.0,tree_importance
+all,all,🤡 😡,0.0,tree_importance
+all,all,🫥,0.0,tree_importance
+all,all,🩹 왜,0.0,tree_importance
+all,all,🩹,0.0,tree_importance
+all,all,🩷 🩷,0.0,tree_importance
+all,all,🩷,0.0,tree_importance
+all,all,🥹 💔,0.0,tree_importance
+all,all,🥹,0.0,tree_importance
+all,all,🥰,0.0,tree_importance
+all,all,🤷 🏻,0.0,tree_importance
+all,all,🤷,0.0,tree_importance
+all,all,🤩 ✨,0.0,tree_importance
+all,all,🤩,0.0,tree_importance
+all,all,🤣 🤣,0.0,tree_importance
+all,all,🤣,0.0,tree_importance
+all,all,🤡 🤡,0.0,tree_importance
+all,all,🤙,0.0,tree_importance
+all,all,😣,0.0,tree_importance
+all,all,😢 💓,0.0,tree_importance
+all,all,😢 🎉,0.0,tree_importance
+all,all,💞,0.0,tree_importance
+all,all,💗 마티,0.0,tree_importance
+all,all,💗 ✨,0.0,tree_importance
+all,all,💗,0.0,tree_importance
+all,all,💔 💔,0.0,tree_importance
+all,all,💔,0.0,tree_importance
+all,all,💓,0.0,tree_importance
+all,all,💀 💀,0.0,tree_importance
+all,all,💀 말도,0.0,tree_importance
+all,all,💀 노래도,0.0,tree_importance
+all,all,👌 💯,0.0,tree_importance
+all,all,👌,0.0,tree_importance
+all,all,👄 👁,0.0,tree_importance
+all,all,👄,0.0,tree_importance
+all,all,👁 👄,0.0,tree_importance
+all,all,💟,0.0,tree_importance
+all,all,💟 그래도,0.0,tree_importance
+all,all,💯,0.0,tree_importance
+all,all,💯 인데,0.0,tree_importance
+all,all,😢 ❤,0.0,tree_importance
+all,all,😡 😡,0.0,tree_importance
+all,all,😡,0.0,tree_importance
+all,all,😈 팬들은,0.0,tree_importance
+all,all,😈,0.0,tree_importance
+all,all,😅 하지만,0.0,tree_importance
+all,all,😅,0.0,tree_importance
+all,all,👁,0.0,tree_importance
+all,all,😂 😂,0.0,tree_importance
+all,all,😂 그러면,0.0,tree_importance
+all,all,😂 결국,0.0,tree_importance
+all,all,😂 ❤,0.0,tree_importance
+all,all,🔥 😻,0.0,tree_importance
+all,all,🔥 🔥,0.0,tree_importance
+all,all,🔥 👌,0.0,tree_importance
+all,all,🔥,0.0,tree_importance
+all,all,😂 이,0.0,tree_importance
+all,all,헤이,0.0,tree_importance
+all,all,허락하지 않으니까요,0.0,tree_importance
+all,all,허락하지,0.0,tree_importance
+all,all,하니까요 .,0.0,tree_importance
+all,all,하니까요,0.0,tree_importance
+all,all,하니까 공통점이,0.0,tree_importance
+all,all,하니까,0.0,tree_importance
+all,all,하는데 저는,0.0,tree_importance
+all,all,"하는데 ,",0.0,tree_importance
+all,all,하는데,0.0,tree_importance
+all,all,하는 모든,0.0,tree_importance
+all,all,하는,0.0,tree_importance
+all,all,하나뿐인 감정,0.0,tree_importance
+all,all,하나뿐인,0.0,tree_importance
+all,all,하나가 맡았는데도,0.0,tree_importance
+all,all,하나가,0.0,tree_importance
+all,all,하나 봐요,0.0,tree_importance
+all,all,하나,0.0,tree_importance
+all,all,하던데,0.0,tree_importance
+all,all,하고 싶은,0.0,tree_importance
+all,all,하던데 얘네는,0.0,tree_importance
+all,all,하려는 건,0.0,tree_importance
+all,all,하츠네,0.0,tree_importance
+all,all,하지만 전체적으로,0.0,tree_importance
+all,all,하지만 이런,0.0,tree_importance
+all,all,하지만 이,0.0,tree_importance
+all,all,하지만 여러분은,0.0,tree_importance
+all,all,하지만 실제,0.0,tree_importance
+all,all,하지만 목소리는,0.0,tree_importance
+all,all,하지만 넌,0.0,tree_importance
+all,all,하지만 k팝이,0.0,tree_importance
+all,all,하지만 ai는,0.0,tree_importance
+all,all,"하지만 ,",0.0,tree_importance
+all,all,하지 않아도,0.0,tree_importance
+all,all,하지,0.0,tree_importance
+all,all,하면 문제가,0.0,tree_importance
+all,all,하면,0.0,tree_importance
+all,all,하려는,0.0,tree_importance
+all,all,하고 그렇지,0.0,tree_importance
+all,all,하고,0.0,tree_importance
+all,all,하겠죠 .,0.0,tree_importance
+all,all,프로그램이,0.0,tree_importance
+all,all,"프로그램대로 """,0.0,tree_importance
+all,all,프로그램대로,0.0,tree_importance
+all,all,프로그램 덕분에,0.0,tree_importance
+all,all,프로그램,0.0,tree_importance
+all,all,풍경 멈출,0.0,tree_importance
+all,all,풍경,0.0,tree_importance
+all,all,품었다고 기분,0.0,tree_importance
+all,all,품었다고,0.0,tree_importance
+all,all,풀어야 할,0.0,tree_importance
+all,all,풀어야,0.0,tree_importance
+all,all,푹 빠지잖아,0.0,tree_importance
+all,all,푹 빠졌어,0.0,tree_importance
+all,all,푹,0.0,tree_importance
+all,all,표현이 훌륭해요,0.0,tree_importance
+all,all,프로그램이 아니에요,0.0,tree_importance
+all,all,프로그램인지,0.0,tree_importance
+all,all,"프로그램인지 ,",0.0,tree_importance
+all,all,프로젝트에,0.0,tree_importance
+all,all,하겠죠,0.0,tree_importance
+all,all,필요해 더,0.0,tree_importance
+all,all,필요해,0.0,tree_importance
+all,all,필요한 걸,0.0,tree_importance
+all,all,필요한,0.0,tree_importance
+all,all,필요는 없잖아,0.0,tree_importance
+all,all,필요는,0.0,tree_importance
+all,all,하츠네 미쿠나,0.0,tree_importance
+all,all,피하고 싶었을,0.0,tree_importance
+all,all,플레이 영상이나,0.0,tree_importance
+all,all,플레이,0.0,tree_importance
+all,all,플레브를 좋아합니까,0.0,tree_importance
+all,all,플레브를,0.0,tree_importance
+all,all,프로젝트이고 몇,0.0,tree_importance
+all,all,프로젝트이고,0.0,tree_importance
+all,all,프로젝트에 정말,0.0,tree_importance
+all,all,피하고,0.0,tree_importance
+all,all,한 번,0.0,tree_importance
+all,all,한 번으로,0.0,tree_importance
+all,all,한 왕국이,0.0,tree_importance
+all,all,해야겠어요,0.0,tree_importance
+all,all,해쓰네 미쿠의,0.0,tree_importance
+all,all,해쓰네 미쿠,0.0,tree_importance
+all,all,해쓰네,0.0,tree_importance
+all,all,해서 다른,0.0,tree_importance
+all,all,해서,0.0,tree_importance
+all,all,해도 프로그램대로,0.0,tree_importance
+all,all,해도 놀랍지,0.0,tree_importance
+all,all,해도 노래는,0.0,tree_importance
+all,all,해도,0.0,tree_importance
+all,all,해 흐릿해진,0.0,tree_importance
+all,all,해 감정을,0.0,tree_importance
+all,all,해 p,0.0,tree_importance
+all,all,해 m,0.0,tree_importance
+all,all,해 .,0.0,tree_importance
+all,all,해야겠어요 .,0.0,tree_importance
+all,all,해요,0.0,tree_importance
+all,all,해요 .,0.0,tree_importance
+all,all,해요 🥰,0.0,tree_importance
+all,all,행복하겠네요 .,0.0,tree_importance
+all,all,행복하겠네요,0.0,tree_importance
+all,all,행동해야 할,0.0,tree_importance
+all,all,행동해야,0.0,tree_importance
+all,all,행동하네 💀,0.0,tree_importance
+all,all,행동하네,0.0,tree_importance
+all,all,했으니 메이브에,0.0,tree_importance
+all,all,"해 ,",0.0,tree_importance
+all,all,했으니,0.0,tree_importance
+all,all,했는데,0.0,tree_importance
+all,all,해킹한 거야,0.0,tree_importance
+all,all,해킹한,0.0,tree_importance
+all,all,해줬어요 .,0.0,tree_importance
+all,all,해줬어요,0.0,tree_importance
+all,all,해줄게 (,0.0,tree_importance
+all,all,해줄게,0.0,tree_importance
+all,all,"했는데 ,",0.0,tree_importance
+all,all,죄의,0.0,tree_importance
+all,all,해 !,0.0,tree_importance
+all,all,합류한 거야,0.0,tree_importance
+all,all,한동안 마음에,0.0,tree_importance
+all,all,한동안,0.0,tree_importance
+all,all,한다고 생각해서,0.0,tree_importance
+all,all,한다고 생각해,0.0,tree_importance
+all,all,한다고,0.0,tree_importance
+all,all,한국의 해쓰네,0.0,tree_importance
+all,all,한국의,0.0,tree_importance
+all,all,한국어보다 영어가,0.0,tree_importance
+all,all,한국어보다,0.0,tree_importance
+all,all,한국어도 좀,0.0,tree_importance
+all,all,한국어도,0.0,tree_importance
+all,all,한국어 댓이,0.0,tree_importance
+all,all,한국어,0.0,tree_importance
+all,all,한 징그러움,0.0,tree_importance
+all,all,한 이유를,0.0,tree_importance
+all,all,한심하게,0.0,tree_importance
+all,all,한심하게 생긴,0.0,tree_importance
+all,all,한참,0.0,tree_importance
+all,all,한참 뒤가,0.0,tree_importance
+all,all,합류한,0.0,tree_importance
+all,all,합니다 .,0.0,tree_importance
+all,all,합니다,0.0,tree_importance
+all,all,함께 존재할,0.0,tree_importance
+all,all,함께 노래하자,0.0,tree_importance
+all,all,함께,0.0,tree_importance
+all,all,할지 모르겠지만,0.0,tree_importance
+all,all,해,0.0,tree_importance
+all,all,할지,0.0,tree_importance
+all,all,할까,0.0,tree_importance
+all,all,할 텐데,0.0,tree_importance
+all,all,할 수,0.0,tree_importance
+all,all,할 문제들이,0.0,tree_importance
+all,all,할 말을,0.0,tree_importance
+all,all,할 것,0.0,tree_importance
+all,all,할,0.0,tree_importance
+all,all,할까 ?,0.0,tree_importance
+all,all,문제가 없었으면서,0.0,tree_importance
+all,all,좋지 않은,0.0,tree_importance
+all,all,좋지 않냐,0.0,tree_importance
+all,all,이제 갈게,0.0,tree_importance
+all,all,이전 작품들을,0.0,tree_importance
+all,all,이전,0.0,tree_importance
+all,all,이유를 보여주는,0.0,tree_importance
+all,all,이유를,0.0,tree_importance
+all,all,이용해서 노래하는,0.0,tree_importance
+all,all,이용해서,0.0,tree_importance
+all,all,이어지는 시리즈가,0.0,tree_importance
+all,all,이어지는,0.0,tree_importance
+all,all,이야기가 있다고,0.0,tree_importance
+all,all,이야기가,0.0,tree_importance
+all,all,이세돌도 한,0.0,tree_importance
+all,all,이세돌도,0.0,tree_importance
+all,all,이상해요 😂,0.0,tree_importance
+all,all,이상해요,0.0,tree_importance
+all,all,이제 듣는,0.0,tree_importance
+all,all,이상한 느낌이,0.0,tree_importance
+all,all,이제 시작,0.0,tree_importance
+all,all,이제 우리는,0.0,tree_importance
+all,all,인간을,0.0,tree_importance
+all,all,인간에게 써,0.0,tree_importance
+all,all,인간에게,0.0,tree_importance
+all,all,인간 아이돌들을,0.0,tree_importance
+all,all,인간,0.0,tree_importance
+all,all,익숙하게 보던,0.0,tree_importance
+all,all,익숙하게,0.0,tree_importance
+all,all,이해하도록 그런,0.0,tree_importance
+all,all,이해하도록,0.0,tree_importance
+all,all,이해는 하지만,0.0,tree_importance
+all,all,이해는,0.0,tree_importance
+all,all,이제야 판도라를,0.0,tree_importance
+all,all,이제야,0.0,tree_importance
+all,all,이제 잠재적인,0.0,tree_importance
+all,all,이제 이,0.0,tree_importance
+all,all,이제 시작됐어,0.0,tree_importance
+all,all,이상한,0.0,tree_importance
+all,all,이상하지만 러시아어,0.0,tree_importance
+all,all,이상하지만,0.0,tree_importance
+all,all,이만큼,0.0,tree_importance
+all,all,"이마오 ,",0.0,tree_importance
+all,all,이마오,0.0,tree_importance
+all,all,이름이 뭐예요,0.0,tree_importance
+all,all,이름이,0.0,tree_importance
+all,all,이름을 불러,0.0,tree_importance
+all,all,이름을,0.0,tree_importance
+all,all,이렇게 훌륭한,0.0,tree_importance
+all,all,이렇게 해,0.0,tree_importance
+all,all,이렇게 늦게,0.0,tree_importance
+all,all,이렇게 거침없었던,0.0,tree_importance
+all,all,이렇게,0.0,tree_importance
+all,all,이런 영상들만큼,0.0,tree_importance
+all,all,이런 방식을,0.0,tree_importance
+all,all,이런 방식으로,0.0,tree_importance
+all,all,이만큼 깔끔해요,0.0,tree_importance
+all,all,이미,0.0,tree_importance
+all,all,이미 너무,0.0,tree_importance
+all,all,이미 버추얼,0.0,tree_importance
+all,all,이상하다고 얘네를,0.0,tree_importance
+all,all,이상하다고,0.0,tree_importance
+all,all,이상하다 아이브,0.0,tree_importance
+all,all,"이상하다 ,",0.0,tree_importance
+all,all,이상하다,0.0,tree_importance
+all,all,이상하네 .,0.0,tree_importance
+all,all,이상하네,0.0,tree_importance
+all,all,인간을 위한,0.0,tree_importance
+all,all,이상하긴 하지만,0.0,tree_importance
+all,all,이상하고 소름,0.0,tree_importance
+all,all,이상하고,0.0,tree_importance
+all,all,이상하게 뭐든,0.0,tree_importance
+all,all,이상하게,0.0,tree_importance
+all,all,이봐,0.0,tree_importance
+all,all,이번에는 스스로를,0.0,tree_importance
+all,all,이번에는,0.0,tree_importance
+all,all,이상하긴,0.0,tree_importance
+all,all,이런 ai,0.0,tree_importance
+all,all,인간이,0.0,tree_importance
+all,all,인공지능으로,0.0,tree_importance
+all,all,잃어버린 faith,0.0,tree_importance
+all,all,잃어버린,0.0,tree_importance
+all,all,일주일 내내,0.0,tree_importance
+all,all,일주일,0.0,tree_importance
+all,all,일이야 ?,0.0,tree_importance
+all,all,일이야,0.0,tree_importance
+all,all,일을 하면,0.0,tree_importance
+all,all,일을,0.0,tree_importance
+all,all,일부는 춤도,0.0,tree_importance
+all,all,일부는,0.0,tree_importance
+all,all,일부 악성,0.0,tree_importance
+all,all,일부,0.0,tree_importance
+all,all,일본 만화에서,0.0,tree_importance
+all,all,일본,0.0,tree_importance
+all,all,일도 피하고,0.0,tree_importance
+all,all,잃어버린 너를,0.0,tree_importance
+all,all,일도 없고,0.0,tree_importance
+all,all,잃어버린 믿음,0.0,tree_importance
+all,all,잃었어 .,0.0,tree_importance
+all,all,있는 거야,0.0,tree_importance
+all,all,있는 감정,0.0,tree_importance
+all,all,있는 가수와,0.0,tree_importance
+all,all,있는 가수들도,0.0,tree_importance
+all,all,있네요 .,0.0,tree_importance
+all,all,있네요,0.0,tree_importance
+all,all,있네 .,0.0,tree_importance
+all,all,있네,0.0,tree_importance
+all,all,있긴한데 노래가,0.0,tree_importance
+all,all,있긴한데,0.0,tree_importance
+all,all,있고 데이터베이스에서,0.0,tree_importance
+all,all,"있고 ,",0.0,tree_importance
+all,all,있고,0.0,tree_importance
+all,all,있겠어 ?,0.0,tree_importance
+all,all,있겠어,0.0,tree_importance
+all,all,잃었어,0.0,tree_importance
+all,all,일도 많이,0.0,tree_importance
+all,all,일도,0.0,tree_importance
+all,all,일곱 살피고,0.0,tree_importance
+all,all,인정받길 바랍니다,0.0,tree_importance
+all,all,인정받길,0.0,tree_importance
+all,all,인생 망치는,0.0,tree_importance
+all,all,인생,0.0,tree_importance
+all,all,인류의 몰락을,0.0,tree_importance
+all,all,인류의,0.0,tree_importance
+all,all,인류를 파괴할,0.0,tree_importance
+all,all,인류를,0.0,tree_importance
+all,all,"인데 ,",0.0,tree_importance
+all,all,인데,0.0,tree_importance
+all,all,인기가 있지만,0.0,tree_importance
+all,all,인기가,0.0,tree_importance
+all,all,인공지능이라는 뜻이고,0.0,tree_importance
+all,all,인공지능이라는,0.0,tree_importance
+all,all,인공지능으로 만들어졌나요,0.0,tree_importance
+all,all,인정받아야,0.0,tree_importance
+all,all,인정받아야 하니까요,0.0,tree_importance
+all,all,인정받아야 한다고,0.0,tree_importance
+all,all,인정받아야 해,0.0,tree_importance
+all,all,일곱,0.0,tree_importance
+all,all,인형이어야 한다고,0.0,tree_importance
+all,all,인형이어야,0.0,tree_importance
+all,all,인형이니 다른,0.0,tree_importance
+all,all,인형이니,0.0,tree_importance
+all,all,인형이 얼굴이,0.0,tree_importance
+all,all,인형이,0.0,tree_importance
+all,all,인간이 아니라,0.0,tree_importance
+all,all,인형 대신,0.0,tree_importance
+all,all,인정해야 합니다,0.0,tree_importance
+all,all,인정해야,0.0,tree_importance
+all,all,인정해 줘야,0.0,tree_importance
+all,all,인정해 주세요,0.0,tree_importance
+all,all,인정해,0.0,tree_importance
+all,all,인정을 받기,0.0,tree_importance
+all,all,인정을,0.0,tree_importance
+all,all,인형,0.0,tree_importance
+all,all,있는 거예요,0.0,tree_importance
+all,all,이런,0.0,tree_importance
+all,all,이래요,0.0,tree_importance
+all,all,유일한 열쇠,0.0,tree_importance
+all,all,유일한,0.0,tree_importance
+all,all,유일무이해 그래,0.0,tree_importance
+all,all,유일무이해,0.0,tree_importance
+all,all,유명해지는 동안,0.0,tree_importance
+all,all,유명해지는,0.0,tree_importance
+all,all,유명하지 않은,0.0,tree_importance
+all,all,유명하지,0.0,tree_importance
+all,all,위협이라고 확신하게,0.0,tree_importance
+all,all,위협이라고,0.0,tree_importance
+all,all,"위해서인지 ,",0.0,tree_importance
+all,all,위해서인지,0.0,tree_importance
+all,all,위해서라면 이걸,0.0,tree_importance
+all,all,위해서라면,0.0,tree_importance
+all,all,위해 노래하는,0.0,tree_importance
+all,all,유치한,0.0,tree_importance
+all,all,위해,0.0,tree_importance
+all,all,유치한 것처럼,0.0,tree_importance
+all,all,"으 ,",0.0,tree_importance
+all,all,음악이,0.0,tree_importance
+all,all,음악을 더,0.0,tree_importance
+all,all,음악을,0.0,tree_importance
+all,all,음악은 좋은데,0.0,tree_importance
+all,all,음악은 정말,0.0,tree_importance
+all,all,음악은 전염성이,0.0,tree_importance
+all,all,음악은 인간을,0.0,tree_importance
+all,all,음악성이 좋지,0.0,tree_importance
+all,all,음악성이,0.0,tree_importance
+all,all,음성 샘플을,0.0,tree_importance
+all,all,음성,0.0,tree_importance
+all,all,은 힘,0.0,tree_importance
+all,all,은,0.0,tree_importance
+all,all,"으으으 ,",0.0,tree_importance
+all,all,으으으,0.0,tree_importance
+all,all,으,0.0,tree_importance
+all,all,위한 게,0.0,tree_importance
+all,all,위한 것이지,0.0,tree_importance
+all,all,위한,0.0,tree_importance
+all,all,우연히,0.0,tree_importance
+all,all,우릴 봐,0.0,tree_importance
+all,all,우릴,0.0,tree_importance
+all,all,우리의 희망의,0.0,tree_importance
+all,all,우리의,0.0,tree_importance
+all,all,우리에겐 사랑이,0.0,tree_importance
+all,all,우리에겐,0.0,tree_importance
+all,all,우리를 어디까지,0.0,tree_importance
+all,all,우리를,0.0,tree_importance
+all,all,우리는 이렇게,0.0,tree_importance
+all,all,우리는 두려움이,0.0,tree_importance
+all,all,우리는 돌아가야,0.0,tree_importance
+all,all,우리는 달려가,0.0,tree_importance
+all,all,우리는 거침없이,0.0,tree_importance
+all,all,우리는,0.0,tree_importance
+all,all,우연히 알게,0.0,tree_importance
+all,all,울지도,0.0,tree_importance
+all,all,울지도 않죠,0.0,tree_importance
+all,all,움직여,0.0,tree_importance
+all,all,원해서 이런,0.0,tree_importance
+all,all,원해서,0.0,tree_importance
+all,all,원한다면 와서,0.0,tree_importance
+all,all,원한다면,0.0,tree_importance
+all,all,움직임이나 다른,0.0,tree_importance
+all,all,움직임이나,0.0,tree_importance
+all,all,움직임 구현도,0.0,tree_importance
+all,all,음악이 멋지네요,0.0,tree_importance
+all,all,움직임,0.0,tree_importance
+all,all,움직일,0.0,tree_importance
+all,all,움직이는 차,0.0,tree_importance
+all,all,움직이는 그림과,0.0,tree_importance
+all,all,움직이는,0.0,tree_importance
+all,all,움직여요 .,0.0,tree_importance
+all,all,움직여요,0.0,tree_importance
+all,all,"움직여 ,",0.0,tree_importance
+all,all,움직일 때,0.0,tree_importance
+all,all,이래요 .,0.0,tree_importance
+all,all,음향,0.0,tree_importance
+all,all,음향의,0.0,tree_importance
+all,all,이걸 싫어해야,0.0,tree_importance
+all,all,이걸 만든,0.0,tree_importance
+all,all,"이걸 """,0.0,tree_importance
+all,all,이걸,0.0,tree_importance
+all,all,이건 정말,0.0,tree_importance
+all,all,이건 전부,0.0,tree_importance
+all,all,이건 여러분,0.0,tree_importance
+all,all,이건 소름,0.0,tree_importance
+all,all,이건 세상의,0.0,tree_importance
+all,all,이건 .,0.0,tree_importance
+all,all,이 훌륭한,0.0,tree_importance
+all,all,이 프로젝트에,0.0,tree_importance
+all,all,이 콘셉트가,0.0,tree_importance
+all,all,이 컨셉이,0.0,tree_importance
+all,all,이 캐릭터들을,0.0,tree_importance
+all,all,이것도,0.0,tree_importance
+all,all,이 정도로,0.0,tree_importance
+all,all,이것도 여전히,0.0,tree_importance
+all,all,이것만은 말할게,0.0,tree_importance
+all,all,이라고 말하고,0.0,tree_importance
+all,all,이라고,0.0,tree_importance
+all,all,"이디피아 ,",0.0,tree_importance
+all,all,이디피아,0.0,tree_importance
+all,all,이들이 하는,0.0,tree_importance
+all,all,이들이,0.0,tree_importance
+all,all,이끌었을 것,0.0,tree_importance
+all,all,이끌었을,0.0,tree_importance
+all,all,이게 현실일까,0.0,tree_importance
+all,all,이게 미래일까,0.0,tree_importance
+all,all,이게 낫거든,0.0,tree_importance
+all,all,이게 그냥,0.0,tree_importance
+all,all,이게 개소름끼치네,0.0,tree_importance
+all,all,"이게 ,",0.0,tree_importance
+all,all,이게,0.0,tree_importance
+all,all,이것만은,0.0,tree_importance
+all,all,이 작업을,0.0,tree_importance
+all,all,이 작업에,0.0,tree_importance
+all,all,이 음악은,0.0,tree_importance
+all,all,이 mv를,0.0,tree_importance
+all,all,이 cgi,0.0,tree_importance
+all,all,이 ai들을,0.0,tree_importance
+all,all,이 ai,0.0,tree_importance
+all,all,의상이 귀엽고,0.0,tree_importance
+all,all,의상이,0.0,tree_importance
+all,all,의견일 뿐이에요,0.0,tree_importance
+all,all,의견일,0.0,tree_importance
+all,all,"의견이고 ,",0.0,tree_importance
+all,all,의견이고,0.0,tree_importance
+all,all,의견을 남기러,0.0,tree_importance
+all,all,의견을,0.0,tree_importance
+all,all,음향인 3d의,0.0,tree_importance
+all,all,음향인,0.0,tree_importance
+all,all,음향의 미래와,0.0,tree_importance
+all,all,이 mv의,0.0,tree_importance
+all,all,이 곡과,0.0,tree_importance
+all,all,이 그룹은,0.0,tree_importance
+all,all,이 그룹을,0.0,tree_importance
+all,all,이 은,0.0,tree_importance
+all,all,이 영상을,0.0,tree_importance
+all,all,이 여자를,0.0,tree_importance
+all,all,이 여자들은,0.0,tree_importance
+all,all,이 세상에,0.0,tree_importance
+all,all,이 부분이,0.0,tree_importance
+all,all,이 부분에,0.0,tree_importance
+all,all,음향 녹음인가,0.0,tree_importance
+all,all,이 모델들은,0.0,tree_importance
+all,all,이 노래의,0.0,tree_importance
+all,all,이 노래에,0.0,tree_importance
+all,all,이 노래를,0.0,tree_importance
+all,all,이 노래는,0.0,tree_importance
+all,all,이 노래가,0.0,tree_importance
+all,all,이 노래,0.0,tree_importance
+all,all,이 그룹의,0.0,tree_importance
+all,all,이 말은,0.0,tree_importance
+all,all,있는 것,0.0,tree_importance
+all,all,있는 게,0.0,tree_importance
+all,all,있는 그룹이었다면,0.0,tree_importance
+all,all,제발,0.0,tree_importance
+all,all,제목이 레이디버그예요,0.0,tree_importance
+all,all,제목이,0.0,tree_importance
+all,all,제대로 찢어버리네,0.0,tree_importance
+all,all,제대로,0.0,tree_importance
+all,all,제기해 봅니다,0.0,tree_importance
+all,all,제기해,0.0,tree_importance
+all,all,제 취향에는,0.0,tree_importance
+all,all,제 생각은,0.0,tree_importance
+all,all,제 생각에는,0.0,tree_importance
+all,all,제 눈에는,0.0,tree_importance
+all,all,제 귀에는,0.0,tree_importance
+all,all,제 개인적인,0.0,tree_importance
+all,all,제 2d,0.0,tree_importance
+all,all,제,0.0,tree_importance
+all,all,제발 돌아와,0.0,tree_importance
+all,all,정점을 찍었던,0.0,tree_importance
+all,all,제우스가,0.0,tree_importance
+all,all,제우스가 그의,0.0,tree_importance
+all,all,조용히,0.0,tree_importance
+all,all,조심해 ),0.0,tree_importance
+all,all,조심해,0.0,tree_importance
+all,all,조금 비슷하다고,0.0,tree_importance
+all,all,조금,0.0,tree_importance
+all,all,"젠장 ,",0.0,tree_importance
+all,all,젠장,0.0,tree_importance
+all,all,제작진이 mv를,0.0,tree_importance
+all,all,제작진이,0.0,tree_importance
+all,all,제작자들이 주된,0.0,tree_importance
+all,all,제작자들이,0.0,tree_importance
+all,all,제작자는 자기만의,0.0,tree_importance
+all,all,제작자는,0.0,tree_importance
+all,all,제작 등,0.0,tree_importance
+all,all,제작,0.0,tree_importance
+all,all,제우스가 그녀를,0.0,tree_importance
+all,all,정점을,0.0,tree_importance
+all,all,정상에 오를,0.0,tree_importance
+all,all,정상에,0.0,tree_importance
+all,all,정말 받아들이기,0.0,tree_importance
+all,all,정말 미안하고,0.0,tree_importance
+all,all,정말 멋져,0.0,tree_importance
+all,all,정말 많은,0.0,tree_importance
+all,all,정말 대단해요,0.0,tree_importance
+all,all,정말 너무,0.0,tree_importance
+all,all,정말 끝내주는,0.0,tree_importance
+all,all,정말 굉장해,0.0,tree_importance
+all,all,정말 감탄했어,0.0,tree_importance
+all,all,정말 감탄스러워요,0.0,tree_importance
+all,all,정말 k,0.0,tree_importance
+all,all,정도로 과도한,0.0,tree_importance
+all,all,정도로,0.0,tree_importance
+all,all,정도는 되야지,0.0,tree_importance
+all,all,정도는,0.0,tree_importance
+all,all,정말 새롭고,0.0,tree_importance
+all,all,정말 실제,0.0,tree_importance
+all,all,정말 엄청나네,0.0,tree_importance
+all,all,정말 이,0.0,tree_importance
+all,all,정박이 있을까요,0.0,tree_importance
+all,all,정박이,0.0,tree_importance
+all,all,정말 🔥,0.0,tree_importance
+all,all,정말 훌륭해요,0.0,tree_importance
+all,all,정말 훌륭하고,0.0,tree_importance
+all,all,정말 중독성,0.0,tree_importance
+all,all,정말 좋은데,0.0,tree_importance
+all,all,조용히 해,0.0,tree_importance
+all,all,정말 좋은,0.0,tree_importance
+all,all,정말 좋았어,0.0,tree_importance
+all,all,정말 좋았고,0.0,tree_importance
+all,all,정말 좋아하지만,0.0,tree_importance
+all,all,정말 좋아요,0.0,tree_importance
+all,all,정말 좋아,0.0,tree_importance
+all,all,정말 재미있어,0.0,tree_importance
+all,all,정말 재능이,0.0,tree_importance
+all,all,정말 좋았어요,0.0,tree_importance
+all,all,정기적으로 이어지는,0.0,tree_importance
+all,all,존재,0.0,tree_importance
+all,all,존재하지,0.0,tree_importance
+all,all,좋았다는,0.0,tree_importance
+all,all,"좋았고 ,",0.0,tree_importance
+all,all,좋았고,0.0,tree_importance
+all,all,좋아해요 .,0.0,tree_importance
+all,all,좋아해요,0.0,tree_importance
+all,all,좋아합니까 ?,0.0,tree_importance
+all,all,좋아합니까,0.0,tree_importance
+all,all,좋아할 수,0.0,tree_importance
+all,all,좋아할,0.0,tree_importance
+all,all,좋아하지만 얼굴은,0.0,tree_importance
+all,all,좋아하지만,0.0,tree_importance
+all,all,좋아하지 않습니다,0.0,tree_importance
+all,all,좋아하지,0.0,tree_importance
+all,all,좋아하니 보람이,0.0,tree_importance
+all,all,좋아하니,0.0,tree_importance
+all,all,좋았다는 사실,0.0,tree_importance
+all,all,좋아하는 것,0.0,tree_importance
+all,all,좋았어,0.0,tree_importance
+all,all,좋았어 ❤,0.0,tree_importance
+all,all,좋지,0.0,tree_importance
+all,all,좋잖아요 ?,0.0,tree_importance
+all,all,좋잖아요,0.0,tree_importance
+all,all,좋은데 캐릭터들은,0.0,tree_importance
+all,all,좋은데 실제,0.0,tree_importance
+all,all,좋은데 ai,0.0,tree_importance
+all,all,"좋은데 ,",0.0,tree_importance
+all,all,좋은 보컬,0.0,tree_importance
+all,all,좋은 노래인데,0.0,tree_importance
+all,all,좋은 기회이기도,0.0,tree_importance
+all,all,좋은 곡,0.0,tree_importance
+all,all,좋은 것,0.0,tree_importance
+all,all,좋았어요 ♥,0.0,tree_importance
+all,all,좋았어요 .,0.0,tree_importance
+all,all,좋았어요,0.0,tree_importance
+all,all,좋았어 .,0.0,tree_importance
+all,all,좋아하는,0.0,tree_importance
+all,all,좋아요 .,0.0,tree_importance
+all,all,좋아요,0.0,tree_importance
+all,all,종말도,0.0,tree_importance
+all,all,좀 좋아해요,0.0,tree_importance
+all,all,좀 있지만,0.0,tree_importance
+all,all,좀 이상하긴,0.0,tree_importance
+all,all,좀 비주류인,0.0,tree_importance
+all,all,좀 비슷한,0.0,tree_importance
+all,all,좀 비슷하고,0.0,tree_importance
+all,all,좀 블랙핑크,0.0,tree_importance
+all,all,좀 고민이에요,0.0,tree_importance
+all,all,좀,0.0,tree_importance
+all,all,존중합니다 lol,0.0,tree_importance
+all,all,존중합니다,0.0,tree_importance
+all,all,존재할 수,0.0,tree_importance
+all,all,존재할,0.0,tree_importance
+all,all,존재하지 않는,0.0,tree_importance
+all,all,"종말도 ,",0.0,tree_importance
+all,all,좋게,0.0,tree_importance
+all,all,좋게 만들어,0.0,tree_importance
+all,all,좋겠다,0.0,tree_importance
+all,all,좋아 .,0.0,tree_importance
+all,all,"좋아 ,",0.0,tree_importance
+all,all,좋아,0.0,tree_importance
+all,all,좋든 음악성이,0.0,tree_importance
+all,all,좋든,0.0,tree_importance
+all,all,"좋다 ,",0.0,tree_importance
+all,all,좋다,0.0,tree_importance
+all,all,존재 ),0.0,tree_importance
+all,all,좋네 .,0.0,tree_importance
+all,all,좋고 정말,0.0,tree_importance
+all,all,좋고,0.0,tree_importance
+all,all,좋겠어요 .,0.0,tree_importance
+all,all,좋겠어요,0.0,tree_importance
+all,all,좋겠어 !,0.0,tree_importance
+all,all,좋겠어,0.0,tree_importance
+all,all,좋겠다 인생,0.0,tree_importance
+all,all,좋네,0.0,tree_importance
+all,all,정기적으로,0.0,tree_importance
+all,all,점이 정말,0.0,tree_importance
+all,all,점이,0.0,tree_importance
+all,all,자연스러워지면 더,0.0,tree_importance
+all,all,자연스러워지면,0.0,tree_importance
+all,all,자기만의 아이디어를,0.0,tree_importance
+all,all,자기만의,0.0,tree_importance
+all,all,자기들에게 완벽한,0.0,tree_importance
+all,all,자기들에게,0.0,tree_importance
+all,all,자기들만의 콘셉트를,0.0,tree_importance
+all,all,자기들만의,0.0,tree_importance
+all,all,자기 목소리로,0.0,tree_importance
+all,all,자기 뜻대로,0.0,tree_importance
+all,all,자기,0.0,tree_importance
+all,all,잊어버릴 것,0.0,tree_importance
+all,all,잊어버릴,0.0,tree_importance
+all,all,있지만 한국어보다,0.0,tree_importance
+all,all,"있지만 ,",0.0,tree_importance
+all,all,자연스럽게,0.0,tree_importance
+all,all,있지만,0.0,tree_importance
+all,all,자연스럽게 움직여요,0.0,tree_importance
+all,all,자유롭게 해줄게,0.0,tree_importance
+all,all,작품이야 .,0.0,tree_importance
+all,all,작품이야,0.0,tree_importance
+all,all,작품은 한동안,0.0,tree_importance
+all,all,작품은,0.0,tree_importance
+all,all,작품들을 뛰어넘는,0.0,tree_importance
+all,all,작품들을,0.0,tree_importance
+all,all,작업을 했으니,0.0,tree_importance
+all,all,작업을,0.0,tree_importance
+all,all,작업에 엄청난,0.0,tree_importance
+all,all,작업에 대한,0.0,tree_importance
+all,all,작업에,0.0,tree_importance
+all,all,작동하긴 하나,0.0,tree_importance
+all,all,작동하긴,0.0,tree_importance
+all,all,자주 여기,0.0,tree_importance
+all,all,자주,0.0,tree_importance
+all,all,자유롭게,0.0,tree_importance
+all,all,있지 않다면,0.0,tree_importance
+all,all,있지 ·,0.0,tree_importance
+all,all,있지,0.0,tree_importance
+all,all,있어,0.0,tree_importance
+all,all,있다는 점에서,0.0,tree_importance
+all,all,있다는 걸,0.0,tree_importance
+all,all,있다는 건,0.0,tree_importance
+all,all,있다는 거야,0.0,tree_importance
+all,all,있다는,0.0,tree_importance
+all,all,있다고 생각해,0.0,tree_importance
+all,all,있다고,0.0,tree_importance
+all,all,"있는지 ,",0.0,tree_importance
+all,all,있는지,0.0,tree_importance
+all,all,"있는데 ,",0.0,tree_importance
+all,all,있는데,0.0,tree_importance
+all,all,있는 죄의,0.0,tree_importance
+all,all,있는 두,0.0,tree_importance
+all,all,있는 도시는,0.0,tree_importance
+all,all,"있어 ,",0.0,tree_importance
+all,all,있어 .,0.0,tree_importance
+all,all,있어 쉴,0.0,tree_importance
+all,all,있어요,0.0,tree_importance
+all,all,있죠 .,0.0,tree_importance
+all,all,있죠,0.0,tree_importance
+all,all,있자니 참,0.0,tree_importance
+all,all,있자니,0.0,tree_importance
+all,all,있을까요 .,0.0,tree_importance
+all,all,있을까요,0.0,tree_importance
+all,all,있으면 좋겠어요,0.0,tree_importance
+all,all,잘 나왔네,0.0,tree_importance
+all,all,있으면,0.0,tree_importance
+all,all,있으니,0.0,tree_importance
+all,all,있었어 .,0.0,tree_importance
+all,all,있었어,0.0,tree_importance
+all,all,있었겠네요 !,0.0,tree_importance
+all,all,있었겠네요,0.0,tree_importance
+all,all,있어요 🤔,0.0,tree_importance
+all,all,있어요 .,0.0,tree_importance
+all,all,있으니 이,0.0,tree_importance
+all,all,잘 모르겠어,0.0,tree_importance
+all,all,잘 이해하도록,0.0,tree_importance
+all,all,잘 적응이,0.0,tree_importance
+all,all,전부 ai라서,0.0,tree_importance
+all,all,전부,0.0,tree_importance
+all,all,적응이 안,0.0,tree_importance
+all,all,적응이,0.0,tree_importance
+all,all,적도 없나요,0.0,tree_importance
+all,all,적도,0.0,tree_importance
+all,all,적 없어,0.0,tree_importance
+all,all,적 (,0.0,tree_importance
+all,all,적,0.0,tree_importance
+all,all,저항하는 존재,0.0,tree_importance
+all,all,저항하는,0.0,tree_importance
+all,all,저렇게 한심하게,0.0,tree_importance
+all,all,저렇게,0.0,tree_importance
+all,all,저는 진짜,0.0,tree_importance
+all,all,저는 이,0.0,tree_importance
+all,all,전부 너무,0.0,tree_importance
+all,all,전에,0.0,tree_importance
+all,all,전에 우연히,0.0,tree_importance
+all,all,전염성이,0.0,tree_importance
+all,all,점에서 같은,0.0,tree_importance
+all,all,"점에서 ,",0.0,tree_importance
+all,all,점에서,0.0,tree_importance
+all,all,점수를 깎았어,0.0,tree_importance
+all,all,점수를,0.0,tree_importance
+all,all,전환 사이에,0.0,tree_importance
+all,all,전환,0.0,tree_importance
+all,all,저는 완전히,0.0,tree_importance
+all,all,전혀 현실감이,0.0,tree_importance
+all,all,전혀,0.0,tree_importance
+all,all,전체적으로 노래가,0.0,tree_importance
+all,all,전체적으로,0.0,tree_importance
+all,all,전체 cgi,0.0,tree_importance
+all,all,"전체 ,",0.0,tree_importance
+all,all,전체,0.0,tree_importance
+all,all,전염성이 있다는,0.0,tree_importance
+all,all,전혀 나쁘지,0.0,tree_importance
+all,all,좋지 않으면,0.0,tree_importance
+all,all,저는 여러,0.0,tree_importance
+all,all,저는 그렇게,0.0,tree_importance
+all,all,장소들을 보면,0.0,tree_importance
+all,all,장소들을,0.0,tree_importance
+all,all,장면 전환,0.0,tree_importance
+all,all,"장면 ,",0.0,tree_importance
+all,all,장면,0.0,tree_importance
+all,all,잡아봐 string,0.0,tree_importance
+all,all,"잡아봐 ,",0.0,tree_importance
+all,all,잡아봐,0.0,tree_importance
+all,all,잡아 (,0.0,tree_importance
+all,all,잡아,0.0,tree_importance
+all,all,잠재적인 위협이라고,0.0,tree_importance
+all,all,잠재적인,0.0,tree_importance
+all,all,잘하네요 !,0.0,tree_importance
+all,all,잘하네요,0.0,tree_importance
+all,all,잘 춰,0.0,tree_importance
+all,all,재능,0.0,tree_importance
+all,all,재능 있는,0.0,tree_importance
+all,all,재능이,0.0,tree_importance
+all,all,재능이 있네요,0.0,tree_importance
+all,all,저는 가상,0.0,tree_importance
+all,all,저는,0.0,tree_importance
+all,all,저 얼굴은,0.0,tree_importance
+all,all,저 개인의,0.0,tree_importance
+all,all,저,0.0,tree_importance
+all,all,쟤들 나중에,0.0,tree_importance
+all,all,쟤들,0.0,tree_importance
+all,all,저는 악플러가,0.0,tree_importance
+all,all,재미있어서 좋아해요,0.0,tree_importance
+all,all,재미있어 !,0.0,tree_importance
+all,all,재미있어,0.0,tree_importance
+all,all,재미있고 춤도,0.0,tree_importance
+all,all,재미있고,0.0,tree_importance
+all,all,재미있거나 멋지거나,0.0,tree_importance
+all,all,재미있거나,0.0,tree_importance
+all,all,재능이 있으니,0.0,tree_importance
+all,all,재미있어서,0.0,tree_importance
+all,all,문제가 없어요,0.0,tree_importance
+all,all,🫰 🏽,0.0,tree_importance
+all,all,무시할래 .,0.0,tree_importance
+all,all,resistance,0.0,tree_importance
+all,all,ready for,0.0,tree_importance
+all,all,"ready ,",0.0,tree_importance
+all,all,ready,0.0,tree_importance
+all,all,r -,0.0,tree_importance
+all,all,r,0.0,tree_importance
+all,all,put the,0.0,tree_importance
+all,all,put,0.0,tree_importance
+all,all,paradigm (,0.0,tree_importance
+all,all,paradigm,0.0,tree_importance
+all,all,pandora 이제,0.0,tree_importance
+all,all,pandora 모든,0.0,tree_importance
+all,all,pandora 모두,0.0,tree_importance
+all,all,"pandora ,",0.0,tree_importance
+all,all,pandora ',0.0,tree_importance
+all,all,resistance ),0.0,tree_importance
+all,all,pandora,0.0,tree_importance
+all,all,rule,0.0,tree_importance
+all,all,rush,0.0,tree_importance
+all,all,see 우릴,0.0,tree_importance
+all,all,see,0.0,tree_importance
+all,all,secret are,0.0,tree_importance
+all,all,secret,0.0,tree_importance
+all,all,say my,0.0,tree_importance
+all,all,say,0.0,tree_importance
+all,all,s turn,0.0,tree_importance
+all,all,s go,0.0,tree_importance
+all,all,s box,0.0,tree_importance
+all,all,s,0.0,tree_importance
+all,all,rwby의 한,0.0,tree_importance
+all,all,rwby의,0.0,tree_importance
+all,all,"rush ,",0.0,tree_importance
+all,all,rush ),0.0,tree_importance
+all,all,rush (,0.0,tree_importance
+all,all,rule 마주할,0.0,tree_importance
+all,all,set,0.0,tree_importance
+all,all,p -,0.0,tree_importance
+all,all,out ),0.0,tree_importance
+all,all,of,0.0,tree_importance
+all,all,o -,0.0,tree_importance
+all,all,o,0.0,tree_importance
+all,all,now we,0.0,tree_importance
+all,all,now,0.0,tree_importance
+all,all,not gonna,0.0,tree_importance
+all,all,not,0.0,tree_importance
+all,all,next level과,0.0,tree_importance
+all,all,next level,0.0,tree_importance
+all,all,next,0.0,tree_importance
+all,all,never been,0.0,tree_importance
+all,all,never,0.0,tree_importance
+all,all,need let,0.0,tree_importance
+all,all,need a,0.0,tree_importance
+all,all,need,0.0,tree_importance
+all,all,of a,0.0,tree_importance
+all,all,p,0.0,tree_importance
+all,all,of our,0.0,tree_importance
+all,all,oh ),0.0,tree_importance
+all,all,out,0.0,tree_importance
+all,all,our hope,0.0,tree_importance
+all,all,our,0.0,tree_importance
+all,all,open up,0.0,tree_importance
+all,all,open the,0.0,tree_importance
+all,all,open,0.0,tree_importance
+all,all,one that,0.0,tree_importance
+all,all,one of,0.0,tree_importance
+all,all,one,0.0,tree_importance
+all,all,omg 음악이,0.0,tree_importance
+all,all,omg 난,0.0,tree_importance
+all,all,omg,0.0,tree_importance
+all,all,"okay ,",0.0,tree_importance
+all,all,okay,0.0,tree_importance
+all,all,oh -,0.0,tree_importance
+all,all,oh,0.0,tree_importance
+all,all,"set ,",0.0,tree_importance
+all,all,set you,0.0,tree_importance
+all,all,shh,0.0,tree_importance
+all,all,v -,0.0,tree_importance
+all,all,v,0.0,tree_importance
+all,all,us sing,0.0,tree_importance
+all,all,us,0.0,tree_importance
+all,all,up 두렵지,0.0,tree_importance
+all,all,up your,0.0,tree_importance
+all,all,up when,0.0,tree_importance
+all,all,up,0.0,tree_importance
+all,all,turn the,0.0,tree_importance
+all,all,turn,0.0,tree_importance
+all,all,true 배경,0.0,tree_importance
+all,all,true,0.0,tree_importance
+all,all,top ?,0.0,tree_importance
+all,all,top,0.0,tree_importance
+all,all,to the,0.0,tree_importance
+all,all,victory,0.0,tree_importance
+all,all,to show,0.0,tree_importance
+all,all,victory pandora,0.0,tree_importance
+all,all,view 멈출,0.0,tree_importance
+all,all,we need,0.0,tree_importance
+all,all,we have,0.0,tree_importance
+all,all,we go,0.0,tree_importance
+all,all,we do,0.0,tree_importance
+all,all,we are,0.0,tree_importance
+all,all,we,0.0,tree_importance
+all,all,wave 새로,0.0,tree_importance
+all,all,wave 뒤바뀌는,0.0,tree_importance
+all,all,wave,0.0,tree_importance
+all,all,watch out,0.0,tree_importance
+all,all,watch,0.0,tree_importance
+all,all,want it,0.0,tree_importance
+all,all,want,0.0,tree_importance
+all,all,vocaloid 컨셉을,0.0,tree_importance
+all,all,vocaloid,0.0,tree_importance
+all,all,view,0.0,tree_importance
+all,all,to put,0.0,tree_importance
+all,all,to go,0.0,tree_importance
+all,all,to,0.0,tree_importance
+all,all,string of,0.0,tree_importance
+all,all,string,0.0,tree_importance
+all,all,stop can,0.0,tree_importance
+all,all,stop,0.0,tree_importance
+all,all,so we,0.0,tree_importance
+all,all,so let,0.0,tree_importance
+all,all,so careless,0.0,tree_importance
+all,all,so,0.0,tree_importance
+all,all,"sing ,",0.0,tree_importance
+all,all,sing,0.0,tree_importance
+all,all,show (,0.0,tree_importance
+all,all,show,0.0,tree_importance
+all,all,shock want,0.0,tree_importance
+all,all,shock,0.0,tree_importance
+all,all,shh ),0.0,tree_importance
+all,all,t,0.0,tree_importance
+all,all,t know,0.0,tree_importance
+all,all,tbh,0.0,tree_importance
+all,all,"tbh ,",0.0,tree_importance
+all,all,this 감정을,0.0,tree_importance
+all,all,this ?,0.0,tree_importance
+all,all,this,0.0,tree_importance
+all,all,thing 들려,0.0,tree_importance
+all,all,thing,0.0,tree_importance
+all,all,therefore ),0.0,tree_importance
+all,all,therefore,0.0,tree_importance
+all,all,ne ?,0.0,tree_importance
+all,all,the world,0.0,tree_importance
+all,all,the top,0.0,tree_importance
+all,all,the pandora,0.0,tree_importance
+all,all,the music,0.0,tree_importance
+all,all,the,0.0,tree_importance
+all,all,that you,0.0,tree_importance
+all,all,that thing,0.0,tree_importance
+all,all,that,0.0,tree_importance
+all,all,the wave,0.0,tree_importance
+all,all,ne,0.0,tree_importance
+all,all,name 외쳐,0.0,tree_importance
+all,all,name,0.0,tree_importance
+all,all,kda 느낌이,0.0,tree_importance
+all,all,kda >,0.0,tree_importance
+all,all,kda,0.0,tree_importance
+all,all,k /,0.0,tree_importance
+all,all,k,0.0,tree_importance
+all,all,it like,0.0,tree_importance
+all,all,it hush,0.0,tree_importance
+all,all,it but,0.0,tree_importance
+all,all,it ?,0.0,tree_importance
+all,all,it,0.0,tree_importance
+all,all,is heartless,0.0,tree_importance
+all,all,is,0.0,tree_importance
+all,all,in shock,0.0,tree_importance
+all,all,in hard,0.0,tree_importance
+all,all,in,0.0,tree_importance
+all,all,kda같네,0.0,tree_importance
+all,all,"idypia ,",0.0,tree_importance
+all,all,kda와,0.0,tree_importance
+all,all,kda의,0.0,tree_importance
+all,all,k팝 팬들은,0.0,tree_importance
+all,all,k팝 업계가,0.0,tree_importance
+all,all,k팝 그룹들이,0.0,tree_importance
+all,all,k팝,0.0,tree_importance
+all,all,know 봐,0.0,tree_importance
+all,all,know one,0.0,tree_importance
+all,all,know,0.0,tree_importance
+all,all,kind ayy,0.0,tree_importance
+all,all,kind,0.0,tree_importance
+all,all,keep up,0.0,tree_importance
+all,all,keep it,0.0,tree_importance
+all,all,keep,0.0,tree_importance
+all,all,kda인가 ?,0.0,tree_importance
+all,all,kda인가,0.0,tree_importance
+all,all,kda의 진동을,0.0,tree_importance
+all,all,kda와 에스파,0.0,tree_importance
+all,all,idypia,0.0,tree_importance
+all,all,i 현실일까,0.0,tree_importance
+all,all,i 미래일까,0.0,tree_importance
+all,all,hear that,0.0,tree_importance
+all,all,hear,0.0,tree_importance
+all,all,have to,0.0,tree_importance
+all,all,have,0.0,tree_importance
+all,all,hard 우리가,0.0,tree_importance
+all,all,"hard ,",0.0,tree_importance
+all,all,hard,0.0,tree_importance
+all,all,gonna stop,0.0,tree_importance
+all,all,gonna,0.0,tree_importance
+all,all,go to,0.0,tree_importance
+all,all,go pandora,0.0,tree_importance
+all,all,go hard,0.0,tree_importance
+all,all,go back,0.0,tree_importance
+all,all,go,0.0,tree_importance
+all,all,get it,0.0,tree_importance
+all,all,heartless,0.0,tree_importance
+all,all,heartless but,0.0,tree_importance
+all,all,hey,0.0,tree_importance
+all,all,hey (,0.0,tree_importance
+all,all,i know,0.0,tree_importance
+all,all,i come,0.0,tree_importance
+all,all,"i ,",0.0,tree_importance
+all,all,i ',0.0,tree_importance
+all,all,i,0.0,tree_importance
+all,all,hush p,0.0,tree_importance
+all,all,hush o,0.0,tree_importance
+all,all,k팝과,0.0,tree_importance
+all,all,hush ah,0.0,tree_importance
+all,all,hush (,0.0,tree_importance
+all,all,hush,0.0,tree_importance
+all,all,hope so,0.0,tree_importance
+all,all,hope,0.0,tree_importance
+all,all,history come,0.0,tree_importance
+all,all,history (,0.0,tree_importance
+all,all,history,0.0,tree_importance
+all,all,"hush ,",0.0,tree_importance
+all,all,we rush,0.0,tree_importance
+all,all,k팝과 음악은,0.0,tree_importance
+all,all,k팝은 처음이지만,0.0,tree_importance
+all,all,music,0.0,tree_importance
+all,all,move 하나뿐인,0.0,tree_importance
+all,all,move,0.0,tree_importance
+all,all,more가 떠오르네요,0.0,tree_importance
+all,all,more가,0.0,tree_importance
+all,all,more 분위기와,0.0,tree_importance
+all,all,more 같아요,0.0,tree_importance
+all,all,more,0.0,tree_importance
+all,all,me pandora,0.0,tree_importance
+all,all,me mave,0.0,tree_importance
+all,all,me hear,0.0,tree_importance
+all,all,me,0.0,tree_importance
+all,all,mave :,0.0,tree_importance
+all,all,mave,0.0,tree_importance
+all,all,mamba를 너무,0.0,tree_importance
+all,all,music up,0.0,tree_importance
+all,all,mamba를,0.0,tree_importance
+all,all,mv,0.0,tree_importance
+all,all,mv 전체,0.0,tree_importance
+all,all,n -,0.0,tree_importance
+all,all,n,0.0,tree_importance
+all,all,my들이 에스파의,0.0,tree_importance
+all,all,my들이,0.0,tree_importance
+all,all,my name,0.0,tree_importance
+all,all,my,0.0,tree_importance
+all,all,mv의 모습이,0.0,tree_importance
+all,all,mv의,0.0,tree_importance
+all,all,mv와 보컬이,0.0,tree_importance
+all,all,mv와,0.0,tree_importance
+all,all,mv를 만드는,0.0,tree_importance
+all,all,mv를 내줘서,0.0,tree_importance
+all,all,mv를,0.0,tree_importance
+all,all,mv는 정말,0.0,tree_importance
+all,all,mv는,0.0,tree_importance
+all,all,mv 다,0.0,tree_importance
+all,all,mamba 안무,0.0,tree_importance
+all,all,mamba,0.0,tree_importance
+all,all,makeover의 글로벌,0.0,tree_importance
+all,all,life,0.0,tree_importance
+all,all,level과 black,0.0,tree_importance
+all,all,level과,0.0,tree_importance
+all,all,level 2,0.0,tree_importance
+all,all,level,0.0,tree_importance
+all,all,let us,0.0,tree_importance
+all,all,let me,0.0,tree_importance
+all,all,let ',0.0,tree_importance
+all,all,let,0.0,tree_importance
+all,all,la la,0.0,tree_importance
+all,all,la ),0.0,tree_importance
+all,all,la,0.0,tree_importance
+all,all,k팝이 보컬로이드,0.0,tree_importance
+all,all,k팝이 무너지는,0.0,tree_importance
+all,all,k팝이,0.0,tree_importance
+all,all,life makeover의,0.0,tree_importance
+all,all,like,0.0,tree_importance
+all,all,like this,0.0,tree_importance
+all,all,lindo,0.0,tree_importance
+all,all,makeover의,0.0,tree_importance
+all,all,make you,0.0,tree_importance
+all,all,make,0.0,tree_importance
+all,all,m one,0.0,tree_importance
+all,all,m not,0.0,tree_importance
+all,all,m coming,0.0,tree_importance
+all,all,m a,0.0,tree_importance
+all,all,k팝은,0.0,tree_importance
+all,all,m -,0.0,tree_importance
+all,all,love 더,0.0,tree_importance
+all,all,love,0.0,tree_importance
+all,all,lol 😂,0.0,tree_importance
+all,all,lol,0.0,tree_importance
+all,all,ll set,0.0,tree_importance
+all,all,ll,0.0,tree_importance
+all,all,lindo .,0.0,tree_importance
+all,all,m,0.0,tree_importance
+all,all,when,0.0,tree_importance
+all,all,when i,0.0,tree_importance
+all,all,whoa,0.0,tree_importance
+all,all,건 ai,0.0,tree_importance
+all,all,걱정도 하지,0.0,tree_importance
+all,all,걱정도,0.0,tree_importance
+all,all,거침없이 나아가,0.0,tree_importance
+all,all,거침없이,0.0,tree_importance
+all,all,거침없었던 적,0.0,tree_importance
+all,all,거침없었던,0.0,tree_importance
+all,all,거죠 .,0.0,tree_importance
+all,all,거죠,0.0,tree_importance
+all,all,거잖아 .,0.0,tree_importance
+all,all,거잖아,0.0,tree_importance
+all,all,거의 이만큼,0.0,tree_importance
+all,all,거의,0.0,tree_importance
+all,all,거요 .,0.0,tree_importance
+all,all,거요,0.0,tree_importance
+all,all,건 괜찮았으면서,0.0,tree_importance
+all,all,거예요 .,0.0,tree_importance
+all,all,건 대단하지만,0.0,tree_importance
+all,all,건 뭐든,0.0,tree_importance
+all,all,건지는,0.0,tree_importance
+all,all,건지 궁금해요,0.0,tree_importance
+all,all,건지,0.0,tree_importance
+all,all,건물에서 뛰어내려,0.0,tree_importance
+all,all,건물에서,0.0,tree_importance
+all,all,건가요 ?,0.0,tree_importance
+all,all,건가요,0.0,tree_importance
+all,all,건 회사가,0.0,tree_importance
+all,all,건 정말,0.0,tree_importance
+all,all,건 저,0.0,tree_importance
+all,all,건 알지만,0.0,tree_importance
+all,all,건 아무,0.0,tree_importance
+all,all,건 아닌데,0.0,tree_importance
+all,all,건 아니지만,0.0,tree_importance
+all,all,건 아니에요,0.0,tree_importance
+all,all,건 맞지만,0.0,tree_importance
+all,all,거예요,0.0,tree_importance
+all,all,거야 😭,0.0,tree_importance
+all,all,거야 원한다면,0.0,tree_importance
+all,all,개야 🤡,0.0,tree_importance
+all,all,개야,0.0,tree_importance
+all,all,개소름끼치네 이세돌도,0.0,tree_importance
+all,all,개소름끼치네,0.0,tree_importance
+all,all,개선된 버전이라고,0.0,tree_importance
+all,all,개선된,0.0,tree_importance
+all,all,개도 안,0.0,tree_importance
+all,all,개도,0.0,tree_importance
+all,all,개념이죠 .,0.0,tree_importance
+all,all,개념이죠,0.0,tree_importance
+all,all,개념의 복사,0.0,tree_importance
+all,all,개념의,0.0,tree_importance
+all,all,개개인의 스타일도,0.0,tree_importance
+all,all,개개인의,0.0,tree_importance
+all,all,같지도 않아서,0.0,tree_importance
+all,all,개인의,0.0,tree_importance
+all,all,개인의 의견일,0.0,tree_importance
+all,all,개인적으로,0.0,tree_importance
+all,all,개인적으로 메이브는,0.0,tree_importance
+all,all,거야 내가,0.0,tree_importance
+all,all,거야 ?,0.0,tree_importance
+all,all,거야 .,0.0,tree_importance
+all,all,거야 !,0.0,tree_importance
+all,all,거라면 더,0.0,tree_importance
+all,all,거라면,0.0,tree_importance
+all,all,거라고 생각하지,0.0,tree_importance
+all,all,건지는 모르겠지만,0.0,tree_importance
+all,all,거라고,0.0,tree_importance
+all,all,거니까요,0.0,tree_importance
+all,all,"거나 """,0.0,tree_importance
+all,all,거나,0.0,tree_importance
+all,all,개좋음 ?,0.0,tree_importance
+all,all,개좋음,0.0,tree_importance
+all,all,개인적인 의견이고,0.0,tree_importance
+all,all,개인적인,0.0,tree_importance
+all,all,거니까요 .,0.0,tree_importance
+all,all,같지도,0.0,tree_importance
+all,all,건지도,0.0,tree_importance
+all,all,"걸 ,",0.0,tree_importance
+all,all,것이지,0.0,tree_importance
+all,all,것이죠 .,0.0,tree_importance
+all,all,것이죠,0.0,tree_importance
+all,all,것이어야 보면서,0.0,tree_importance
+all,all,것이어야,0.0,tree_importance
+all,all,"것이라면 ,",0.0,tree_importance
+all,all,것이라면,0.0,tree_importance
+all,all,것이라 해도,0.0,tree_importance
+all,all,것이라,0.0,tree_importance
+all,all,것이 아니라서,0.0,tree_importance
+all,all,것이 나온다고,0.0,tree_importance
+all,all,것이,0.0,tree_importance
+all,all,것에 더,0.0,tree_importance
+all,all,것에 대해,0.0,tree_importance
+all,all,것에,0.0,tree_importance
+all,all,"것이지 ,",0.0,tree_importance
+all,all,것보다는 이게,0.0,tree_importance
+all,all,것처럼,0.0,tree_importance
+all,all,문제가,0.0,tree_importance
+all,all,게다가 최고의,0.0,tree_importance
+all,all,게다가 그,0.0,tree_importance
+all,all,게다가,0.0,tree_importance
+all,all,게 좀,0.0,tree_importance
+all,all,게 있어요,0.0,tree_importance
+all,all,게 있는,0.0,tree_importance
+all,all,게 이상하네,0.0,tree_importance
+all,all,게 안타깝네요,0.0,tree_importance
+all,all,게 아쉬울,0.0,tree_importance
+all,all,게 아니야,0.0,tree_importance
+all,all,게 아니라,0.0,tree_importance
+all,all,게 분명히,0.0,tree_importance
+all,all,게 놀랍지도,0.0,tree_importance
+all,all,게 낫지,0.0,tree_importance
+all,all,것처럼 정기적으로,0.0,tree_importance
+all,all,것처럼 느껴지지,0.0,tree_importance
+all,all,것보다는,0.0,tree_importance
+all,all,것보다 훨씬,0.0,tree_importance
+all,all,것보다 더,0.0,tree_importance
+all,all,검색한,0.0,tree_importance
+all,all,걸지도 모르겠네요,0.0,tree_importance
+all,all,걸지도,0.0,tree_importance
+all,all,걸까요 ?,0.0,tree_importance
+all,all,걸까요,0.0,tree_importance
+all,all,걸까 ?,0.0,tree_importance
+all,all,걸까,0.0,tree_importance
+all,all,걸 인정해야,0.0,tree_importance
+all,all,걸 알아줬으면,0.0,tree_importance
+all,all,걸 알아,0.0,tree_importance
+all,all,걸 쉽게,0.0,tree_importance
+all,all,걸 멈출,0.0,tree_importance
+all,all,걸 기억하세요,0.0,tree_importance
+all,all,걸 계속,0.0,tree_importance
+all,all,걸 yeah,0.0,tree_importance
+all,all,검색한 뜻,0.0,tree_importance
+all,all,검색했는데,0.0,tree_importance
+all,all,"검색했는데 ,",0.0,tree_importance
+all,all,겁니다,0.0,tree_importance
+all,all,것보다,0.0,tree_importance
+all,all,것들을 보고,0.0,tree_importance
+all,all,것들을,0.0,tree_importance
+all,all,것도 이해는,0.0,tree_importance
+all,all,것도 아니에요,0.0,tree_importance
+all,all,것도 마찬가지예요,0.0,tree_importance
+all,all,것도,0.0,tree_importance
+all,all,건지도 모르겠네요,0.0,tree_importance
+all,all,것과 애니,0.0,tree_importance
+all,all,것 사이에,0.0,tree_importance
+all,all,것 같은데,0.0,tree_importance
+all,all,것 같은,0.0,tree_importance
+all,all,것 같아요,0.0,tree_importance
+all,all,것 같아,0.0,tree_importance
+all,all,것 같다고,0.0,tree_importance
+all,all,겁니다 .,0.0,tree_importance
+all,all,것과,0.0,tree_importance
+all,all,get,0.0,tree_importance
+all,all,"같은데 ,",0.0,tree_importance
+all,all,같은 제,0.0,tree_importance
+all,all,ㅋㅋ,0.0,tree_importance
+all,all,ㄹㅇ ㅋㅋㅋㅋㅋㅋㅋ,0.0,tree_importance
+all,all,ㄹㅇ,0.0,tree_importance
+all,all,ㄷㄷ,0.0,tree_importance
+all,all,❤ 🎵,0.0,tree_importance
+all,all,❤ ️,0.0,tree_importance
+all,all,❤,0.0,tree_importance
+all,all,❣ ️,0.0,tree_importance
+all,all,❣,0.0,tree_importance
+all,all,✿ ✿,0.0,tree_importance
+all,all,✿ ),0.0,tree_importance
+all,all,✿ ',0.0,tree_importance
+all,all,✿,0.0,tree_importance
+all,all,✨ 🔥,0.0,tree_importance
+all,all,✨ 💗,0.0,tree_importance
+all,all,ㅋㅋ .,0.0,tree_importance
+all,all,✨ ✨,0.0,tree_importance
+all,all,ㅋㅋㅋㅋㅋㅋㅋ,0.0,tree_importance
+all,all,가공하는 거니까요,0.0,tree_importance
+all,all,가상 모델을,0.0,tree_importance
+all,all,가상 그룹,0.0,tree_importance
+all,all,가상,0.0,tree_importance
+all,all,가사 0,0.0,tree_importance
+all,all,가사,0.0,tree_importance
+all,all,가능한 자주,0.0,tree_importance
+all,all,가능한,0.0,tree_importance
+all,all,가능성 이게,0.0,tree_importance
+all,all,가능성 i,0.0,tree_importance
+all,all,가능성,0.0,tree_importance
+all,all,가는 장소들을,0.0,tree_importance
+all,all,가는,0.0,tree_importance
+all,all,가까워요 .,0.0,tree_importance
+all,all,가까워요,0.0,tree_importance
+all,all,가공하는 방식이라면,0.0,tree_importance
+all,all,가공하는,0.0,tree_importance
+all,all,♥ (,0.0,tree_importance
+all,all,♥,0.0,tree_importance
+all,all,♀ ️,0.0,tree_importance
+all,all,you need,0.0,tree_importance
+all,all,you keep,0.0,tree_importance
+all,all,you i,0.0,tree_importance
+all,all,you free,0.0,tree_importance
+all,all,you don,0.0,tree_importance
+all,all,you,0.0,tree_importance
+all,all,yeah we,0.0,tree_importance
+all,all,yeah ),0.0,tree_importance
+all,all,yeah,0.0,tree_importance
+all,all,world in,0.0,tree_importance
+all,all,world,0.0,tree_importance
+all,all,woo 끝없이,0.0,tree_importance
+all,all,woo ),0.0,tree_importance
+all,all,woo,0.0,tree_importance
+all,all,"whoa ,",0.0,tree_importance
+all,all,you ready,0.0,tree_importance
+all,all,you rush,0.0,tree_importance
+all,all,your,0.0,tree_importance
+all,all,your eyes,0.0,tree_importance
+all,all,♀,0.0,tree_importance
+all,all,∀ `,0.0,tree_importance
+all,all,∀,0.0,tree_importance
+all,all,—,0.0,tree_importance
+all,all,‍ 🩹,0.0,tree_importance
+all,all,‍ ♀,0.0,tree_importance
+all,all,‍,0.0,tree_importance
+all,all,가상 모델입니다,0.0,tree_importance
+all,all,æ와 닮았다는,0.0,tree_importance
+all,all,æ 콘셉트와,0.0,tree_importance
+all,all,æ,0.0,tree_importance
+all,all,· 있지,0.0,tree_importance
+all,all,· 블랙핑크와,0.0,tree_importance
+all,all,·,0.0,tree_importance
+all,all,~ 노래는,0.0,tree_importance
+all,all,~,0.0,tree_importance
+all,all,æ와,0.0,tree_importance
+all,all,같은데,0.0,tree_importance
+all,all,가상으로,0.0,tree_importance
+all,all,가상이라,0.0,tree_importance
+all,all,"같고 ,",0.0,tree_importance
+all,all,같고,0.0,tree_importance
+all,all,"강렬하고 ,",0.0,tree_importance
+all,all,강렬하고,0.0,tree_importance
+all,all,강렬하게 다가가,0.0,tree_importance
+all,all,강렬하게,0.0,tree_importance
+all,all,감탄했어 🤍,0.0,tree_importance
+all,all,감탄했어,0.0,tree_importance
+all,all,감탄스러워요 .,0.0,tree_importance
+all,all,감탄스러워요,0.0,tree_importance
+all,all,감정을 품었다고,0.0,tree_importance
+all,all,감정을 되찾아,0.0,tree_importance
+all,all,감정을,0.0,tree_importance
+all,all,감정들이 너를,0.0,tree_importance
+all,all,감정들이 make,0.0,tree_importance
+all,all,같다고,0.0,tree_importance
+all,all,감정들이,0.0,tree_importance
+all,all,같다고 생각하지만,0.0,tree_importance
+all,all,같아,0.0,tree_importance
+all,all,같은 일을,0.0,tree_importance
+all,all,같은 악성,0.0,tree_importance
+all,all,같은 분위기야,0.0,tree_importance
+all,all,같은 느낌이에요,0.0,tree_importance
+all,all,같은 느낌,0.0,tree_importance
+all,all,같은 기분은,0.0,tree_importance
+all,all,같은 것이죠,0.0,tree_importance
+all,all,같은 거요,0.0,tree_importance
+all,all,같은 개념이죠,0.0,tree_importance
+all,all,같아요 🤷,0.0,tree_importance
+all,all,같아요 🙂,0.0,tree_importance
+all,all,같아요 .,0.0,tree_importance
+all,all,같아요 !,0.0,tree_importance
+all,all,같아 ㅋㅋ,0.0,tree_importance
+all,all,같아 .,0.0,tree_importance
+all,all,같다고 하는데,0.0,tree_importance
+all,all,감정 없는,0.0,tree_importance
+all,all,감정 속에,0.0,tree_importance
+all,all,갈게 .,0.0,tree_importance
+all,all,가수들이,0.0,tree_importance
+all,all,가수들의 이름이,0.0,tree_importance
+all,all,가수들의,0.0,tree_importance
+all,all,가수들도 마땅히,0.0,tree_importance
+all,all,가수들도 나이,0.0,tree_importance
+all,all,가수들도,0.0,tree_importance
+all,all,"가수들 ,",0.0,tree_importance
+all,all,가수들,0.0,tree_importance
+all,all,"가수가 ,",0.0,tree_importance
+all,all,가수가,0.0,tree_importance
+all,all,가서 나비스랑,0.0,tree_importance
+all,all,가서,0.0,tree_importance
+all,all,가상현실이 에스파,0.0,tree_importance
+all,all,가상현실이,0.0,tree_importance
+all,all,가상이라 이상하다고,0.0,tree_importance
+all,all,가수들이 공연하는,0.0,tree_importance
+all,all,가수들이 이런,0.0,tree_importance
+all,all,가수와,0.0,tree_importance
+all,all,가수와 아티스트들이,0.0,tree_importance
+all,all,갈게,0.0,tree_importance
+all,all,가질 수는,0.0,tree_importance
+all,all,가질 수,0.0,tree_importance
+all,all,가질,0.0,tree_importance
+all,all,가진 물건들,0.0,tree_importance
+all,all,가진 만큼,0.0,tree_importance
+all,all,가진,0.0,tree_importance
+all,all,가상으로 만들,0.0,tree_importance
+all,all,가져와 인류의,0.0,tree_importance
+all,all,가져와,0.0,tree_importance
+all,all,가져야 해요,0.0,tree_importance
+all,all,가져야,0.0,tree_importance
+all,all,가져가 하지만,0.0,tree_importance
+all,all,가져가,0.0,tree_importance
+all,all,가자 준비,0.0,tree_importance
+all,all,가자,0.0,tree_importance
+all,all,가져와 가공하는,0.0,tree_importance
+all,all,게임,0.0,tree_importance
+all,all,free -,0.0,tree_importance
+all,all,for this,0.0,tree_importance
+all,all,- open,0.0,tree_importance
+all,all,- o,0.0,tree_importance
+all,all,- n,0.0,tree_importance
+all,all,- e,0.0,tree_importance
+all,all,- d,0.0,tree_importance
+all,all,- a,0.0,tree_importance
+all,all,", 휴거의",0.0,tree_importance
+all,all,", 헤이",0.0,tree_importance
+all,all,", 해쓰네",0.0,tree_importance
+all,all,", 하나뿐인",0.0,tree_importance
+all,all,", 평범한",0.0,tree_importance
+all,all,", 패션",0.0,tree_importance
+all,all,", 파도를",0.0,tree_importance
+all,all,", 특히",0.0,tree_importance
+all,all,", 처음부터",0.0,tree_importance
+all,all,- r,0.0,tree_importance
+all,all,", 차이가",0.0,tree_importance
+all,all,- v,0.0,tree_importance
+all,all,- 건물에서,0.0,tree_importance
+all,all,. ai는,0.0,tree_importance
+all,all,. ai,0.0,tree_importance
+all,all,. ?,0.0,tree_importance
+all,all,. 6,0.0,tree_importance
+all,all,. 5,0.0,tree_importance
+all,all,. 4,0.0,tree_importance
+all,all,. 3d라는,0.0,tree_importance
+all,all,. 3,0.0,tree_importance
+all,all,. 2,0.0,tree_importance
+all,all,. 1,0.0,tree_importance
+all,all,. -,0.0,tree_importance
+all,all,". """,0.0,tree_importance
+all,all,. !,0.0,tree_importance
+all,all,- 애니메이션도,0.0,tree_importance
+all,all,- 노래는,0.0,tree_importance
+all,all,- whoa,0.0,tree_importance
+all,all,. k,0.0,tree_importance
+all,all,", 진짜",0.0,tree_importance
+all,all,", 즉",0.0,tree_importance
+all,all,", 우리의",0.0,tree_importance
+all,all,", 우리에겐",0.0,tree_importance
+all,all,", 우리가",0.0,tree_importance
+all,all,", 여러분",0.0,tree_importance
+all,all,", 여러",0.0,tree_importance
+all,all,", 에스파",0.0,tree_importance
+all,all,", 에버애프터의",0.0,tree_importance
+all,all,", 얼굴만",0.0,tree_importance
+all,all,", 억지로",0.0,tree_importance
+all,all,", 얘네는",0.0,tree_importance
+all,all,", 얘네",0.0,tree_importance
+all,all,", 애니메이션",0.0,tree_importance
+all,all,", 애니",0.0,tree_importance
+all,all,", 알고리즘이",0.0,tree_importance
+all,all,", 안무와",0.0,tree_importance
+all,all,", 우릴",0.0,tree_importance
+all,all,", 지치지도",0.0,tree_importance
+all,all,", 울지도",0.0,tree_importance
+all,all,", 이",0.0,tree_importance
+all,all,", 중요한",0.0,tree_importance
+all,all,", 조용히",0.0,tree_importance
+all,all,", 제작자는",0.0,tree_importance
+all,all,", 제",0.0,tree_importance
+all,all,", 정점을",0.0,tree_importance
+all,all,", 정말",0.0,tree_importance
+all,all,", 저렇게",0.0,tree_importance
+all,all,", 저는",0.0,tree_importance
+all,all,", 장면",0.0,tree_importance
+all,all,", 일부는",0.0,tree_importance
+all,all,", 일부",0.0,tree_importance
+all,all,", 이제",0.0,tree_importance
+all,all,", 이렇게",0.0,tree_importance
+all,all,", 이들이",0.0,tree_importance
+all,all,", 이게",0.0,tree_importance
+all,all,", 으",0.0,tree_importance
+all,all,. ❣,0.0,tree_importance
+all,all,. 가상,0.0,tree_importance
+all,all,. 게다가,0.0,tree_importance
+all,all,. 신들의,0.0,tree_importance
+all,all,. 솔직히,0.0,tree_importance
+all,all,. 세트,0.0,tree_importance
+all,all,. 설명하기,0.0,tree_importance
+all,all,. 새롭고,0.0,tree_importance
+all,all,. 상당히,0.0,tree_importance
+all,all,. 사람들이,0.0,tree_importance
+all,all,. 불쾌한,0.0,tree_importance
+all,all,. 봐,0.0,tree_importance
+all,all,. 보컬로이드에서는,0.0,tree_importance
+all,all,. 보고,0.0,tree_importance
+all,all,. 별로야,0.0,tree_importance
+all,all,. 버튜버를,0.0,tree_importance
+all,all,. 뭐라고,0.0,tree_importance
+all,all,. 물론,0.0,tree_importance
+all,all,. 실력도,0.0,tree_importance
+all,all,. 무시할래,0.0,tree_importance
+all,all,. 실제,0.0,tree_importance
+all,all,. 아니,0.0,tree_importance
+all,all,. 에스파,0.0,tree_importance
+all,all,. 얼굴은,0.0,tree_importance
+all,all,. 어제,0.0,tree_importance
+all,all,. 어떻게,0.0,tree_importance
+all,all,. 얘네를,0.0,tree_importance
+all,all,. 애니메이션이,0.0,tree_importance
+all,all,. 애니메이션을,0.0,tree_importance
+all,all,. 애니메이션,0.0,tree_importance
+all,all,. 안무도,0.0,tree_importance
+all,all,. 악의는,0.0,tree_importance
+all,all,. 악마와,0.0,tree_importance
+all,all,. 아직도,0.0,tree_importance
+all,all,. 아바타,0.0,tree_importance
+all,all,. 아무튼,0.0,tree_importance
+all,all,. 아무리,0.0,tree_importance
+all,all,. 심지어,0.0,tree_importance
+all,all,. 무슨,0.0,tree_importance
+all,all,. 며칠,0.0,tree_importance
+all,all,. 멤버들은,0.0,tree_importance
+all,all,. 날,0.0,tree_importance
+all,all,. 나머지,0.0,tree_importance
+all,all,. 꽤,0.0,tree_importance
+all,all,. 기술,0.0,tree_importance
+all,all,. 그저,0.0,tree_importance
+all,all,. 그룹과,0.0,tree_importance
+all,all,. 그러니,0.0,tree_importance
+all,all,. 그래서,0.0,tree_importance
+all,all,. 그래도,0.0,tree_importance
+all,all,. 그,0.0,tree_importance
+all,all,. 공포,0.0,tree_importance
+all,all,. 공중에,0.0,tree_importance
+all,all,. 계약서에,0.0,tree_importance
+all,all,. 계속,0.0,tree_importance
+all,all,. 결국,0.0,tree_importance
+all,all,. 내게는,0.0,tree_importance
+all,all,. 너희는,0.0,tree_importance
+all,all,. 노래가,0.0,tree_importance
+all,all,. 노래는,0.0,tree_importance
+all,all,. 메이브의,0.0,tree_importance
+all,all,. 메이브가,0.0,tree_importance
+all,all,. 멋진,0.0,tree_importance
+all,all,. 머리카락이,0.0,tree_importance
+all,all,. 말하고,0.0,tree_importance
+all,all,. 만드는,0.0,tree_importance
+all,all,. 로지,0.0,tree_importance
+all,all,", 안무까지",0.0,tree_importance
+all,all,. 로봇이,0.0,tree_importance
+all,all,. 뒤에는,0.0,tree_importance
+all,all,. 두,0.0,tree_importance
+all,all,. 대체,0.0,tree_importance
+all,all,. 다른,0.0,tree_importance
+all,all,. 다들,0.0,tree_importance
+all,all,. 누가,0.0,tree_importance
+all,all,. 노래하는,0.0,tree_importance
+all,all,. 랩,0.0,tree_importance
+all,all,", 악의는",0.0,tree_importance
+all,all,", 아이돌이",0.0,tree_importance
+all,all,", 아무튼요",0.0,tree_importance
+all,all,( ✿,0.0,tree_importance
+all,all,( yeah,0.0,tree_importance
+all,all,( woo,0.0,tree_importance
+all,all,( watch,0.0,tree_importance
+all,all,( therefore,0.0,tree_importance
+all,all,( shh,0.0,tree_importance
+all,all,( rush,0.0,tree_importance
+all,all,( oh,0.0,tree_importance
+all,all,( la,0.0,tree_importance
+all,all,( i,0.0,tree_importance
+all,all,( du,0.0,tree_importance
+all,all,( careful,0.0,tree_importance
+all,all,( ah,0.0,tree_importance
+all,all,' ∀,0.0,tree_importance
+all,all,' t,0.0,tree_importance
+all,all,( 그래,0.0,tree_importance
+all,all,' s,0.0,tree_importance
+all,all,( 그러니,0.0,tree_importance
+all,all,( 두,0.0,tree_importance
+all,all,) 기다려,0.0,tree_importance
+all,all,) we,0.0,tree_importance
+all,all,) ready,0.0,tree_importance
+all,all,) pandora,0.0,tree_importance
+all,all,) m,0.0,tree_importance
+all,all,) call,0.0,tree_importance
+all,all,) ah,0.0,tree_importance
+all,all,) (,0.0,tree_importance
+all,all,),0.0,tree_importance
+all,all,( 주의해,0.0,tree_importance
+all,all,( 조심해,0.0,tree_importance
+all,all,( 우,0.0,tree_importance
+all,all,( 아,0.0,tree_importance
+all,all,( 쉿,0.0,tree_importance
+all,all,( 라,0.0,tree_importance
+all,all,( 난,0.0,tree_importance
+all,all,' m,0.0,tree_importance
+all,all,' ll,0.0,tree_importance
+all,all,' bout,0.0,tree_importance
+all,all,! 😢,0.0,tree_importance
+all,all,! 하지만,0.0,tree_importance
+all,all,! 정말,0.0,tree_importance
+all,all,! 메이브에,0.0,tree_importance
+all,all,! 당장,0.0,tree_importance
+all,all,! 누군데,0.0,tree_importance
+all,all,! 노래는,0.0,tree_importance
+all,all,! 그러다,0.0,tree_importance
+all,all,! 검색한,0.0,tree_importance
+all,all,! 가상현실이,0.0,tree_importance
+all,all,! mv와,0.0,tree_importance
+all,all,! ?,0.0,tree_importance
+all,all,! <,0.0,tree_importance
+all,all,! 8,0.0,tree_importance
+all,all,! !,0.0,tree_importance
+all,all,! 😣,0.0,tree_importance
+all,all,! 😩,0.0,tree_importance
+all,all,! 🫰,0.0,tree_importance
+all,all,"""",0.0,tree_importance
+all,all,',0.0,tree_importance
+all,all,""" 표절",0.0,tree_importance
+all,all,""" 진짜",0.0,tree_importance
+all,all,""" 저",0.0,tree_importance
+all,all,""" 인형",0.0,tree_importance
+all,all,""" 이상하다",0.0,tree_importance
+all,all,""" 이라고",0.0,tree_importance
+all,all,) 기다려왔던,0.0,tree_importance
+all,all,""" 에스파가",0.0,tree_importance
+all,all,""" 라는",0.0,tree_importance
+all,all,""" 라고",0.0,tree_importance
+all,all,""" 데뷔하지",0.0,tree_importance
+all,all,""" 나이가",0.0,tree_importance
+all,all,""" 고",0.0,tree_importance
+all,all,""" 거나",0.0,tree_importance
+all,all,""" ai",0.0,tree_importance
+all,all,""" 많이",0.0,tree_importance
+all,all,. 에스파와,0.0,tree_importance
+all,all,) 나를,0.0,tree_importance
+all,all,) 새로,0.0,tree_importance
+all,all,", 메이브",0.0,tree_importance
+all,all,", 랩",0.0,tree_importance
+all,all,", 땀",0.0,tree_importance
+all,all,", 뒤에는",0.0,tree_importance
+all,all,", 두",0.0,tree_importance
+all,all,", 데뷔하기에는",0.0,tree_importance
+all,all,", 다시",0.0,tree_importance
+all,all,", 다른",0.0,tree_importance
+all,all,", 다들",0.0,tree_importance
+all,all,", 누가",0.0,tree_importance
+all,all,", 놀랍게도",0.0,tree_importance
+all,all,", 노래도",0.0,tree_importance
+all,all,", 노래는",0.0,tree_importance
+all,all,", 너",0.0,tree_importance
+all,all,", 내",0.0,tree_importance
+all,all,", 메이브가",0.0,tree_importance
+all,all,", 날",0.0,tree_importance
+all,all,", 메이브에는",0.0,tree_importance
+all,all,", 멤버",0.0,tree_importance
+all,all,", 쓸데없이",0.0,tree_importance
+all,all,", 실제로",0.0,tree_importance
+all,all,", 실제",0.0,tree_importance
+all,all,", 시작",0.0,tree_importance
+all,all,", 스타시",0.0,tree_importance
+all,all,", 쉿",0.0,tree_importance
+all,all,", 쉴",0.0,tree_importance
+all,all,", 숨겨왔던",0.0,tree_importance
+all,all,", 세계관은",0.0,tree_importance
+all,all,", 살찌지도",0.0,tree_importance
+all,all,", 사람들은",0.0,tree_importance
+all,all,", 봐",0.0,tree_importance
+all,all,", 보고",0.0,tree_importance
+all,all,", 뭐라고",0.0,tree_importance
+all,all,", 모두가",0.0,tree_importance
+all,all,", 메인",0.0,tree_importance
+all,all,", 난",0.0,tree_importance
+all,all,", 나만의",0.0,tree_importance
+all,all,", 나는",0.0,tree_importance
+all,all,", go",0.0,tree_importance
+all,all,", follow",0.0,tree_importance
+all,all,", catch",0.0,tree_importance
+all,all,", ai일",0.0,tree_importance
+all,all,", ai나",0.0,tree_importance
+all,all,", ai가",0.0,tree_importance
+all,all,", ai",0.0,tree_importance
+all,all,", ah",0.0,tree_importance
+all,all,", 3d",0.0,tree_importance
+all,all,) 판도라,0.0,tree_importance
+all,all,) 찾아,0.0,tree_importance
+all,all,) 잃어버린,0.0,tree_importance
+all,all,) 음악을,0.0,tree_importance
+all,all,) 우리는,0.0,tree_importance
+all,all,) 아,0.0,tree_importance
+all,all,", hey",0.0,tree_importance
+all,all,", hush",0.0,tree_importance
+all,all,", i",0.0,tree_importance
+all,all,", let",0.0,tree_importance
+all,all,", 끝없이",0.0,tree_importance
+all,all,", 끝내주는",0.0,tree_importance
+all,all,", 그룹은",0.0,tree_importance
+all,all,", 그렇다면",0.0,tree_importance
+all,all,", 그래도",0.0,tree_importance
+all,all,", 그래",0.0,tree_importance
+all,all,", 그냥",0.0,tree_importance
+all,all,) 다른,0.0,tree_importance
+all,all,", 그",0.0,tree_importance
+all,all,", 가는",0.0,tree_importance
+all,all,", set",0.0,tree_importance
+all,all,", say",0.0,tree_importance
+all,all,", rush",0.0,tree_importance
+all,all,", oh",0.0,tree_importance
+all,all,", now",0.0,tree_importance
+all,all,", mave",0.0,tree_importance
+all,all,", 가진",0.0,tree_importance
+all,all,. 에스파의,0.0,tree_importance
+all,all,. 여기에,0.0,tree_importance
+all,all,. 여러,0.0,tree_importance
+all,all,ai를 데뷔시키는,0.0,tree_importance
+all,all,ai를,0.0,tree_importance
+all,all,ai라서 싫어하는,0.0,tree_importance
+all,all,ai라서,0.0,tree_importance
+all,all,ai라면 이,0.0,tree_importance
+all,all,ai라면 스스로,0.0,tree_importance
+all,all,ai라면,0.0,tree_importance
+all,all,ai라는 걸,0.0,tree_importance
+all,all,ai라는,0.0,tree_importance
+all,all,ai들을 싫어하는,0.0,tree_importance
+all,all,ai들을,0.0,tree_importance
+all,all,ai니까 그렇겠지만요,0.0,tree_importance
+all,all,ai니까,0.0,tree_importance
+all,all,ai는 인공지능이라는,0.0,tree_importance
+all,all,ai는 예를,0.0,tree_importance
+all,all,ai를 억지로,0.0,tree_importance
+all,all,ai는 무섭고,0.0,tree_importance
+all,all,ai일,0.0,tree_importance
+all,all,ai지만,0.0,tree_importance
+all,all,beep beep,0.0,tree_importance
+all,all,beep,0.0,tree_importance
+all,all,been so,0.0,tree_importance
+all,all,been,0.0,tree_importance
+all,all,back 흐릿해진,0.0,tree_importance
+all,all,back,0.0,tree_importance
+all,all,ayy 정점을,0.0,tree_importance
+all,all,ayy,0.0,tree_importance
+all,all,are you,0.0,tree_importance
+all,all,are fearless,0.0,tree_importance
+all,all,are,0.0,tree_importance
+all,all,and see,0.0,tree_importance
+all,all,and get,0.0,tree_importance
+all,all,and,0.0,tree_importance
+all,all,ai지만 그,0.0,tree_importance
+all,all,ai일 뿐이고,0.0,tree_importance
+all,all,ai는,0.0,tree_importance
+all,all,ai나 기술을,0.0,tree_importance
+all,all,ai나,0.0,tree_importance
+all,all,ah pandora,0.0,tree_importance
+all,all,"ah ,",0.0,tree_importance
+all,all,ah ),0.0,tree_importance
+all,all,ah (,0.0,tree_importance
+all,all,ah,0.0,tree_importance
+all,all,aespa와도 마찬가지입니다,0.0,tree_importance
+all,all,aespa와도,0.0,tree_importance
+all,all,aespa 랑,0.0,tree_importance
+all,all,aespa 개념의,0.0,tree_importance
+all,all,aespa,0.0,tree_importance
+all,all,adı ne,0.0,tree_importance
+all,all,adı,0.0,tree_importance
+all,all,a 쉿,0.0,tree_importance
+all,all,a resistance,0.0,tree_importance
+all,all,a love,0.0,tree_importance
+all,all,ah 잃어버린,0.0,tree_importance
+all,all,ai,0.0,tree_importance
+all,all,"ai """,0.0,tree_importance
+all,all,ai 그룹들은,0.0,tree_importance
+all,all,ai가 혼자,0.0,tree_importance
+all,all,ai가 이번에는,0.0,tree_importance
+all,all,ai가 우리를,0.0,tree_importance
+all,all,ai가 아니에요,0.0,tree_importance
+all,all,ai가 아니라는,0.0,tree_importance
+all,all,ai가 아니라,0.0,tree_importance
+all,all,ai가 모형인,0.0,tree_importance
+all,all,beep i,0.0,tree_importance
+all,all,ai 콘셉트라서,0.0,tree_importance
+all,all,ai 어쩌고,0.0,tree_importance
+all,all,ai 세계관에는,0.0,tree_importance
+all,all,ai 방식은,0.0,tree_importance
+all,all,ai 모델과,0.0,tree_importance
+all,all,ai 뒤에,0.0,tree_importance
+all,all,ai 기반,0.0,tree_importance
+all,all,ai 그룹을,0.0,tree_importance
+all,all,ai 쪽에는,0.0,tree_importance
+all,all,a kind,0.0,tree_importance
+all,all,black,0.0,tree_importance
+all,all,black mamba를,0.0,tree_importance
+all,all,e (,0.0,tree_importance
+all,all,e,0.0,tree_importance
+all,all,du du,0.0,tree_importance
+all,all,du ),0.0,tree_importance
+all,all,du,0.0,tree_importance
+all,all,dreams come,0.0,tree_importance
+all,all,dreams,0.0,tree_importance
+all,all,don ',0.0,tree_importance
+all,all,don,0.0,tree_importance
+all,all,do it,0.0,tree_importance
+all,all,do,0.0,tree_importance
+all,all,debut lindo,0.0,tree_importance
+all,all,debut,0.0,tree_importance
+all,all,da의 패러디,0.0,tree_importance
+all,all,da의 모델이,0.0,tree_importance
+all,all,"e ,",0.0,tree_importance
+all,all,da의 more가,0.0,tree_importance
+all,all,enemy,0.0,tree_importance
+all,all,everyone,0.0,tree_importance
+all,all,for change,0.0,tree_importance
+all,all,for,0.0,tree_importance
+all,all,follow me,0.0,tree_importance
+all,all,follow,0.0,tree_importance
+all,all,feeling 속에,0.0,tree_importance
+all,all,feeling,0.0,tree_importance
+all,all,fearless 아무것도,0.0,tree_importance
+all,all,fearless,0.0,tree_importance
+all,all,fandom adı,0.0,tree_importance
+all,all,fandom,0.0,tree_importance
+all,all,faith we,0.0,tree_importance
+all,all,faith,0.0,tree_importance
+all,all,eyes pandora,0.0,tree_importance
+all,all,eyes,0.0,tree_importance
+all,all,everyone is,0.0,tree_importance
+all,all,enemy (,0.0,tree_importance
+all,all,da의 more,0.0,tree_importance
+all,all,da의,0.0,tree_importance
+all,all,da를 듣는다면,0.0,tree_importance
+all,all,careless 맞닿아있는,0.0,tree_importance
+all,all,careless,0.0,tree_importance
+all,all,careful ),0.0,tree_importance
+all,all,careful,0.0,tree_importance
+all,all,can you,0.0,tree_importance
+all,all,can,0.0,tree_importance
+all,all,call me,0.0,tree_importance
+all,all,call,0.0,tree_importance
+all,all,but you,0.0,tree_importance
+all,all,but so,0.0,tree_importance
+all,all,but,0.0,tree_importance
+all,all,box ',0.0,tree_importance
+all,all,box,0.0,tree_importance
+all,all,bout to,0.0,tree_importance
+all,all,bout,0.0,tree_importance
+all,all,catch,0.0,tree_importance
+all,all,catch the,0.0,tree_importance
+all,all,cgi,0.0,tree_importance
+all,all,cgi mv,0.0,tree_importance
+all,all,da를,0.0,tree_importance
+all,all,da는 들어본,0.0,tree_importance
+all,all,da는,0.0,tree_importance
+all,all,d -,0.0,tree_importance
+all,all,d,0.0,tree_importance
+all,all,coming in,0.0,tree_importance
+all,all,coming,0.0,tree_importance
+all,all,black mamba,0.0,tree_importance
+all,all,come true,0.0,tree_importance
+all,all,come and,0.0,tree_importance
+all,all,come,0.0,tree_importance
+all,all,chatgpt처럼 즉석에서,0.0,tree_importance
+all,all,chatgpt처럼,0.0,tree_importance
+all,all,change ?,0.0,tree_importance
+all,all,change,0.0,tree_importance
+all,all,cgi 아이돌보다,0.0,tree_importance
+all,all,come to,0.0,tree_importance
+all,all,free,0.0,tree_importance
+all,all,a -,0.0,tree_importance
+all,all,a ),0.0,tree_importance
+all,all,13 판도라,0.0,tree_importance
+all,all,13,0.0,tree_importance
+all,all,10 .,0.0,tree_importance
+all,all,10,0.0,tree_importance
+all,all,1 .,0.0,tree_importance
+all,all,1,0.0,tree_importance
+all,all,00 dreams,0.0,tree_importance
+all,all,00,0.0,tree_importance
+all,all,0 :,0.0,tree_importance
+all,all,0,0.0,tree_importance
+all,all,/ da를,0.0,tree_importance
+all,all,/ da는,0.0,tree_importance
+all,all,/ 10,0.0,tree_importance
+all,all,/,0.0,tree_importance
+all,all,. 🤍,0.0,tree_importance
+all,all,1개월째,0.0,tree_importance
+all,all,. 😢,0.0,tree_importance
+all,all,1개월째 :,0.0,tree_importance
+all,all,2 .,0.0,tree_importance
+all,all,3d ai가,0.0,tree_importance
+all,all,3d,0.0,tree_importance
+all,all,33,0.0,tree_importance
+all,all,3 :,0.0,tree_importance
+all,all,3 .,0.0,tree_importance
+all,all,3,0.0,tree_importance
+all,all,2개월째 :,0.0,tree_importance
+all,all,2개월째,0.0,tree_importance
+all,all,2d 아이돌의,0.0,tree_importance
+all,all,2d,0.0,tree_importance
+all,all,29 black,0.0,tree_importance
+all,all,29,0.0,tree_importance
+all,all,2025년인데 이제야,0.0,tree_importance
+all,all,2025년인데,0.0,tree_importance
+all,all,2 :,0.0,tree_importance
+all,all,2,0.0,tree_importance
+all,all,. 흠잡을,0.0,tree_importance
+all,all,. 후자라면,0.0,tree_importance
+all,all,. 홍보를,0.0,tree_importance
+all,all,. 저는,0.0,tree_importance
+all,all,. 일본,0.0,tree_importance
+all,all,. 인형이,0.0,tree_importance
+all,all,. 이제,0.0,tree_importance
+all,all,. 이상하고,0.0,tree_importance
+all,all,. 이게,0.0,tree_importance
+all,all,. 이것도,0.0,tree_importance
+all,all,. 이건,0.0,tree_importance
+all,all,. 의상이,0.0,tree_importance
+all,all,. 움직일,0.0,tree_importance
+all,all,. 왜,0.0,tree_importance
+all,all,. 완전,0.0,tree_importance
+all,all,. 와,0.0,tree_importance
+all,all,. 온라인에서,0.0,tree_importance
+all,all,. 예산,0.0,tree_importance
+all,all,. 전부,0.0,tree_importance
+all,all,. 전혀,0.0,tree_importance
+all,all,. 정말,0.0,tree_importance
+all,all,. 제,0.0,tree_importance
+all,all,. 한,0.0,tree_importance
+all,all,. 프로그램이,0.0,tree_importance
+all,all,. 평생,0.0,tree_importance
+all,all,. 타이라의,0.0,tree_importance
+all,all,. 캐릭터는,0.0,tree_importance
+all,all,. 캐릭터,0.0,tree_importance
+all,all,. 추신,0.0,tree_importance
+all,all,3d 꾸미기,0.0,tree_importance
+all,all,. 처음,0.0,tree_importance
+all,all,. 질문을,0.0,tree_importance
+all,all,. 진짜,0.0,tree_importance
+all,all,. 지금,0.0,tree_importance
+all,all,. 주변의,0.0,tree_importance
+all,all,. 좀,0.0,tree_importance
+all,all,. 제작자들이,0.0,tree_importance
+all,all,. 제목이,0.0,tree_importance
+all,all,. 참고로,0.0,tree_importance
+all,all,"a ,",0.0,tree_importance
+all,all,3d 모델,0.0,tree_importance
+all,all,3d 모형,0.0,tree_importance
+all,all,? 눈을,0.0,tree_importance
+all,all,? 그리고,0.0,tree_importance
+all,all,? 그런데,0.0,tree_importance
+all,all,? ㅋㅋ,0.0,tree_importance
+all,all,? woo,0.0,tree_importance
+all,all,? open,0.0,tree_importance
+all,all,? okay,0.0,tree_importance
+all,all,? come,0.0,tree_importance
+all,all,? ai를,0.0,tree_importance
+all,all,? ?,0.0,tree_importance
+all,all,? !,0.0,tree_importance
+all,all,> >,0.0,tree_importance
+all,all,>,0.0,tree_importance
+all,all,< 33,0.0,tree_importance
+all,all,<,0.0,tree_importance
+all,all,? 다른,0.0,tree_importance
+all,all,: 하츠네,0.0,tree_importance
+all,all,? 대체,0.0,tree_importance
+all,all,? 사랑해,0.0,tree_importance
+all,all,a,0.0,tree_importance
+all,all,` ✿,0.0,tree_importance
+all,all,`,0.0,tree_importance
+all,all,? 😳,0.0,tree_importance
+all,all,? 😢,0.0,tree_importance
+all,all,? 😂,0.0,tree_importance
+all,all,? 👁,0.0,tree_importance
+all,all,? 후렴이,0.0,tree_importance
+all,all,? 현실에서는,0.0,tree_importance
+all,all,? 좋아,0.0,tree_importance
+all,all,? 좀,0.0,tree_importance
+all,all,? 우,0.0,tree_importance
+all,all,? 에스파의,0.0,tree_importance
+all,all,? 아니면,0.0,tree_importance
+all,all,? 실제,0.0,tree_importance
+all,all,? 무슨,0.0,tree_importance
+all,all,: 첫,0.0,tree_importance
+all,all,: 질리지,0.0,tree_importance
+all,all,: 에스파의,0.0,tree_importance
+all,all,4,0.0,tree_importance
+all,all,3개월째 :,0.0,tree_importance
+all,all,3개월째,0.0,tree_importance
+all,all,3d의 3d의,0.0,tree_importance
+all,all,3d의 3d,0.0,tree_importance
+all,all,3d의,0.0,tree_importance
+all,all,3d라는 걸,0.0,tree_importance
+all,all,3d라는,0.0,tree_importance
+all,all,3d 음향인,0.0,tree_importance
+all,all,3d 애니메이션은,0.0,tree_importance
+all,all,3d 버튜버,0.0,tree_importance
+all,all,3d 모형인,0.0,tree_importance
+all,all,3d 모형이,0.0,tree_importance
+all,all,3d 모형의,0.0,tree_importance
+all,all,3d 모형에,0.0,tree_importance
+all,all,4 .,0.0,tree_importance
+all,all,46,0.0,tree_importance
+all,all,46 메이브는,0.0,tree_importance
+all,all,46 최고의,0.0,tree_importance
+all,all,: 에스파를,0.0,tree_importance
+all,all,: 그리스,0.0,tree_importance
+all,all,: 46,0.0,tree_importance
+all,all,: 3d,0.0,tree_importance
+all,all,: 29,0.0,tree_importance
+all,all,: 13,0.0,tree_importance
+all,all,: 00,0.0,tree_importance
+all,all,3d 모인,0.0,tree_importance
+all,all,": ,",0.0,tree_importance
+all,all,8,0.0,tree_importance
+all,all,6 .,0.0,tree_importance
+all,all,6,0.0,tree_importance
+all,all,5 .,0.0,tree_importance
+all,all,5,0.0,tree_importance
+all,all,4세대를 이끌었을,0.0,tree_importance
+all,all,4세대를,0.0,tree_importance
+all,all,8 /,0.0,tree_importance
+all,all,게임 life,0.0,tree_importance
+all,all,것처럼 사악해,0.0,tree_importance
+all,all,게임도,0.0,tree_importance
+all,all,때문입니다 .,0.0,tree_importance
+all,all,때문입니다,0.0,tree_importance
+all,all,때문이죠 .,0.0,tree_importance
+all,all,때문이죠,0.0,tree_importance
+all,all,때문에 데뷔하지,0.0,tree_importance
+all,all,때문에 그들을,0.0,tree_importance
+all,all,때문에,0.0,tree_importance
+all,all,때리네요 .,0.0,tree_importance
+all,all,때리네요,0.0,tree_importance
+all,all,때 멈칫하는,0.0,tree_importance
+all,all,때 따라올,0.0,tree_importance
+all,all,때,0.0,tree_importance
+all,all,땀 흘리지도,0.0,tree_importance
+all,all,땀,0.0,tree_importance
+all,all,딱인데 ㄷㄷ,0.0,tree_importance
+all,all,때부터,0.0,tree_importance
+all,all,딱인데,0.0,tree_importance
+all,all,때부터 좋았어,0.0,tree_importance
+all,all,떠 있는,0.0,tree_importance
+all,all,똑같아요,0.0,tree_importance
+all,all,똑같아 .,0.0,tree_importance
+all,all,똑같아,0.0,tree_importance
+all,all,또 다른,0.0,tree_importance
+all,all,또 누가,0.0,tree_importance
+all,all,또,0.0,tree_importance
+all,all,떠올리게 해줬어요,0.0,tree_importance
+all,all,떠올리게,0.0,tree_importance
+all,all,떠올라요 .,0.0,tree_importance
+all,all,떠올라요,0.0,tree_importance
+all,all,떠오르네요 .,0.0,tree_importance
+all,all,떠오르네요,0.0,tree_importance
+all,all,떠나질 않아아아,0.0,tree_importance
+all,all,떠나질,0.0,tree_importance
+all,all,떠 판도라,0.0,tree_importance
+all,all,떠,0.0,tree_importance
+all,all,따라와 판도라,0.0,tree_importance
+all,all,따라와,0.0,tree_importance
+all,all,따라올 수,0.0,tree_importance
+all,all,들인 노력도,0.0,tree_importance
+all,all,들인,0.0,tree_importance
+all,all,"들었지만 ,",0.0,tree_importance
+all,all,들었지만,0.0,tree_importance
+all,all,들었을지 궁금해요,0.0,tree_importance
+all,all,들었을지,0.0,tree_importance
+all,all,들었을 때부터,0.0,tree_importance
+all,all,들었을,0.0,tree_importance
+all,all,들었는데 일주일,0.0,tree_importance
+all,all,들었는데,0.0,tree_importance
+all,all,들어본 적도,0.0,tree_importance
+all,all,들어본,0.0,tree_importance
+all,all,들어갔어 .,0.0,tree_importance
+all,all,들어갔어,0.0,tree_importance
+all,all,들어간 시간과,0.0,tree_importance
+all,all,들지,0.0,tree_importance
+all,all,들지 않는,0.0,tree_importance
+all,all,들지 않아요,0.0,tree_importance
+all,all,듯이,0.0,tree_importance
+all,all,따라올,0.0,tree_importance
+all,all,따라야 하고,0.0,tree_importance
+all,all,따라야,0.0,tree_importance
+all,all,디테일이 깔끔하며,0.0,tree_importance
+all,all,디테일이,0.0,tree_importance
+all,all,디자인하는 게,0.0,tree_importance
+all,all,디자인하는,0.0,tree_importance
+all,all,뛰어나든지,0.0,tree_importance
+all,all,디자인된 모델이라는,0.0,tree_importance
+all,all,"디자인 ,",0.0,tree_importance
+all,all,디자인,0.0,tree_importance
+all,all,등 많은,0.0,tree_importance
+all,all,등,0.0,tree_importance
+all,all,듯한 상황,0.0,tree_importance
+all,all,듯한,0.0,tree_importance
+all,all,듯이 행동하네,0.0,tree_importance
+all,all,디자인된,0.0,tree_importance
+all,all,들어간,0.0,tree_importance
+all,all,뛰어나든지 실력이,0.0,tree_importance
+all,all,뛰어내려 움직이는,0.0,tree_importance
+all,all,마땅해,0.0,tree_importance
+all,all,리그 오브,0.0,tree_importance
+all,all,리그,0.0,tree_importance
+all,all,루미의 목소리를,0.0,tree_importance
+all,all,루미의,0.0,tree_importance
+all,all,로지 정도는,0.0,tree_importance
+all,all,로지,0.0,tree_importance
+all,all,로봇이 노래하고,0.0,tree_importance
+all,all,로봇이,0.0,tree_importance
+all,all,"로봇들 ,",0.0,tree_importance
+all,all,로봇들,0.0,tree_importance
+all,all,로봇 같은,0.0,tree_importance
+all,all,로봇 같아요,0.0,tree_importance
+all,all,로봇,0.0,tree_importance
+all,all,레전드 k,0.0,tree_importance
+all,all,마땅해 .,0.0,tree_importance
+all,all,레전드,0.0,tree_importance
+all,all,마땅히,0.0,tree_importance
+all,all,마브를,0.0,tree_importance
+all,all,마찬가지입니다,0.0,tree_importance
+all,all,마찬가지예요 .,0.0,tree_importance
+all,all,마찬가지예요,0.0,tree_importance
+all,all,마지막도 아닐,0.0,tree_importance
+all,all,마지막도,0.0,tree_importance
+all,all,마주할 눈앞의,0.0,tree_importance
+all,all,마주할,0.0,tree_importance
+all,all,마음에 안,0.0,tree_importance
+all,all,마음에 사라지지,0.0,tree_importance
+all,all,마음에 들지,0.0,tree_importance
+all,all,마음대로 해,0.0,tree_importance
+all,all,마음대로,0.0,tree_importance
+all,all,마세요 ㅋㅋ,0.0,tree_importance
+all,all,마세요,0.0,tree_importance
+all,all,마브를 좋아하지,0.0,tree_importance
+all,all,마땅히 인정받길,0.0,tree_importance
+all,all,레이디버그예요 .,0.0,tree_importance
+all,all,레이디버그예요,0.0,tree_importance
+all,all,레이디버그 슈퍼히어로인,0.0,tree_importance
+all,all,띄는,0.0,tree_importance
+all,all,"뜻이고 ,",0.0,tree_importance
+all,all,뜻이고,0.0,tree_importance
+all,all,뜻을 검색했는데,0.0,tree_importance
+all,all,뜻을,0.0,tree_importance
+all,all,뜻대로 따라야,0.0,tree_importance
+all,all,뜻대로,0.0,tree_importance
+all,all,뜻 :,0.0,tree_importance
+all,all,뜻,0.0,tree_importance
+all,all,뜨는 다른,0.0,tree_importance
+all,all,뜨는,0.0,tree_importance
+all,all,뛰어넘었네요 .,0.0,tree_importance
+all,all,뛰어넘었네요,0.0,tree_importance
+all,all,뛰어넘는 새로운,0.0,tree_importance
+all,all,뛰어넘는,0.0,tree_importance
+all,all,띄는 것이,0.0,tree_importance
+all,all,라,0.0,tree_importance
+all,all,라 ),0.0,tree_importance
+all,all,라 라,0.0,tree_importance
+all,all,레이디버그,0.0,tree_importance
+all,all,러시아인 누구죠,0.0,tree_importance
+all,all,러시아인,0.0,tree_importance
+all,all,러시아어 없습니다,0.0,tree_importance
+all,all,러시아어,0.0,tree_importance
+all,all,랩 부분은,0.0,tree_importance
+all,all,랩,0.0,tree_importance
+all,all,뛰어내려,0.0,tree_importance
+all,all,랑 싸우는거얌,0.0,tree_importance
+all,all,라는 생각이,0.0,tree_importance
+all,all,라는,0.0,tree_importance
+all,all,라고 하는데,0.0,tree_importance
+all,all,라고 부르는,0.0,tree_importance
+all,all,라고 말할,0.0,tree_importance
+all,all,라고 말하지,0.0,tree_importance
+all,all,라고,0.0,tree_importance
+all,all,랑,0.0,tree_importance
+all,all,마찬가지입니다 .,0.0,tree_importance
+all,all,들어가는 장면,0.0,tree_importance
+all,all,들어 🫥,0.0,tree_importance
+all,all,도시는 rwby의,0.0,tree_importance
+all,all,도시는,0.0,tree_importance
+all,all,데이터베이스에서 답을,0.0,tree_importance
+all,all,데이터베이스에서,0.0,tree_importance
+all,all,데뷔할 기회를,0.0,tree_importance
+all,all,데뷔할,0.0,tree_importance
+all,all,데뷔한 지,0.0,tree_importance
+all,all,데뷔한,0.0,tree_importance
+all,all,데뷔하지 못했다고,0.0,tree_importance
+all,all,데뷔하지 못하다가,0.0,tree_importance
+all,all,데뷔하지,0.0,tree_importance
+all,all,데뷔하면 안,0.0,tree_importance
+all,all,데뷔하면,0.0,tree_importance
+all,all,데뷔하기에는 이미,0.0,tree_importance
+all,all,데뷔하기에는,0.0,tree_importance
+all,all,도와줘,0.0,tree_importance
+all,all,데뷔하기로 한,0.0,tree_importance
+all,all,"도와줘 ,",0.0,tree_importance
+all,all,도입부 :,0.0,tree_importance
+all,all,동작이 중간에,0.0,tree_importance
+all,all,동작이,0.0,tree_importance
+all,all,동작에 정박이,0.0,tree_importance
+all,all,동작에,0.0,tree_importance
+all,all,동안 컴백하지,0.0,tree_importance
+all,all,동안 본인은,0.0,tree_importance
+all,all,동안,0.0,tree_importance
+all,all,돌아와 주세요,0.0,tree_importance
+all,all,돌아와,0.0,tree_importance
+all,all,돌아가야 해,0.0,tree_importance
+all,all,돌아가야,0.0,tree_importance
+all,all,돌고 있어,0.0,tree_importance
+all,all,돌고,0.0,tree_importance
+all,all,돈을 엄청나게,0.0,tree_importance
+all,all,돈을,0.0,tree_importance
+all,all,도입부,0.0,tree_importance
+all,all,데뷔하기로,0.0,tree_importance
+all,all,데뷔시키지 그랬냐,0.0,tree_importance
+all,all,데뷔시키지,0.0,tree_importance
+all,all,덕분에 거의,0.0,tree_importance
+all,all,덕분에,0.0,tree_importance
+all,all,게임 플레이,0.0,tree_importance
+all,all,더 크게,0.0,tree_importance
+all,all,더 초현실적으로,0.0,tree_importance
+all,all,더 좋아,0.0,tree_importance
+all,all,더 좋겠다,0.0,tree_importance
+all,all,더 좋게,0.0,tree_importance
+all,all,더 잘,0.0,tree_importance
+all,all,더 인정받아야,0.0,tree_importance
+all,all,더 알고,0.0,tree_importance
+all,all,더 세게,0.0,tree_importance
+all,all,더 보고,0.0,tree_importance
+all,all,더 발전하시길,0.0,tree_importance
+all,all,더 많은,0.0,tree_importance
+all,all,덕질하는,0.0,tree_importance
+all,all,덕질하는 것과,0.0,tree_importance
+all,all,데,0.0,tree_importance
+all,all,데 들인,0.0,tree_importance
+all,all,데뷔시키는 건,0.0,tree_importance
+all,all,데뷔시키는,0.0,tree_importance
+all,all,데뷔시켰으면 좋겠어요,0.0,tree_importance
+all,all,데뷔시켰으면,0.0,tree_importance
+all,all,데뷔는 욕했으면서,0.0,tree_importance
+all,all,데뷔는,0.0,tree_importance
+all,all,데뷔 후,0.0,tree_importance
+all,all,돼,0.0,tree_importance
+all,all,데뷔,0.0,tree_importance
+all,all,데려갈지,0.0,tree_importance
+all,all,"데다 ,",0.0,tree_importance
+all,all,데다,0.0,tree_importance
+all,all,데가 없네요,0.0,tree_importance
+all,all,데가,0.0,tree_importance
+all,all,데 정말,0.0,tree_importance
+all,all,데 얼마나,0.0,tree_importance
+all,all,데려갈지 기대돼,0.0,tree_importance
+all,all,들어가는,0.0,tree_importance
+all,all,돼 !,0.0,tree_importance
+all,all,됐는데,0.0,tree_importance
+all,all,드는,0.0,tree_importance
+all,all,뒤집어 봐,0.0,tree_importance
+all,all,뒤집어,0.0,tree_importance
+all,all,뒤의 목소리는,0.0,tree_importance
+all,all,뒤의,0.0,tree_importance
+all,all,뒤에서 노래한,0.0,tree_importance
+all,all,뒤에서,0.0,tree_importance
+all,all,뒤에는 실제로,0.0,tree_importance
+all,all,뒤에는 실제,0.0,tree_importance
+all,all,뒤에는,0.0,tree_importance
+all,all,뒤에 있는,0.0,tree_importance
+all,all,뒤에 실제,0.0,tree_importance
+all,all,뒤에,0.0,tree_importance
+all,all,뒤바뀌는 역사,0.0,tree_importance
+all,all,뒤바뀌는 history,0.0,tree_importance
+all,all,드는 걸까,0.0,tree_importance
+all,all,뒤바뀌는,0.0,tree_importance
+all,all,듣고,0.0,tree_importance
+all,all,듣는,0.0,tree_importance
+all,all,들어 chatgpt처럼,0.0,tree_importance
+all,all,들어,0.0,tree_importance
+all,all,들를게요 .,0.0,tree_importance
+all,all,들를게요,0.0,tree_importance
+all,all,들려줘 들려,0.0,tree_importance
+all,all,들려줘,0.0,tree_importance
+all,all,들려 삐,0.0,tree_importance
+all,all,들려 beep,0.0,tree_importance
+all,all,들려,0.0,tree_importance
+all,all,듣다 보니,0.0,tree_importance
+all,all,듣다,0.0,tree_importance
+all,all,"듣는다면 ,",0.0,tree_importance
+all,all,듣는다면,0.0,tree_importance
+all,all,듣는 중,0.0,tree_importance
+all,all,듣는 걸,0.0,tree_importance
+all,all,듣고 나서,0.0,tree_importance
+all,all,뒤가 되거나,0.0,tree_importance
+all,all,뒤가,0.0,tree_importance
+all,all,둘 다,0.0,tree_importance
+all,all,되는 걸까요,0.0,tree_importance
+all,all,되는 건지도,0.0,tree_importance
+all,all,되는,0.0,tree_importance
+all,all,되고 싶어서,0.0,tree_importance
+all,all,되고 본인들은,0.0,tree_importance
+all,all,되고 .,0.0,tree_importance
+all,all,되고,0.0,tree_importance
+all,all,되게 많기는,0.0,tree_importance
+all,all,되게,0.0,tree_importance
+all,all,"되거나 ,",0.0,tree_importance
+all,all,되거나,0.0,tree_importance
+all,all,됐어 keep,0.0,tree_importance
+all,all,됐어 ?,0.0,tree_importance
+all,all,됐어 !,0.0,tree_importance
+all,all,됐는데 이제,0.0,tree_importance
+all,all,되는 순간도,0.0,tree_importance
+all,all,되야지,0.0,tree_importance
+all,all,되찾아,0.0,tree_importance
+all,all,"되찾아 ,",0.0,tree_importance
+all,all,둘,0.0,tree_importance
+all,all,두렵지 않은,0.0,tree_importance
+all,all,두렵지,0.0,tree_importance
+all,all,두려움이 없어,0.0,tree_importance
+all,all,두려움이,0.0,tree_importance
+all,all,두 세계,0.0,tree_importance
+all,all,두 두,0.0,tree_importance
+all,all,돼 있네,0.0,tree_importance
+all,all,두 눈앞의,0.0,tree_importance
+all,all,두 ),0.0,tree_importance
+all,all,된다고 생각해서,0.0,tree_importance
+all,all,된다고 믿는,0.0,tree_importance
+all,all,된다고,0.0,tree_importance
+all,all,된 이,0.0,tree_importance
+all,all,된,0.0,tree_importance
+all,all,되찾아 나만의,0.0,tree_importance
+all,all,두 그룹,0.0,tree_importance
+all,all,더 다양해지고,0.0,tree_importance
+all,all,마티,0.0,tree_importance
+all,all,막지,0.0,tree_importance
+all,all,모두에게 엄지를,0.0,tree_importance
+all,all,모두에게,0.0,tree_importance
+all,all,모두가 그냥,0.0,tree_importance
+all,all,모두가,0.0,tree_importance
+all,all,모두 숨을,0.0,tree_importance
+all,all,모두 노래를,0.0,tree_importance
+all,all,모두 냉정하지만,0.0,tree_importance
+all,all,모두 ai,0.0,tree_importance
+all,all,모델입니다 .,0.0,tree_importance
+all,all,모델입니다,0.0,tree_importance
+all,all,모델이라는 점에서,0.0,tree_importance
+all,all,모델이라는,0.0,tree_importance
+all,all,모델이 훨씬,0.0,tree_importance
+all,all,모델이,0.0,tree_importance
+all,all,모델을 이용해서,0.0,tree_importance
+all,all,모든 감정들이,0.0,tree_importance
+all,all,모델을 쓰지,0.0,tree_importance
+all,all,모든 건,0.0,tree_importance
+all,all,모든 순간이,0.0,tree_importance
+all,all,모른다고 했는데,0.0,tree_importance
+all,all,모른다고,0.0,tree_importance
+all,all,모르지만 모두,0.0,tree_importance
+all,all,모르지만,0.0,tree_importance
+all,all,"모르면서 ,",0.0,tree_importance
+all,all,모르면서,0.0,tree_importance
+all,all,"모르겠지만 ,",0.0,tree_importance
+all,all,모르겠지만,0.0,tree_importance
+all,all,모르겠어요 .,0.0,tree_importance
+all,all,모르겠어요,0.0,tree_importance
+all,all,모르겠어 .,0.0,tree_importance
+all,all,모르겠어,0.0,tree_importance
+all,all,모르겠네요 .,0.0,tree_importance
+all,all,모르겠네요,0.0,tree_importance
+all,all,모든 요소,0.0,tree_importance
+all,all,모든 상을,0.0,tree_importance
+all,all,모델을,0.0,tree_importance
+all,all,모델들은 그렇지,0.0,tree_importance
+all,all,모델들은,0.0,tree_importance
+all,all,멤버들을 만드는,0.0,tree_importance
+all,all,멤버들을,0.0,tree_importance
+all,all,멤버들은 재능이,0.0,tree_importance
+all,all,멤버들은,0.0,tree_importance
+all,all,멤버 개개인의,0.0,tree_importance
+all,all,멤버,0.0,tree_importance
+all,all,메인 보컬은,0.0,tree_importance
+all,all,메인,0.0,tree_importance
+all,all,메이브의 목소리와,0.0,tree_importance
+all,all,메이브의 목소리,0.0,tree_importance
+all,all,메이브의 모든,0.0,tree_importance
+all,all,메이브의,0.0,tree_importance
+all,all,메이브에는 왜,0.0,tree_importance
+all,all,메이브에는,0.0,tree_importance
+all,all,메이브에 완전히,0.0,tree_importance
+all,all,멤버들이,0.0,tree_importance
+all,all,멤버들이 에스파의,0.0,tree_importance
+all,all,멤버인지는,0.0,tree_importance
+all,all,멤버인지는 모르지만,0.0,tree_importance
+all,all,모델과 k,0.0,tree_importance
+all,all,모델과,0.0,tree_importance
+all,all,모델 제작,0.0,tree_importance
+all,all,모델,0.0,tree_importance
+all,all,몇 달,0.0,tree_importance
+all,all,몇,0.0,tree_importance
+all,all,명확한 사례가,0.0,tree_importance
+all,all,모습은,0.0,tree_importance
+all,all,명확한,0.0,tree_importance
+all,all,명곡인,0.0,tree_importance
+all,all,면에서 이전,0.0,tree_importance
+all,all,면에서,0.0,tree_importance
+all,all,며칠밖에 안,0.0,tree_importance
+all,all,며칠밖에,0.0,tree_importance
+all,all,며칠 전에,0.0,tree_importance
+all,all,며칠,0.0,tree_importance
+all,all,명곡인 데다,0.0,tree_importance
+all,all,메이브에 들어간,0.0,tree_importance
+all,all,모습은 마음에,0.0,tree_importance
+all,all,모습을 보여주는,0.0,tree_importance
+all,all,못하다가 이런,0.0,tree_importance
+all,all,못하다가,0.0,tree_importance
+all,all,못 받아들이겠어,0.0,tree_importance
+all,all,못,0.0,tree_importance
+all,all,"몸 ,",0.0,tree_importance
+all,all,몸,0.0,tree_importance
+all,all,몰아쳐 (,0.0,tree_importance
+all,all,몰아쳐,0.0,tree_importance
+all,all,몰락을 초래한,0.0,tree_importance
+all,all,몰락을,0.0,tree_importance
+all,all,"몰라 ,",0.0,tree_importance
+all,all,몰라,0.0,tree_importance
+all,all,목소리의 주인공들을,0.0,tree_importance
+all,all,목소리의 주인공들은,0.0,tree_importance
+all,all,목소리의,0.0,tree_importance
+all,all,못하다는,0.0,tree_importance
+all,all,목소리와 안무,0.0,tree_importance
+all,all,못하다는 게,0.0,tree_importance
+all,all,"못해 ,",0.0,tree_importance
+all,all,무시할래,0.0,tree_importance
+all,all,무슨 일이야,0.0,tree_importance
+all,all,무슨 영화인지,0.0,tree_importance
+all,all,무슨 말인지,0.0,tree_importance
+all,all,무섭고 인류를,0.0,tree_importance
+all,all,무섭고,0.0,tree_importance
+all,all,무너지는 것도,0.0,tree_importance
+all,all,무너지는,0.0,tree_importance
+all,all,묘해 ㅋㅋ,0.0,tree_importance
+all,all,묘해,0.0,tree_importance
+all,all,묘사해도 난,0.0,tree_importance
+all,all,묘사해도,0.0,tree_importance
+all,all,못했다고 직접,0.0,tree_importance
+all,all,못했다고,0.0,tree_importance
+all,all,못해 never,0.0,tree_importance
+all,all,못해,0.0,tree_importance
+all,all,목소리와,0.0,tree_importance
+all,all,목소리만 맡는,0.0,tree_importance
+all,all,목소리만,0.0,tree_importance
+all,all,모형이,0.0,tree_importance
+all,all,모형의 3d,0.0,tree_importance
+all,all,모형의,0.0,tree_importance
+all,all,모형에 모형의,0.0,tree_importance
+all,all,모형에,0.0,tree_importance
+all,all,모형,0.0,tree_importance
+all,all,모인 3d의,0.0,tree_importance
+all,all,모인 3d,0.0,tree_importance
+all,all,모인,0.0,tree_importance
+all,all,모습이야 😂,0.0,tree_importance
+all,all,모습이야,0.0,tree_importance
+all,all,모습이 정말,0.0,tree_importance
+all,all,모습이,0.0,tree_importance
+all,all,모습을 볼,0.0,tree_importance
+all,all,모습을 보여줬다면,0.0,tree_importance
+all,all,모형이 모인,0.0,tree_importance
+all,all,모형인,0.0,tree_importance
+all,all,모형인 3d,0.0,tree_importance
+all,all,모형인 3d의,0.0,tree_importance
+all,all,목소리를 맡은,0.0,tree_importance
+all,all,목소리를 가진,0.0,tree_importance
+all,all,목소리를,0.0,tree_importance
+all,all,목소리로 캐릭터가,0.0,tree_importance
+all,all,목소리로,0.0,tree_importance
+all,all,목소리도 인공지능으로,0.0,tree_importance
+all,all,목소리도,0.0,tree_importance
+all,all,모습을,0.0,tree_importance
+all,all,목소리는 진짜지,0.0,tree_importance
+all,all,목소리는 실제,0.0,tree_importance
+all,all,목소리는,0.0,tree_importance
+all,all,목소리가 있다는,0.0,tree_importance
+all,all,목소리가,0.0,tree_importance
+all,all,목소리 말고는,0.0,tree_importance
+all,all,목소리 뒤에,0.0,tree_importance
+all,all,목소리,0.0,tree_importance
+all,all,목소리는 정말,0.0,tree_importance
+all,all,마티 💗,0.0,tree_importance
+all,all,메이브에,0.0,tree_importance
+all,all,메이브보다,0.0,tree_importance
+all,all,말이에요 😈,0.0,tree_importance
+all,all,말이에요,0.0,tree_importance
+all,all,말이야 .,0.0,tree_importance
+all,all,말이야,0.0,tree_importance
+all,all,말을 잃었어,0.0,tree_importance
+all,all,말을,0.0,tree_importance
+all,all,말은 해야겠어요,0.0,tree_importance
+all,all,말은,0.0,tree_importance
+all,all,말아 주세요,0.0,tree_importance
+all,all,말아,0.0,tree_importance
+all,all,말도 안,0.0,tree_importance
+all,all,말도,0.0,tree_importance
+all,all,말고는 사람이,0.0,tree_importance
+all,all,말고는,0.0,tree_importance
+all,all,많이 할,0.0,tree_importance
+all,all,말인지,0.0,tree_importance
+all,all,많이 사랑해요,0.0,tree_importance
+all,all,말인지 아시죠,0.0,tree_importance
+all,all,말하고 싶어요,0.0,tree_importance
+all,all,망치는,0.0,tree_importance
+all,all,망작이네 💀,0.0,tree_importance
+all,all,망작이네,0.0,tree_importance
+all,all,말했잖아요 .,0.0,tree_importance
+all,all,말했잖아요,0.0,tree_importance
+all,all,말할게 .,0.0,tree_importance
+all,all,말할게,0.0,tree_importance
+all,all,말할 테니까요,0.0,tree_importance
+all,all,말할,0.0,tree_importance
+all,all,말하지만 ai가,0.0,tree_importance
+all,all,말하지만,0.0,tree_importance
+all,all,말하지 말아,0.0,tree_importance
+all,all,말하지,0.0,tree_importance
+all,all,말하고 움직이는,0.0,tree_importance
+all,all,말하고 싶진,0.0,tree_importance
+all,all,말하고,0.0,tree_importance
+all,all,많이 닮았어요,0.0,tree_importance
+all,all,많이,0.0,tree_importance
+all,all,많은 사랑을,0.0,tree_importance
+all,all,만들어낸,0.0,tree_importance
+all,all,만들어 주세요,0.0,tree_importance
+all,all,만들어 버리네,0.0,tree_importance
+all,all,만들어,0.0,tree_importance
+all,all,만들고 싶어요,0.0,tree_importance
+all,all,만들고,0.0,tree_importance
+all,all,만들 거라면,0.0,tree_importance
+all,all,만들,0.0,tree_importance
+all,all,만든 작품이야,0.0,tree_importance
+all,all,만든 건지,0.0,tree_importance
+all,all,만든 거야,0.0,tree_importance
+all,all,만든,0.0,tree_importance
+all,all,만드는 데,0.0,tree_importance
+all,all,만드는 거잖아,0.0,tree_importance
+all,all,막지 못해,0.0,tree_importance
+all,all,만들어낸 거잖아,0.0,tree_importance
+all,all,만들어졌나요,0.0,tree_importance
+all,all,만들어졌나요 ?,0.0,tree_importance
+all,all,만약,0.0,tree_importance
+all,all,많은 사람들이,0.0,tree_importance
+all,all,많은 노력이,0.0,tree_importance
+all,all,많은 것,0.0,tree_importance
+all,all,많은,0.0,tree_importance
+all,all,"많아서 """,0.0,tree_importance
+all,all,많아서,0.0,tree_importance
+all,all,많기는 해도,0.0,tree_importance
+all,all,망치는 지름길,0.0,tree_importance
+all,all,많기는,0.0,tree_importance
+all,all,만화에서,0.0,tree_importance
+all,all,만화 같지도,0.0,tree_importance
+all,all,만화,0.0,tree_importance
+all,all,만큼 인정받아야,0.0,tree_importance
+all,all,만큼 매끄럽지,0.0,tree_importance
+all,all,만큼,0.0,tree_importance
+all,all,만약 mave,0.0,tree_importance
+all,all,만화에서 어린,0.0,tree_importance
+all,all,메이브보다 얼굴이,0.0,tree_importance
+all,all,망햇네,0.0,tree_importance
+all,all,맞닿아,0.0,tree_importance
+all,all,멋진 그룹이라고,0.0,tree_importance
+all,all,멋진,0.0,tree_importance
+all,all,멋지죠 .,0.0,tree_importance
+all,all,멋지죠,0.0,tree_importance
+all,all,멋지네요 🤩,0.0,tree_importance
+all,all,멋지네요 .,0.0,tree_importance
+all,all,멋지네요,0.0,tree_importance
+all,all,멋지네 .,0.0,tree_importance
+all,all,멋지네,0.0,tree_importance
+all,all,멋지거나 뭐,0.0,tree_importance
+all,all,멋지거나,0.0,tree_importance
+all,all,멋져 .,0.0,tree_importance
+all,all,멋져,0.0,tree_importance
+all,all,멈칫하는 방식,0.0,tree_importance
+all,all,멈칫하는,0.0,tree_importance
+all,all,멋진 목소리를,0.0,tree_importance
+all,all,멈출 수가,0.0,tree_importance
+all,all,메이브,0.0,tree_importance
+all,all,메이브 💞,0.0,tree_importance
+all,all,메이브를 해킹한,0.0,tree_importance
+all,all,메이브를,0.0,tree_importance
+all,all,메이브라 불러,0.0,tree_importance
+all,all,메이브라,0.0,tree_importance
+all,all,메이브는 아이돌들이,0.0,tree_importance
+all,all,메이브는 사랑받는다는,0.0,tree_importance
+all,all,메이브는 데뷔,0.0,tree_importance
+all,all,메이브는 꽤,0.0,tree_importance
+all,all,메이브는 ai가,0.0,tree_importance
+all,all,메이브가 최초도,0.0,tree_importance
+all,all,메이브가 잘,0.0,tree_importance
+all,all,메이브가 완전,0.0,tree_importance
+all,all,메이브가 ai라면,0.0,tree_importance
+all,all,메이브가 !,0.0,tree_importance
+all,all,메이브가,0.0,tree_importance
+all,all,"메이브 ,",0.0,tree_importance
+all,all,멈출 수,0.0,tree_importance
+all,all,멈출,0.0,tree_importance
+all,all,멈추지 않을,0.0,tree_importance
+all,all,맡았는데도,0.0,tree_importance
+all,all,맡는 거죠,0.0,tree_importance
+all,all,맡는,0.0,tree_importance
+all,all,맞추려니 이상해요,0.0,tree_importance
+all,all,맞추려니,0.0,tree_importance
+all,all,맞추려는 느낌에,0.0,tree_importance
+all,all,맞추려는,0.0,tree_importance
+all,all,"맞지만 ,",0.0,tree_importance
+all,all,맞지만,0.0,tree_importance
+all,all,맞을 준비가,0.0,tree_importance
+all,all,맞을 만큼,0.0,tree_importance
+all,all,맞을,0.0,tree_importance
+all,all,맞닿아있는 두,0.0,tree_importance
+all,all,맞닿아있는,0.0,tree_importance
+all,all,맞닿아 있는,0.0,tree_importance
+all,all,맡았는데도 애니메이션이,0.0,tree_importance
+all,all,맡은,0.0,tree_importance
+all,all,맡은 가수가,0.0,tree_importance
+all,all,맡은 회사는,0.0,tree_importance
+all,all,멈추지,0.0,tree_importance
+all,all,멈추는 느낌이라,0.0,tree_importance
+all,all,멈추는,0.0,tree_importance
+all,all,머릿속에서 맴돌았어,0.0,tree_importance
+all,all,머릿속에서 떠나질,0.0,tree_importance
+all,all,머릿속에서,0.0,tree_importance
+all,all,머리카락이 바람에,0.0,tree_importance
+all,all,망햇네 .,0.0,tree_importance
+all,all,머리카락이,0.0,tree_importance
+all,all,머리카락,0.0,tree_importance
+all,all,맴돌았어 .,0.0,tree_importance
+all,all,맴돌았어,0.0,tree_importance
+all,all,매체에서 이,0.0,tree_importance
+all,all,매체에서,0.0,tree_importance
+all,all,매끄럽지 않다는,0.0,tree_importance
+all,all,매끄럽지,0.0,tree_importance
+all,all,머리카락 움직임,0.0,tree_importance
+all,all,더 가까워요,0.0,tree_importance
+all,all,더 행복하겠네요,0.0,tree_importance
+all,all,댓이 없어,0.0,tree_importance
+all,all,기다리고 있는데,0.0,tree_importance
+all,all,기다리고,0.0,tree_importance
+all,all,기다려왔던 걸,0.0,tree_importance
+all,all,기다려왔던,0.0,tree_importance
+all,all,기다려 왔던,0.0,tree_importance
+all,all,기다려,0.0,tree_importance
+all,all,글로벌 출시를,0.0,tree_importance
+all,all,글로벌,0.0,tree_importance
+all,all,그저 ai라면,0.0,tree_importance
+all,all,그저,0.0,tree_importance
+all,all,그의 성전에서,0.0,tree_importance
+all,all,그의,0.0,tree_importance
+all,all,그림과 디자인된,0.0,tree_importance
+all,all,그림과,0.0,tree_importance
+all,all,그리스 신화에서,0.0,tree_importance
+all,all,기대돼,0.0,tree_importance
+all,all,그리스,0.0,tree_importance
+all,all,기대돼 .,0.0,tree_importance
+all,all,기반 멤버들을,0.0,tree_importance
+all,all,기준점을,0.0,tree_importance
+all,all,기억하세요 .,0.0,tree_importance
+all,all,기억하세요,0.0,tree_importance
+all,all,기술을 기반으로,0.0,tree_importance
+all,all,기술을,0.0,tree_importance
+all,all,기술 시연으로서는,0.0,tree_importance
+all,all,"기술 ,",0.0,tree_importance
+all,all,기술,0.0,tree_importance
+all,all,기분은 왜,0.0,tree_importance
+all,all,기분은,0.0,tree_importance
+all,all,기분 나쁘게,0.0,tree_importance
+all,all,기분 나빠할,0.0,tree_importance
+all,all,기분,0.0,tree_importance
+all,all,기반으로 하니까,0.0,tree_importance
+all,all,기반으로,0.0,tree_importance
+all,all,기반,0.0,tree_importance
+all,all,기준점을 만들어,0.0,tree_importance
+all,all,그리고 k,0.0,tree_importance
+all,all,그룹이었다면 4세대를,0.0,tree_importance
+all,all,그룹들은,0.0,tree_importance
+all,all,그룹끼리 비슷한,0.0,tree_importance
+all,all,그룹끼리,0.0,tree_importance
+all,all,그룹과 회사가,0.0,tree_importance
+all,all,그룹과 쓰는,0.0,tree_importance
+all,all,그룹과 비슷할,0.0,tree_importance
+all,all,그룹과,0.0,tree_importance
+all,all,그룹 팬이,0.0,tree_importance
+all,all,그룹 모두,0.0,tree_importance
+all,all,그룹,0.0,tree_importance
+all,all,그렇지 않으면,0.0,tree_importance
+all,all,그렇지 않아요,0.0,tree_importance
+all,all,그렇지 못하다는,0.0,tree_importance
+all,all,그렇지,0.0,tree_importance
+all,all,그렇다면 자기,0.0,tree_importance
+all,all,그룹들은 더,0.0,tree_importance
+all,all,그리고,0.0,tree_importance
+all,all,그룹들이,0.0,tree_importance
+all,all,그룹들이 좋은,0.0,tree_importance
+all,all,그룹이었다면,0.0,tree_importance
+all,all,그룹이라고 생각해,0.0,tree_importance
+all,all,그룹이라고,0.0,tree_importance
+all,all,그룹의 배후에,0.0,tree_importance
+all,all,그룹의,0.0,tree_importance
+all,all,그룹을 알고,0.0,tree_importance
+all,all,그룹을 비난하려는,0.0,tree_importance
+all,all,그룹을 둘,0.0,tree_importance
+all,all,그룹을 다른,0.0,tree_importance
+all,all,그룹을,0.0,tree_importance
+all,all,그룹은 좀,0.0,tree_importance
+all,all,그룹은 버추얼이고,0.0,tree_importance
+all,all,그룹은 kda와,0.0,tree_importance
+all,all,그룹은 ai가,0.0,tree_importance
+all,all,그룹은,0.0,tree_importance
+all,all,그룹들이 이런,0.0,tree_importance
+all,all,그렇다면,0.0,tree_importance
+all,all,기회를,0.0,tree_importance
+all,all,기회이기도,0.0,tree_importance
+all,all,나쁘게 하려는,0.0,tree_importance
+all,all,나쁘게,0.0,tree_importance
+all,all,나빠할 일도,0.0,tree_importance
+all,all,나빠할,0.0,tree_importance
+all,all,나비스랑 aespa,0.0,tree_importance
+all,all,나비스랑,0.0,tree_importance
+all,all,나머지 캐릭터들은,0.0,tree_importance
+all,all,나머지,0.0,tree_importance
+all,all,나만의 규칙,0.0,tree_importance
+all,all,나만의 rule,0.0,tree_importance
+all,all,나만의,0.0,tree_importance
+all,all,나만 개좋음,0.0,tree_importance
+all,all,나만,0.0,tree_importance
+all,all,나를 메이브라,0.0,tree_importance
+all,all,나를,0.0,tree_importance
+all,all,나쁘지,0.0,tree_importance
+all,all,나라 시청자들이,0.0,tree_importance
+all,all,나쁘지 않았어,0.0,tree_importance
+all,all,나서 누구의,0.0,tree_importance
+all,all,난 ),0.0,tree_importance
+all,all,난,0.0,tree_importance
+all,all,나중에 광야,0.0,tree_importance
+all,all,나중에,0.0,tree_importance
+all,all,나이가 많아서,0.0,tree_importance
+all,all,나이가,0.0,tree_importance
+all,all,나이 때문에,0.0,tree_importance
+all,all,나이,0.0,tree_importance
+all,all,나왔네 기준점을,0.0,tree_importance
+all,all,나왔네,0.0,tree_importance
+all,all,나온다고 해서,0.0,tree_importance
+all,all,나온다고,0.0,tree_importance
+all,all,나아요 .,0.0,tree_importance
+all,all,나아요,0.0,tree_importance
+all,all,"나아가 ,",0.0,tree_importance
+all,all,나서,0.0,tree_importance
+all,all,기회를 얻은,0.0,tree_importance
+all,all,나라,0.0,tree_importance
+all,all,나는데,0.0,tree_importance
+all,all,끈을,0.0,tree_importance
+all,all,꾸미기 게임,0.0,tree_importance
+all,all,꾸미기,0.0,tree_importance
+all,all,꽤 좋은데,0.0,tree_importance
+all,all,꽤 좋아,0.0,tree_importance
+all,all,꽤 멋진,0.0,tree_importance
+all,all,꽤 멋지죠,0.0,tree_importance
+all,all,꽤,0.0,tree_importance
+all,all,깔끔해요 .,0.0,tree_importance
+all,all,깔끔해요,0.0,tree_importance
+all,all,"깔끔하며 ,",0.0,tree_importance
+all,all,깔끔하며,0.0,tree_importance
+all,all,깎았어 .,0.0,tree_importance
+all,all,깎았어,0.0,tree_importance
+all,all,기회이기도 하겠죠,0.0,tree_importance
+all,all,끈을 그러니,0.0,tree_importance
+all,all,나는데 앞으로,0.0,tree_importance
+all,all,끝까지,0.0,tree_importance
+all,all,끝나는,0.0,tree_importance
+all,all,나는 진짜,0.0,tree_importance
+all,all,나는 이,0.0,tree_importance
+all,all,나는 건,0.0,tree_importance
+all,all,나는,0.0,tree_importance
+all,all,끼치는데 너희는,0.0,tree_importance
+all,all,끼치는데,0.0,tree_importance
+all,all,끼치는 팬들이,0.0,tree_importance
+all,all,끼치는,0.0,tree_importance
+all,all,끼쳐 !,0.0,tree_importance
+all,all,끼쳐,0.0,tree_importance
+all,all,끝없이 돌고,0.0,tree_importance
+all,all,끝없이,0.0,tree_importance
+all,all,끝내주는 곡이야,0.0,tree_importance
+all,all,끝내주는 곡을,0.0,tree_importance
+all,all,끝나는 프로젝트이고,0.0,tree_importance
+all,all,끝까지 모든,0.0,tree_importance
+all,all,"난 ,",0.0,tree_importance
+all,all,그렇고 보컬은,0.0,tree_importance
+all,all,그렇겠지만요 .,0.0,tree_importance
+all,all,관심을,0.0,tree_importance
+all,all,과연 동작에,0.0,tree_importance
+all,all,과연,0.0,tree_importance
+all,all,과도한 관심을,0.0,tree_importance
+all,all,과도한,0.0,tree_importance
+all,all,공포 게임,0.0,tree_importance
+all,all,공포,0.0,tree_importance
+all,all,공통점이 있다는,0.0,tree_importance
+all,all,공통점이,0.0,tree_importance
+all,all,공중에 떠,0.0,tree_importance
+all,all,공중에,0.0,tree_importance
+all,all,공연하는 모습을,0.0,tree_importance
+all,all,공연하는,0.0,tree_importance
+all,all,공격했을 거야,0.0,tree_importance
+all,all,공격했을,0.0,tree_importance
+all,all,관심을 받아서는,0.0,tree_importance
+all,all,공격하지 마세요,0.0,tree_importance
+all,all,관한,0.0,tree_importance
+all,all,광야,0.0,tree_importance
+all,all,구현할,0.0,tree_importance
+all,all,구현도 엄청나고,0.0,tree_importance
+all,all,구현도,0.0,tree_importance
+all,all,구별할 수,0.0,tree_importance
+all,all,구별할,0.0,tree_importance
+all,all,구별이 안,0.0,tree_importance
+all,all,구별이,0.0,tree_importance
+all,all,굉장해 😢,0.0,tree_importance
+all,all,굉장해 .,0.0,tree_importance
+all,all,굉장해,0.0,tree_importance
+all,all,"괜찮았으면서 ,",0.0,tree_importance
+all,all,괜찮았으면서,0.0,tree_importance
+all,all,괜찮아요 .,0.0,tree_importance
+all,all,괜찮아요,0.0,tree_importance
+all,all,광야 가서,0.0,tree_importance
+all,all,관한 그,0.0,tree_importance
+all,all,구현할 수,0.0,tree_importance
+all,all,공격하지,0.0,tree_importance
+all,all,공간을,0.0,tree_importance
+all,all,계약서에 서명한,0.0,tree_importance
+all,all,계약서에,0.0,tree_importance
+all,all,계속 상기해야,0.0,tree_importance
+all,all,계속 반복돼요,0.0,tree_importance
+all,all,계속 듣는,0.0,tree_importance
+all,all,계속 더,0.0,tree_importance
+all,all,계속,0.0,tree_importance
+all,all,경우를 봤거든요,0.0,tree_importance
+all,all,경우를,0.0,tree_importance
+all,all,결론부터 내리는지,0.0,tree_importance
+all,all,결론부터,0.0,tree_importance
+all,all,결국 진짜는,0.0,tree_importance
+all,all,결국 악성,0.0,tree_importance
+all,all,결국,0.0,tree_importance
+all,all,게임도 사용한,0.0,tree_importance
+all,all,계약한,0.0,tree_importance
+all,all,공간을 뒤집어,0.0,tree_importance
+all,all,계약한 듯한,0.0,tree_importance
+all,all,고 댓글을,0.0,tree_importance
+all,all,"골짜기와 """,0.0,tree_importance
+all,all,골짜기와,0.0,tree_importance
+all,all,곡이야 !,0.0,tree_importance
+all,all,곡이야,0.0,tree_importance
+all,all,곡을 만들고,0.0,tree_importance
+all,all,곡을 내줬으면,0.0,tree_importance
+all,all,곡을,0.0,tree_importance
+all,all,곡과 비슷한,0.0,tree_importance
+all,all,곡과,0.0,tree_importance
+all,all,곡 다섯,0.0,tree_importance
+all,all,곡,0.0,tree_importance
+all,all,고민이에요 .,0.0,tree_importance
+all,all,고민이에요,0.0,tree_importance
+all,all,"고마워 ,",0.0,tree_importance
+all,all,고마워,0.0,tree_importance
+all,all,고,0.0,tree_importance
+all,all,그렇고,0.0,tree_importance
+all,all,궁금해요,0.0,tree_importance
+all,all,궁금해요 😣,0.0,tree_importance
+all,all,그러니,0.0,tree_importance
+all,all,"그랬냐 """,0.0,tree_importance
+all,all,그랬냐,0.0,tree_importance
+all,all,그래픽 어색한,0.0,tree_importance
+all,all,그래픽,0.0,tree_importance
+all,all,그래서 여러분은,0.0,tree_importance
+all,all,그래서 메이브의,0.0,tree_importance
+all,all,그래서 .,0.0,tree_importance
+all,all,그래서,0.0,tree_importance
+all,all,그래도 이것만은,0.0,tree_importance
+all,all,그래도 실제,0.0,tree_importance
+all,all,그래도 많은,0.0,tree_importance
+all,all,그래도 기술,0.0,tree_importance
+all,all,그래도 괜찮아요,0.0,tree_importance
+all,all,그래 우리는,0.0,tree_importance
+all,all,"그러니 """,0.0,tree_importance
+all,all,"그래 ,",0.0,tree_importance
+all,all,그러니 ),0.0,tree_importance
+all,all,그러니 함께,0.0,tree_importance
+all,all,그렇겠지만요,0.0,tree_importance
+all,all,그렇게 생각하지,0.0,tree_importance
+all,all,그렇게,0.0,tree_importance
+all,all,그런지는 모르겠네요,0.0,tree_importance
+all,all,그런지는,0.0,tree_importance
+all,all,그런데 젠장,0.0,tree_importance
+all,all,그런데,0.0,tree_importance
+all,all,그런 걸지도,0.0,tree_importance
+all,all,그런 건지는,0.0,tree_importance
+all,all,그런 거라고,0.0,tree_importance
+all,all,그런,0.0,tree_importance
+all,all,그러면 여러분은,0.0,tree_importance
+all,all,그러면,0.0,tree_importance
+all,all,그러다 판도라의,0.0,tree_importance
+all,all,그러다,0.0,tree_importance
+all,all,그러니 왜,0.0,tree_importance
+all,all,궁금해요 .,0.0,tree_importance
+all,all,그래 ),0.0,tree_importance
+all,all,그들의 삶과,0.0,tree_importance
+all,all,그 작품은,0.0,tree_importance
+all,all,그 영화가,0.0,tree_importance
+all,all,그 소리를,0.0,tree_importance
+all,all,그 분위기는,0.0,tree_importance
+all,all,그 목소리의,0.0,tree_importance
+all,all,그 뒤의,0.0,tree_importance
+all,all,그 노력을,0.0,tree_importance
+all,all,그 게임도,0.0,tree_importance
+all,all,그,0.0,tree_importance
+all,all,규칙 마주할,0.0,tree_importance
+all,all,규칙,0.0,tree_importance
+all,all,귀엽고 디테일이,0.0,tree_importance
+all,all,귀엽고,0.0,tree_importance
+all,all,귀에는 실제,0.0,tree_importance
+all,all,귀에는,0.0,tree_importance
+all,all,그 점이,0.0,tree_importance
+all,all,그래,0.0,tree_importance
+all,all,그냥 .,0.0,tree_importance
+all,all,그냥 사라져버리면,0.0,tree_importance
+all,all,그들의,0.0,tree_importance
+all,all,그들을 처벌하지,0.0,tree_importance
+all,all,그들을,0.0,tree_importance
+all,all,그들은 한국의,0.0,tree_importance
+all,all,그들은 너무,0.0,tree_importance
+all,all,그들은,0.0,tree_importance
+all,all,그녀를 지상으로,0.0,tree_importance
+all,all,그녀를,0.0,tree_importance
+all,all,그냥 할,0.0,tree_importance
+all,all,그냥 프로그램인지,0.0,tree_importance
+all,all,그냥 자기들만의,0.0,tree_importance
+all,all,그냥 잊어버릴,0.0,tree_importance
+all,all,그냥 이상하게,0.0,tree_importance
+all,all,그냥 연습생,0.0,tree_importance
+all,all,그냥 실패할,0.0,tree_importance
+all,all,그냥 데뷔시켰으면,0.0,tree_importance
+all,all,난 강렬하게,0.0,tree_importance
+all,all,나아가,0.0,tree_importance
+all,all,난 못,0.0,tree_importance
+all,all,느낌을,0.0,tree_importance
+all,all,느낌에 잘,0.0,tree_importance
+all,all,느낌에,0.0,tree_importance
+all,all,느낌 😂,0.0,tree_importance
+all,all,느낌 .,0.0,tree_importance
+all,all,느낌,0.0,tree_importance
+all,all,느낄 텐데,0.0,tree_importance
+all,all,느낄,0.0,tree_importance
+all,all,느껴지지 않아요,0.0,tree_importance
+all,all,느껴지지,0.0,tree_importance
+all,all,눈을 떠,0.0,tree_importance
+all,all,눈을,0.0,tree_importance
+all,all,눈에는 한국어도,0.0,tree_importance
+all,all,눈에는,0.0,tree_importance
+all,all,눈에 띄는,0.0,tree_importance
+all,all,느낌을 주지,0.0,tree_importance
+all,all,눈에,0.0,tree_importance
+all,all,느낌이,0.0,tree_importance
+all,all,느낌이 나는데,0.0,tree_importance
+all,all,다들,0.0,tree_importance
+all,all,다는 분들에게,0.0,tree_importance
+all,all,다는,0.0,tree_importance
+all,all,다가가 난,0.0,tree_importance
+all,all,다가가,0.0,tree_importance
+all,all,다 좋아할,0.0,tree_importance
+all,all,다 봤어요,0.0,tree_importance
+all,all,다,0.0,tree_importance
+all,all,늦게 합류한,0.0,tree_importance
+all,all,늦게,0.0,tree_importance
+all,all,느낌이에요 .,0.0,tree_importance
+all,all,느낌이에요,0.0,tree_importance
+all,all,느낌이라 너무,0.0,tree_importance
+all,all,느낌이라,0.0,tree_importance
+all,all,느낌이 있어요,0.0,tree_importance
+all,all,느낌이 나는,0.0,tree_importance
+all,all,눈앞의 환상의,0.0,tree_importance
+all,all,눈앞의 승리,0.0,tree_importance
+all,all,눈앞의 victory,0.0,tree_importance
+all,all,놀랍지,0.0,tree_importance
+all,all,놀랍게도 이미,0.0,tree_importance
+all,all,난 멈추지,0.0,tree_importance
+all,all,놀라운 내가,0.0,tree_importance
+all,all,놀라운,0.0,tree_importance
+all,all,녹음인가 ?,0.0,tree_importance
+all,all,녹음인가,0.0,tree_importance
+all,all,노력이 들어갔어,0.0,tree_importance
+all,all,노력이,0.0,tree_importance
+all,all,노력을 인정해,0.0,tree_importance
+all,all,노력을 인간에게,0.0,tree_importance
+all,all,노력을 쏟았다고,0.0,tree_importance
+all,all,노력을,0.0,tree_importance
+all,all,노력도 인정해,0.0,tree_importance
+all,all,노력도,0.0,tree_importance
+all,all,놀랍지 않을,0.0,tree_importance
+all,all,놀랍지도,0.0,tree_importance
+all,all,놀랍지도 않네,0.0,tree_importance
+all,all,농담은,0.0,tree_importance
+all,all,눈앞의,0.0,tree_importance
+all,all,누군데 메이브가,0.0,tree_importance
+all,all,누군데,0.0,tree_importance
+all,all,누구죠 ?,0.0,tree_importance
+all,all,누구죠,0.0,tree_importance
+all,all,누구일까요 ?,0.0,tree_importance
+all,all,누구일까요,0.0,tree_importance
+all,all,다들 봤지,0.0,tree_importance
+all,all,누구의 모습이야,0.0,tree_importance
+all,all,누가 있는지,0.0,tree_importance
+all,all,누가 이걸,0.0,tree_importance
+all,all,누가 왔을까요,0.0,tree_importance
+all,all,누가 어느,0.0,tree_importance
+all,all,누가 보컬로이드들을,0.0,tree_importance
+all,all,누가 메이브를,0.0,tree_importance
+all,all,농담은 마음대로,0.0,tree_importance
+all,all,누구의,0.0,tree_importance
+all,all,다들 에스파의,0.0,tree_importance
+all,all,다들 정말,0.0,tree_importance
+all,all,다르고,0.0,tree_importance
+all,all,대체,0.0,tree_importance
+all,all,대십자사에서 또,0.0,tree_importance
+all,all,대십자사에서,0.0,tree_importance
+all,all,대신 실제,0.0,tree_importance
+all,all,대신 목소리의,0.0,tree_importance
+all,all,대신,0.0,tree_importance
+all,all,대상화하는 것보다는,0.0,tree_importance
+all,all,대상화하는,0.0,tree_importance
+all,all,대단해요,0.0,tree_importance
+all,all,"대단하지만 ,",0.0,tree_importance
+all,all,대단하지만,0.0,tree_importance
+all,all,당황해서 최악의,0.0,tree_importance
+all,all,당황해서,0.0,tree_importance
+all,all,당장 중단하고,0.0,tree_importance
+all,all,당장,0.0,tree_importance
+all,all,대체 뭐야,0.0,tree_importance
+all,all,대체 왜,0.0,tree_importance
+all,all,대체하는,0.0,tree_importance
+all,all,대체하는 건,0.0,tree_importance
+all,all,댓이,0.0,tree_importance
+all,all,댓글을 봤는데,0.0,tree_importance
+all,all,댓글을 다는,0.0,tree_importance
+all,all,댓글을,0.0,tree_importance
+all,all,댓글에서 이,0.0,tree_importance
+all,all,댓글에서,0.0,tree_importance
+all,all,댄스 연습,0.0,tree_importance
+all,all,당연히 버추얼보다,0.0,tree_importance
+all,all,댄스,0.0,tree_importance
+all,all,대화하거나,0.0,tree_importance
+all,all,대화를 통해,0.0,tree_importance
+all,all,대화를,0.0,tree_importance
+all,all,대해 노래하는,0.0,tree_importance
+all,all,대해,0.0,tree_importance
+all,all,대한 인정을,0.0,tree_importance
+all,all,대한,0.0,tree_importance
+all,all,대화하거나 질문할,0.0,tree_importance
+all,all,노래한 가수들,0.0,tree_importance
+all,all,당연히,0.0,tree_importance
+all,all,답을,0.0,tree_importance
+all,all,다른거지,0.0,tree_importance
+all,all,다른 팬덤들은,0.0,tree_importance
+all,all,다른 콘셉트나,0.0,tree_importance
+all,all,다른 차원의,0.0,tree_importance
+all,all,다른 일도,0.0,tree_importance
+all,all,다른 이야기가,0.0,tree_importance
+all,all,다른 애니메이션에는,0.0,tree_importance
+all,all,다른 사람의,0.0,tree_importance
+all,all,다른 사람에게,0.0,tree_importance
+all,all,다른 부분에,0.0,tree_importance
+all,all,다른 나라,0.0,tree_importance
+all,all,다른 끝내주는,0.0,tree_importance
+all,all,다른 그룹과,0.0,tree_importance
+all,all,다른 것들을,0.0,tree_importance
+all,all,다르고 정말,0.0,tree_importance
+all,all,다른지,0.0,tree_importance
+all,all,다른지 잘,0.0,tree_importance
+all,all,다섯,0.0,tree_importance
+all,all,다섯 개도,0.0,tree_importance
+all,all,닮았어요 .,0.0,tree_importance
+all,all,닮았어요,0.0,tree_importance
+all,all,닮았다는 댓글을,0.0,tree_importance
+all,all,닮았다는,0.0,tree_importance
+all,all,닮았다고 생각하는,0.0,tree_importance
+all,all,닮았다고,0.0,tree_importance
+all,all,달려가 .,0.0,tree_importance
+all,all,답을 주는,0.0,tree_importance
+all,all,달려가,0.0,tree_importance
+all,all,달,0.0,tree_importance
+all,all,다음 컴백은,0.0,tree_importance
+all,all,다음,0.0,tree_importance
+all,all,다양해지고 자연스러워지면,0.0,tree_importance
+all,all,다양해지고,0.0,tree_importance
+all,all,다시 말하지만,0.0,tree_importance
+all,all,다시,0.0,tree_importance
+all,all,달 동안,0.0,tree_importance
+all,all,노래한,0.0,tree_importance
+all,all,놀랍게도,0.0,tree_importance
+all,all,남을,0.0,tree_importance
+all,all,너무 많이,0.0,tree_importance
+all,all,너무 사실적이지도,0.0,tree_importance
+all,all,너무 소름,0.0,tree_importance
+all,all,너무 유치한,0.0,tree_importance
+all,all,너무 좋아요,0.0,tree_importance
+all,all,너무 좋은,0.0,tree_importance
+all,all,너무 좋은데,0.0,tree_importance
+all,all,너무 좋잖아요,0.0,tree_importance
+all,all,너희는,0.0,tree_importance
+all,all,너희는 k팝,0.0,tree_importance
+all,all,너희는 그냥,0.0,tree_importance
+all,all,넌,0.0,tree_importance
+all,all,넌 개야,0.0,tree_importance
+all,all,넌 몰라,0.0,tree_importance
+all,all,"노래하자 ,",0.0,tree_importance
+all,all,네,0.0,tree_importance
+all,all,네 가능성,0.0,tree_importance
+all,all,날리는 표현이,0.0,tree_importance
+all,all,노래가 명곡인,0.0,tree_importance
+all,all,남기러,0.0,tree_importance
+all,all,남기러 왔어요,0.0,tree_importance
+all,all,내,0.0,tree_importance
+all,all,노래가 머릿속에서,0.0,tree_importance
+all,all,너무 많은,0.0,tree_importance
+all,all,노래 정말,0.0,tree_importance
+all,all,노래,0.0,tree_importance
+all,all,네이비스를 듣고,0.0,tree_importance
+all,all,네이비스를,0.0,tree_importance
+all,all,남을 수,0.0,tree_importance
+all,all,네게 필요한,0.0,tree_importance
+all,all,네게,0.0,tree_importance
+all,all,노래 완전,0.0,tree_importance
+all,all,노래가 에스파의,0.0,tree_importance
+all,all,너무 로봇,0.0,tree_importance
+all,all,"너무 """,0.0,tree_importance
+all,all,내 마음에,0.0,tree_importance
+all,all,내 이름을,0.0,tree_importance
+all,all,내 취향저격인디,0.0,tree_importance
+all,all,내가,0.0,tree_importance
+all,all,내가 너를,0.0,tree_importance
+all,all,내가 정상에,0.0,tree_importance
+all,all,내게는,0.0,tree_importance
+all,all,낫지,0.0,tree_importance
+all,all,낫거든 .,0.0,tree_importance
+all,all,내게는 얘네도,0.0,tree_importance
+all,all,내내,0.0,tree_importance
+all,all,내내 머릿속에서,0.0,tree_importance
+all,all,내놓고,0.0,tree_importance
+all,all,내놓고 그냥,0.0,tree_importance
+all,all,내리는지,0.0,tree_importance
+all,all,내리는지 모르겠지만,0.0,tree_importance
+all,all,내줘서,0.0,tree_importance
+all,all,너를 잡아,0.0,tree_importance
+all,all,너를 자유롭게,0.0,tree_importance
+all,all,너를 사랑해,0.0,tree_importance
+all,all,너를 몰아쳐,0.0,tree_importance
+all,all,너를,0.0,tree_importance
+all,all,너 싫어,0.0,tree_importance
+all,all,너무 닮았어요,0.0,tree_importance
+all,all,낫거든,0.0,tree_importance
+all,all,너,0.0,tree_importance
+all,all,냉정하지만 우리는,0.0,tree_importance
+all,all,냉정하지만,0.0,tree_importance
+all,all,내줬으면 좋겠어,0.0,tree_importance
+all,all,내줬으면,0.0,tree_importance
+all,all,내줘서 고마워,0.0,tree_importance
+all,all,너 난,0.0,tree_importance
+all,all,노래가 재미있고,0.0,tree_importance
+all,all,낫지 않을까요,0.0,tree_importance
+all,all,노래를 부른,0.0,tree_importance
+all,all,노래하는 가수들의,0.0,tree_importance
+all,all,난 유일무이해,0.0,tree_importance
+all,all,노래라고,0.0,tree_importance
+all,all,노래하고 춤추는,0.0,tree_importance
+all,all,난 정말,0.0,tree_importance
+all,all,노래라고 생각했는데,0.0,tree_importance
+all,all,노래하고 애니메이션,0.0,tree_importance
+all,all,노래하고,0.0,tree_importance
+all,all,노래랑,0.0,tree_importance
+all,all,노래랑 분위기가,0.0,tree_importance
+all,all,노래를,0.0,tree_importance
+all,all,노래인데 정말,0.0,tree_importance
+all,all,노래인데,0.0,tree_importance
+all,all,노래의 주요,0.0,tree_importance
+all,all,노래가 좋네,0.0,tree_importance
+all,all,난 저항하는,0.0,tree_importance
+all,all,노래를 싫어하는,0.0,tree_importance
+all,all,노래의,0.0,tree_importance
+all,all,노래와 영상,0.0,tree_importance
+all,all,노래를 잘하네요,0.0,tree_importance
+all,all,노래와,0.0,tree_importance
+all,all,노래에,0.0,tree_importance
+all,all,노래였기 때문입니다,0.0,tree_importance
+all,all,노래도 좋은데,0.0,tree_importance
+all,all,노래였기,0.0,tree_importance
+all,all,노래도 정말,0.0,tree_importance
+all,all,노래는 중독성,0.0,tree_importance
+all,all,노래하자,0.0,tree_importance
+all,all,날리는,0.0,tree_importance
+all,all,노래는 내,0.0,tree_importance
+all,all,노래는 리그,0.0,tree_importance
+all,all,날 짓밟아도,0.0,tree_importance
+all,all,노래는 사실,0.0,tree_importance
+all,all,노래하는 예술가들의,0.0,tree_importance
+all,all,날 따라와,0.0,tree_importance
+all,all,노래는 엄청나게,0.0,tree_importance
+all,all,노래하는 실제,0.0,tree_importance
+all,all,노래하는 사람이,0.0,tree_importance
+all,all,노래도,0.0,tree_importance
+all,all,난 신경,0.0,tree_importance
+all,all,노래하는 사람은,0.0,tree_importance
+all,all,노래는 오스,0.0,tree_importance
+all,all,노래는 인기가,0.0,tree_importance
+all,all,노래는 정말,0.0,tree_importance
+all,all,노래하는 사람들이,0.0,tree_importance
+all,all,노래하는 것에,0.0,tree_importance
+all,all,노래는 좋네,0.0,tree_importance
+all,all,날,0.0,tree_importance
+all,all,노래하는 것,0.0,tree_importance
+all,all,노래는 좋아요,0.0,tree_importance
+all,all,노래는 에스파의,0.0,tree_importance
+all,all,노래에 완전히,0.0,tree_importance
+all,all,보고,0.00065367867,tree_importance
+all,all,. 하지만,0.0008856254,tree_importance
+all,all,실제,0.002746668,tree_importance
+all,all,메이브는,0.004487583,tree_importance
+all,all,너무,0.0051082536,tree_importance
+all,all,것,0.0052015153,tree_importance
+all,all,그래도,0.0052191014,tree_importance
+all,all,누가,0.005300927,tree_importance
+all,all,악의는,0.0061320616,tree_importance
+all,all,😂,0.006155828,tree_importance
+all,all,💀,0.0062600356,tree_importance
+all,all,. .,0.0063652894,tree_importance
+all,all,노래가,0.0065607475,tree_importance
+all,all,ai가,0.0066359113,tree_importance
+all,all,",",0.006722951,tree_importance
+all,all,끝내주는,0.007037427,tree_importance
+all,all,좋은데,0.007148245,tree_importance
+all,all,:,0.007428412,tree_importance
+all,all,음악은,0.007631512,tree_importance
+all,all,부분이,0.008614384,tree_importance
+all,all,더,0.008699138,tree_importance
+all,all,무슨,0.00939112,tree_importance
+all,all,이건,0.009524758,tree_importance
+all,all,걸,0.009584327,tree_importance
+all,all,✨,0.00967178,tree_importance
+all,all,그냥,0.009677772,tree_importance
+all,all,.,0.009905596,tree_importance
+all,all,. 이,0.010053585,tree_importance
+all,all,다른,0.010798562,tree_importance
+all,all,!,0.011019678,tree_importance
+all,all,노래하는,0.012483007,tree_importance
+all,all,?,0.012691571,tree_importance
+all,all,좋은,0.012781286,tree_importance
+all,all,정말,0.012836541,tree_importance
+all,all,같아요,0.013680216,tree_importance
+all,all,이,0.014056281,tree_importance
+all,all,감정,0.014323331,tree_importance
+all,all,만드는,0.0143746715,tree_importance
+all,all,않아요,0.014474288,tree_importance
+all,all,진짜,0.014525435,tree_importance
+all,all,왜,0.014959645,tree_importance
+all,all,있는,0.014997913,tree_importance
+all,all,건,0.015135151,tree_importance
+all,all,거야,0.015142928,tree_importance
+all,all,잘,0.016438283,tree_importance
+all,all,안,0.016587457,tree_importance
+all,all,노래는,0.016635766,tree_importance
+all,all,/ da의,0.016880693,tree_importance
+all,all,게,0.017196301,tree_importance
+all,all,한,0.017223198,tree_importance
+all,all,😢,0.017771762,tree_importance
+all,all,사람들이,0.018142147,tree_importance
+all,all,하지만,0.01832597,tree_importance
+all,all,수,0.019607093,tree_importance
+all,all,🤡,0.020308407,tree_importance
+all,all,마음에,0.022103556,tree_importance
+all,all,두,0.024891304,tree_importance
+all,all,됐어,0.025505217,tree_importance
+all,all,모든,0.026693381,tree_importance
+all,all,없어,0.027790477,tree_importance
+all,all,이제,0.029466378,tree_importance
+all,all,모두,0.029509338,tree_importance
+all,all,-,0.029988194,tree_importance
+all,all,(,0.039850995,tree_importance
+all,all,봐,0.042491734,tree_importance
+all,all,않은,0.04386568,tree_importance
+all,all,같은,0.05564195,tree_importance

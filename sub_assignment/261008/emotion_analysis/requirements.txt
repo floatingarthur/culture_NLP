@@ -1,0 +1,6 @@
+# Python 3.11/3.12; retain the Week06 versions and add boosting.
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.8.0
+matplotlib==3.10.8
+xgboost==3.1.2
